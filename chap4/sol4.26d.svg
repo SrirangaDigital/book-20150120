@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:ns0="http://www.iki.fi/pav/software/textext/"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="354.33069"
+   height="354.33069"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="sol4.26d.svg">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="4.8460907"
+     inkscape:cx="176.54659"
+     inkscape:cy="201.24604"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="744"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:object-nodes="true"
+     units="cm">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3814"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mstart"
+       style="overflow:visible">
+      <path
+         id="path3599"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(0.4,0,0,0.4,4,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend"
+       style="overflow:visible">
+      <path
+         id="path3602"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-698.03017)">
+    <path
+       style="color:#000000;fill:none;stroke:#000000;stroke-width:0.69999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-end:url(#Arrow1Mend);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 120,912.36086 0,-115"
+       id="path2816"
+       inkscape:connector-curvature="0" />
+    <path
+       style="color:#000000;fill:none;stroke:#000000;stroke-width:0.69999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-start:url(#Arrow1Mstart);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 240,842.36088 -120,0"
+       id="path4038"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <g
+       transform="matrix(1.2,0,0,1.2,-157.72138,633.06953)"
+       ns0:text="$v_{i}$"
+       ns0:preamble="/home/sriranga/Desktop/Projects/running-project/Prism-Modern-Control-Theory/package.tex"
+       id="g4050">
+      <defs
+         id="defs4052">
+        <g
+           id="g4054">
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="textext-80ad67bb-0">
+            <path
+               style="stroke:none"
+               d=""
+               id="path4057"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="textext-80ad67bb-1">
+            <path
+               style="stroke:none"
+               d="M 0.203125,-4.015625 C 0.3125,-4.03125 0.40625,-4.03125 0.515625,-4.03125 c 0.375,0 0.484375,0.171875 0.625,1.09375 0.09375,0.6875 0.21875,2.1875 0.21875,2.765625 0,0.28125 0.015625,0.34375 0.09375,0.34375 0.234375,0 1.171875,-1.046875 2.1875,-2.46875 C 3.984375,-2.796875 4.25,-3.4375 4.25,-3.8125 c 0,-0.3125 -0.265625,-0.578125 -0.5625,-0.578125 -0.21875,0 -0.375,0.125 -0.375,0.328125 0,0.171875 0.0625,0.28125 0.25,0.4375 0.125,0.125 0.171875,0.203125 0.171875,0.3125 0,0.453125 -0.65625,1.5625 -1.359375,2.296875 l -0.3125,0.3125 C 2,-2.109375 1.9375,-2.625 1.796875,-3.359375 c -0.1875,-1.015625 -0.1875,-1.03125 -0.28125,-1.03125 -0.046875,0 -0.125,0 -0.203125,0.03125 -0.171875,0.046875 -0.71875,0.15625 -1.109375,0.21875 l 0,0.125 z m 0,0"
+               id="path4060"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="textext-80ad67bb-2">
+            <path
+               style="stroke:none"
+               d=""
+               id="path4063"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="textext-80ad67bb-3">
+            <path
+               style="stroke:none"
+               d="M 1.546875,-0.796875 C 1.375,-0.578125 1.328125,-0.515625 1.265625,-0.4375 1.140625,-0.328125 1.03125,-0.25 0.96875,-0.25 c -0.046875,0 -0.109375,-0.0625 -0.109375,-0.109375 0,-0.0625 0.03125,-0.171875 0.078125,-0.296875 0,-0.03125 0.015625,-0.078125 0.03125,-0.125 l 0,-0.015625 0,-0.015625 0.625,-2.25 L 1.5625,-3.078125 C 0.859375,-2.9375 0.71875,-2.921875 0.453125,-2.90625 l 0,0.125 c 0.375,0 0.4375,0.015625 0.4375,0.15625 0,0.0625 -0.015625,0.171875 -0.0625,0.3125 L 0.5,-1.078125 c -0.109375,0.40625 -0.15625,0.625 -0.15625,0.75 0,0.265625 0.109375,0.40625 0.3125,0.40625 0.328125,0 0.578125,-0.203125 0.984375,-0.796875 L 1.546875,-0.796875 z M 1.484375,-4.5625 c -0.1875,0 -0.328125,0.171875 -0.328125,0.375 0,0.21875 0.140625,0.375 0.34375,0.375 0.171875,0 0.34375,-0.171875 0.34375,-0.359375 C 1.84375,-4.375 1.671875,-4.5625 1.484375,-4.5625 z m 0,0"
+               id="path4066"
+               inkscape:connector-curvature="0" />
+          </symbol>
+        </g>
+      </defs>
+      <g
+         id="textext-80ad67bb-4">
+        <g
+           style="fill:#000000;fill-opacity:1"
+           id="g4069">
+          <use
+             height="1052.3622"
+             width="744.09448"
+             xlink:href="#textext-80ad67bb-1"
+             x="223.43201"
+             y="134.765"
+             id="use4071" />
+        </g>
+        <g
+           style="fill:#000000;fill-opacity:1"
+           id="g4073">
+          <use
+             height="1052.3622"
+             width="744.09448"
+             xlink:href="#textext-80ad67bb-3"
+             x="227.856"
+             y="136.259"
+             id="use4075" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g4159"
+       transform="matrix(1.2,0,0,1.2,-158.40394,684.72066)"
+       ns0:preamble="/home/sriranga/Desktop/Projects/running-project/Prism-Modern-Control-Theory/package.tex"
+       ns0:text="$0$">
+      <defs
+         id="defs4161">
+        <g
+           id="g4163">
+          <symbol
+             id="textext-efdd9d2f-0"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path4166"
+               d=""
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             id="textext-efdd9d2f-1"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path4169"
+               d="m 2.53125,-6.734375 c -0.546875,0 -0.96875,0.171875 -1.328125,0.515625 -0.578125,0.5625 -0.96875,1.703125 -0.96875,2.875 0,1.078125 0.328125,2.25 0.796875,2.8125 0.375,0.4375 0.875,0.671875 1.46875,0.671875 0.5,0 0.921875,-0.171875 1.28125,-0.515625 C 4.359375,-0.921875 4.75,-2.078125 4.75,-3.296875 c 0,-2.03125 -0.90625,-3.4375 -2.21875,-3.4375 z m -0.03125,0.25 c 0.84375,0 1.28125,1.125 1.28125,3.21875 0,2.078125 -0.4375,3.140625 -1.28125,3.140625 -0.859375,0 -1.296875,-1.0625 -1.296875,-3.140625 0,-2.109375 0.4375,-3.21875 1.296875,-3.21875 z m 0,0"
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+        </g>
+      </defs>
+      <g
+         id="textext-efdd9d2f-2">
+        <g
+           id="g4172"
+           style="fill:#000000;fill-opacity:1">
+          <use
+             id="use4174"
+             y="134.765"
+             x="223.43201"
+             xlink:href="#textext-efdd9d2f-1"
+             width="744.09448"
+             height="1052.3622" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g4488"
+       transform="translate(-87.857143,377.4987)">
+      <text
+         sodipodi:linespacing="125%"
+         id="text4230"
+         y="513.79077"
+         x="272.14285"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:LMRoman12;-inkscape-font-specification:LMRoman12"
+         xml:space="preserve"><tspan
+           y="513.79077"
+           x="272.14285"
+           id="tspan4232"
+           sodipodi:role="line">Slope = </tspan></text>
+      <g
+         ns0:text="$-\\,4$"
+         ns0:preamble="/home/sriranga/Desktop/Projects/running-project/Prism-Modern-Control-Theory/package.tex"
+         transform="matrix(1.2,0,0,1.2,47.596061,352.22195)"
+         id="g4409">
+        <defs
+           id="defs4411">
+          <g
+             id="g4413">
+            <symbol
+               style="overflow:visible"
+               overflow="visible"
+               id="textext-4d5853ac-0">
+              <path
+                 style="stroke:none"
+                 d=""
+                 id="path4416"
+                 inkscape:connector-curvature="0" />
+            </symbol>
+            <symbol
+               style="overflow:visible"
+               overflow="visible"
+               id="textext-4d5853ac-1">
+              <path
+                 style="stroke:none"
+                 d="m 5.71875,-2.28125 0,-0.5625 -5.09375,0 0,0.5625 5.09375,0 z m 0,0"
+                 id="path4419"
+                 inkscape:connector-curvature="0" />
+            </symbol>
+            <symbol
+               style="overflow:visible"
+               overflow="visible"
+               id="textext-4d5853ac-2">
+              <path
+                 style="stroke:none"
+                 d=""
+                 id="path4422"
+                 inkscape:connector-curvature="0" />
+            </symbol>
+            <symbol
+               style="overflow:visible"
+               overflow="visible"
+               id="textext-4d5853ac-3">
+              <path
+                 style="stroke:none"
+                 d="m 4.703125,-2.296875 -1.015625,0 0,-4.4375 -0.4375,0 -3.125,4.4375 0,0.625 2.796875,0 0,1.671875 0.765625,0 0,-1.671875 1.015625,0 0,-0.625 z m -1.796875,0 -2.390625,0 2.390625,-3.421875 0,3.421875 z m 0,0"
+                 id="path4425"
+                 inkscape:connector-curvature="0" />
+            </symbol>
+          </g>
+        </defs>
+        <g
+           id="textext-4d5853ac-4">
+          <g
+             style="fill:#000000;fill-opacity:1"
+             id="g4428">
+            <use
+               height="1052.3622"
+               width="744.09448"
+               xlink:href="#textext-4d5853ac-1"
+               x="223.43201"
+               y="134.765"
+               id="use4430" />
+          </g>
+          <g
+             style="fill:#000000;fill-opacity:1"
+             id="g4432">
+            <use
+               height="1052.3622"
+               width="744.09448"
+               xlink:href="#textext-4d5853ac-3"
+               x="231.429"
+               y="134.765"
+               id="use4434" />
+          </g>
+        </g>
+      </g>
+    </g>
+    <path
+       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:1.20000005;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 185.26787,907.62875 -65,-65"
+       id="path3816"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>

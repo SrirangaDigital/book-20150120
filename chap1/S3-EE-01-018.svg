@@ -1,0 +1,512 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:ns0="http://www.iki.fi/pav/software/textext/"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg3252"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="S3-EE-01-018.eps">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.6492165"
+     inkscape:cx="290.05499"
+     inkscape:cy="382.21519"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="744"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:object-nodes="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3097" />
+  </sodipodi:namedview>
+  <defs
+     id="defs3254">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective3260" />
+    <inkscape:perspective
+       id="perspective3270"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <metadata
+     id="metadata3257">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path24"
+       style="fill:none;stroke:#231f20;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.88317132;stroke-opacity:1;stroke-dasharray:none"
+       d="m 205,727.36218 171.015,0 0,-98.12751 -171.015,0 0,98.12751 z"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path32"
+       style="fill:none;stroke:#231f20;stroke-width:1.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.88317132;stroke-opacity:1;stroke-dasharray:none"
+       d="m 205,679.6898 0,5.8325"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path34"
+       style="fill:none;stroke:#231f20;stroke-width:1.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.88317132;stroke-opacity:1;stroke-dasharray:none"
+       d="m 205,671.07405 0,5.833"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path36"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 371.39187,698.4413 9.33497,0 0,-40.564 -9.33497,0 0,40.564 z"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path38"
+       style="fill:none;stroke:#231f20;stroke-width:1.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.88317132;stroke-opacity:1;stroke-dasharray:none"
+       d="m 376.01562,698.71955 0,-4.51563 -4.62375,-1.96287 9.335,-3.9365 -9.335,-3.99413 9.335,-3.99662 -9.335,-3.938 9.335,-3.90375 -9.335,-3.938 9.21625,-3.99663 -4.5925,-1.91162 0,-4.7485"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path40"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 270.08638,633.8588 40.56399,0 0,-9.33594 -40.56399,0 0,9.33594 z"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path42"
+       style="fill:none;stroke:#231f20;stroke-width:1.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.88317132;stroke-opacity:1;stroke-dasharray:none"
+       d="m 310.92875,629.23467 -4.51525,0 -1.96287,4.62413 -3.937,-9.336 -3.99413,9.336 -3.99662,-9.336 -3.93788,9.336 -3.90387,-9.336 -3.938,9.336 -3.9965,-9.21638 -1.91163,4.59225 -4.74862,0"
+       inkscape:connector-curvature="0" />
+    <g
+       transform="matrix(0.12469235,-0.00876462,-0.00876462,-0.12469235,188.87762,734.7754)"
+       id="g2890"
+       style="stroke-width:10;stroke-miterlimit:3.88317132;stroke-dasharray:none">
+      <path
+         d="m 776.312,316.902 c -49.316,49.297 -49.316,129.239 0,178.559 49.297,49.297 129.258,49.297 178.555,0 49.313,-49.32 49.313,-129.262 0,-178.559"
+         style="fill:none;stroke:#231f20;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.88317132;stroke-opacity:1;stroke-dasharray:none"
+         id="path44"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 957.719,319.746 16.164,-3.945 -0.117,-0.567 -22.903,-9.875 c -6.972,-4.453 -13.945,-8.906 -20.906,-13.355 4.453,6.961 8.906,13.926 13.367,20.894 l 9.883,22.903 0.508,0.168 4.004,-16.223"
+         style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path46"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       transform="matrix(1.2,0,0,1.2,-7.818176,479.61503)"
+       ns0:text="$+$"
+       ns0:preamble="/home/sriranga/Desktop/Umrani-2nd-puc-2013/package.tex"
+       id="g4718">
+      <defs
+         id="defs4720">
+        <g
+           id="g4722">
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="textext-a34fe983-0">
+            <path
+               style="stroke:none"
+               d=""
+               id="path4725"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="textext-a34fe983-1">
+            <path
+               style="stroke:none"
+               d="m 4.078125,-2.296875 2.78125,0 C 7,-2.296875 7.1875,-2.296875 7.1875,-2.5 7.1875,-2.6875 7,-2.6875 6.859375,-2.6875 l -2.78125,0 0,-2.796875 c 0,-0.140625 0,-0.328125 -0.203125,-0.328125 -0.203125,0 -0.203125,0.1875 -0.203125,0.328125 l 0,2.796875 -2.78125,0 c -0.140625,0 -0.328125,0 -0.328125,0.1875 0,0.203125 0.1875,0.203125 0.328125,0.203125 l 2.78125,0 0,2.796875 c 0,0.140625 0,0.328125 0.203125,0.328125 0.203125,0 0.203125,-0.1875 0.203125,-0.328125 l 0,-2.796875 z m 0,0"
+               id="path4728"
+               inkscape:connector-curvature="0" />
+          </symbol>
+        </g>
+      </defs>
+      <g
+         id="textext-a34fe983-2">
+        <g
+           style="fill:#000000;fill-opacity:1"
+           id="g4731">
+          <use
+             height="1052.3622"
+             width="744.09448"
+             xlink:href="#textext-a34fe983-1"
+             x="223.43201"
+             y="134.765"
+             id="use4733" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g4929"
+       transform="matrix(1.2,0,0,1.2,41.191976,479.61503)"
+       ns0:preamble="/home/sriranga/Desktop/Umrani-2nd-puc-2013/package.tex"
+       ns0:text="$-$">
+      <defs
+         id="defs4931">
+        <g
+           id="g4933">
+          <symbol
+             id="textext-2ad6819c-0"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path4936"
+               d=""
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             id="textext-2ad6819c-1"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path4939"
+               d="m 6.5625,-2.296875 c 0.171875,0 0.359375,0 0.359375,-0.203125 0,-0.1875 -0.1875,-0.1875 -0.359375,-0.1875 l -5.390625,0 c -0.171875,0 -0.34375,0 -0.34375,0.1875 0,0.203125 0.171875,0.203125 0.34375,0.203125 l 5.390625,0 z m 0,0"
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+        </g>
+      </defs>
+      <g
+         id="textext-2ad6819c-2">
+        <g
+           id="g4942"
+           style="fill:#000000;fill-opacity:1">
+          <use
+             id="use4944"
+             y="134.765"
+             x="223.43201"
+             xlink:href="#textext-2ad6819c-1"
+             width="744.09448"
+             height="1052.3622" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g5042"
+       ns0:preamble="/home/sriranga/Desktop/Umrani-2nd-puc-2013/package.tex"
+       ns0:text="$+$"
+       transform="matrix(1.2,0,0,1.2,87.89611,501.06564)">
+      <defs
+         id="defs5044">
+        <g
+           id="g5046">
+          <symbol
+             id="symbol5048"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path5050"
+               d=""
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             id="symbol5052"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path5054"
+               d="m 4.078125,-2.296875 2.78125,0 C 7,-2.296875 7.1875,-2.296875 7.1875,-2.5 7.1875,-2.6875 7,-2.6875 6.859375,-2.6875 l -2.78125,0 0,-2.796875 c 0,-0.140625 0,-0.328125 -0.203125,-0.328125 -0.203125,0 -0.203125,0.1875 -0.203125,0.328125 l 0,2.796875 -2.78125,0 c -0.140625,0 -0.328125,0 -0.328125,0.1875 0,0.203125 0.1875,0.203125 0.328125,0.203125 l 2.78125,0 0,2.796875 c 0,0.140625 0,0.328125 0.203125,0.328125 0.203125,0 0.203125,-0.1875 0.203125,-0.328125 l 0,-2.796875 z m 0,0"
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+        </g>
+      </defs>
+      <g
+         id="g5056">
+        <g
+           id="g5058"
+           style="fill:#000000;fill-opacity:1">
+          <use
+             id="use5060"
+             y="134.765"
+             x="223.43201"
+             xlink:href="#textext-a34fe983-1"
+             width="744.09448"
+             height="1052.3622" />
+        </g>
+      </g>
+    </g>
+    <g
+       ns0:text="$-$"
+       ns0:preamble="/home/sriranga/Desktop/Umrani-2nd-puc-2013/package.tex"
+       transform="matrix(1.2,0,0,1.2,87.620548,539.07096)"
+       id="g5062">
+      <defs
+         id="defs5064">
+        <g
+           id="g5066">
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="symbol5068">
+            <path
+               style="stroke:none"
+               d=""
+               id="path5070"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="symbol5072">
+            <path
+               style="stroke:none"
+               d="m 6.5625,-2.296875 c 0.171875,0 0.359375,0 0.359375,-0.203125 0,-0.1875 -0.1875,-0.1875 -0.359375,-0.1875 l -5.390625,0 c -0.171875,0 -0.34375,0 -0.34375,0.1875 0,0.203125 0.171875,0.203125 0.34375,0.203125 l 5.390625,0 z m 0,0"
+               id="path5074"
+               inkscape:connector-curvature="0" />
+          </symbol>
+        </g>
+      </defs>
+      <g
+         id="g5076">
+        <g
+           style="fill:#000000;fill-opacity:1"
+           id="g5078">
+          <use
+             height="1052.3622"
+             width="744.09448"
+             xlink:href="#textext-2ad6819c-1"
+             x="223.43201"
+             y="134.765"
+             id="use5080" />
+        </g>
+      </g>
+    </g>
+    <path
+       id="path28"
+       style="fill:none;stroke:#231f20;stroke-width:1.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.88317132;stroke-opacity:1;stroke-dasharray:none"
+       d="m 211.44625,675.03205 -12.893,0"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path30"
+       style="fill:none;stroke:#231f20;stroke-width:1.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.88317132;stroke-opacity:1;stroke-dasharray:none"
+       d="m 208.9805,679.45179 -7.9615,0"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path26"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 198.64254,678.84707 12.89313,0 0,-3.19825 -12.89313,0 0,3.19825 z"
+       inkscape:connector-curvature="0" />
+    <g
+       transform="matrix(1.2,0,0,1.2,-75.934179,503.25789)"
+       ns0:text="$+$"
+       ns0:preamble="/home/sriranga/Desktop/Umrani-2nd-puc-2013/package.tex"
+       id="g3096">
+      <defs
+         id="defs3098">
+        <g
+           id="g3100">
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="symbol3102">
+            <path
+               inkscape:connector-curvature="0"
+               style="stroke:none"
+               d=""
+               id="path3104" />
+          </symbol>
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="symbol3106">
+            <path
+               inkscape:connector-curvature="0"
+               style="stroke:none"
+               d="m 4.078125,-2.296875 2.78125,0 C 7,-2.296875 7.1875,-2.296875 7.1875,-2.5 7.1875,-2.6875 7,-2.6875 6.859375,-2.6875 l -2.78125,0 0,-2.796875 c 0,-0.140625 0,-0.328125 -0.203125,-0.328125 -0.203125,0 -0.203125,0.1875 -0.203125,0.328125 l 0,2.796875 -2.78125,0 c -0.140625,0 -0.328125,0 -0.328125,0.1875 0,0.203125 0.1875,0.203125 0.328125,0.203125 l 2.78125,0 0,2.796875 c 0,0.140625 0,0.328125 0.203125,0.328125 0.203125,0 0.203125,-0.1875 0.203125,-0.328125 l 0,-2.796875 z m 0,0"
+               id="path3108" />
+          </symbol>
+        </g>
+      </defs>
+      <g
+         id="g3110">
+        <g
+           style="fill:#000000;fill-opacity:1"
+           id="g3112">
+          <use
+             height="1052.3622"
+             width="744.09448"
+             xlink:href="#textext-a34fe983-1"
+             x="223.43201"
+             y="134.765"
+             id="use3114" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g3116"
+       transform="matrix(1.2,0,0,1.2,-76.209741,534.68646)"
+       ns0:preamble="/home/sriranga/Desktop/Umrani-2nd-puc-2013/package.tex"
+       ns0:text="$-$">
+      <defs
+         id="defs3118">
+        <g
+           id="g3120">
+          <symbol
+             id="symbol3122"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               inkscape:connector-curvature="0"
+               id="path3124"
+               d=""
+               style="stroke:none" />
+          </symbol>
+          <symbol
+             id="symbol3126"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               inkscape:connector-curvature="0"
+               id="path3128"
+               d="m 6.5625,-2.296875 c 0.171875,0 0.359375,0 0.359375,-0.203125 0,-0.1875 -0.1875,-0.1875 -0.359375,-0.1875 l -5.390625,0 c -0.171875,0 -0.34375,0 -0.34375,0.1875 0,0.203125 0.171875,0.203125 0.34375,0.203125 l 5.390625,0 z m 0,0"
+               style="stroke:none" />
+          </symbol>
+        </g>
+      </defs>
+      <g
+         id="g3130">
+        <g
+           id="g3132"
+           style="fill:#000000;fill-opacity:1">
+          <use
+             id="use3134"
+             y="134.765"
+             x="223.43201"
+             xlink:href="#textext-2ad6819c-1"
+             width="744.09448"
+             height="1052.3622" />
+        </g>
+      </g>
+    </g>
+    <g
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:normal;word-spacing:normal;text-anchor:start;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10.43299961;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       ns0:preamble="/home/sriranga/Desktop/UBM-2014/package.tex"
+       ns0:text="$I$"
+       word-spacing="normal"
+       letter-spacing="normal"
+       font-size-adjust="none"
+       font-stretch="normal"
+       font-weight="normal"
+       font-variant="normal"
+       font-style="normal"
+       stroke-miterlimit="10.433"
+       xml:space="preserve"
+       transform="matrix(1.2,0,0,-1.2,23.056276,1527.498)"
+       id="content"><path
+         id="path5103"
+         d="m 223.6,707.12 h 2.43 v 0.16 c -0.57,0.07 -0.68,0.13 -0.68,0.41 0,0.19 0.02,0.31 0.11,0.63 l 1.23,4.4 c 0.18,0.57 0.24,0.63 0.81,0.73 v 0.16 h -2.46 v -0.16 c 0.58,-0.07 0.7,-0.15 0.7,-0.42 0,-0.14 -0.04,-0.37 -0.11,-0.62 l -1.22,-4.39 c -0.18,-0.58 -0.25,-0.64 -0.81,-0.74 z"
+         inkscape:connector-curvature="0"
+         style="fill:#000000;stroke-width:0" /></g>  </g>
+  <g
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:normal;word-spacing:normal;text-anchor:start;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10.43299961;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+     id="g5105"
+     transform="matrix(1.2,0,0,-1.2,18.07821,1468.6388)"
+     xml:space="preserve"
+     stroke-miterlimit="10.433"
+     font-style="normal"
+     font-variant="normal"
+     font-weight="normal"
+     font-stretch="normal"
+     font-size-adjust="none"
+     letter-spacing="normal"
+     word-spacing="normal"
+     ns0:text="$R_1$"
+     ns0:preamble="/home/sriranga/Desktop/UBM-2014/package.tex"><path
+       style="fill:#000000;stroke-width:0"
+       inkscape:connector-curvature="0"
+       d="m 229.07,707.28 -0.04,0.01 -0.04,0 -0.03,0.01 -0.04,0 -0.04,0.01 -0.03,0.01 -0.03,0.01 -0.03,0.01 -0.03,0.01 -0.03,0.01 -0.03,0.01 -0.03,0.02 -0.03,0.01 -0.02,0.02 -0.03,0.02 -0.02,0.02 -0.03,0.02 -0.02,0.02 -0.02,0.03 -0.02,0.02 -0.02,0.03 -0.03,0.03 -0.02,0.03 -0.02,0.03 -0.01,0.04 -0.02,0.03 -0.02,0.04 -0.02,0.04 -0.02,0.04 -0.02,0.05 -0.02,0.04 -0.01,0.05 -0.93,2.43 c 0.77,0.17 1.1,0.31 1.45,0.63 0.33,0.29 0.51,0.67 0.51,1.12 0,0.92 -0.73,1.43 -2.07,1.43 l -0.21,-0.3 c 0.83,0 1.24,-0.37 1.24,-1.11 0,-0.98 -0.64,-1.49 -1.88,-1.49 -0.16,0 -0.27,0.01 -0.51,0.05 l 0.65,2.28 c 0.06,0.2 0.18,0.27 0.5,0.27 l 0.21,0.3 h -2.47 v -0.16 c 0.42,-0.06 0.47,-0.07 0.57,-0.14 0.08,-0.05 0.14,-0.16 0.14,-0.27 0,-0.12 -0.05,-0.36 -0.12,-0.63 l -1.22,-4.39 c -0.18,-0.59 -0.25,-0.65 -0.81,-0.74 v -0.16 h 2.43 v 0.16 c -0.61,0.08 -0.68,0.13 -0.68,0.46 0,0.1 0.03,0.23 0.12,0.58 l 0.56,2.07 0.65,-0.05 1.22,-3.22 h 1.47 z"
+       id="path4348" /><path
+       style="fill:#000000;stroke-width:0"
+       inkscape:connector-curvature="0"
+       d="m 231.55,710.33 -1.26,-0.63 v -0.1 c 0.09,0.04 0.16,0.06 0.19,0.08 0.12,0.05 0.24,0.08 0.31,0.08 0.15,0 0.21,-0.11 0.21,-0.33 v -3.15 c 0,-0.23 -0.05,-0.39 -0.16,-0.45 -0.11,-0.07 -0.21,-0.09 -0.5,-0.1 v -0.1 h 1.92 v 0.1 c -0.55,0.01 -0.66,0.08 -0.66,0.42 v 4.17 z"
+       id="path4350" /></g>  <g
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:normal;word-spacing:normal;text-anchor:start;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10.43299961;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+     ns0:preamble="/home/sriranga/Desktop/UBM-2014/package.tex"
+     ns0:text="$R_2$"
+     text-anchor="start"
+     word-spacing="normal"
+     letter-spacing="normal"
+     font-size-adjust="none"
+     font-stretch="normal"
+     font-weight="normal"
+     font-variant="normal"
+     font-style="normal"
+     fill-opacity="1"
+     fill-rule="evenodd"
+     fill="none"
+     stroke-opacity="1"
+     stroke-dashoffset="0"
+     stroke-dasharray="none"
+     stroke-miterlimit="10.433"
+     stroke-linejoin="miter"
+     stroke-linecap="butt"
+     stroke="black"
+     xml:space="preserve"
+     transform="matrix(1.2,0,0,-1.2,117.41524,1528.1389)"
+     id="g4624"><path
+       id="path4626"
+       fill="black"
+       stroke-width="0"
+       d="M229.07,707.28 L229.03,707.29 L228.99,707.29 L228.96,707.3 L228.92,707.3 L228.88,707.31 L228.85,707.32 L228.82,707.33 L228.79,707.34 L228.76,707.35 L228.73,707.36 L228.7,707.37 L228.67,707.39 L228.64,707.4 L228.62,707.42 L228.59,707.44 L228.57,707.46 L228.54,707.48 L228.52,707.5 L228.5,707.53 L228.48,707.55 L228.46,707.58 L228.43,707.61 L228.41,707.64 L228.39,707.67 L228.38,707.71 L228.36,707.74 L228.34,707.78 L228.32,707.82 L228.3,707.86 L228.28,707.91 L228.26,707.95 L228.25,708 L227.32,710.43 C228.09,710.6,228.42,710.74,228.77,711.06 C229.1,711.35,229.28,711.73,229.28,712.18 C229.28,713.1,228.55,713.61,227.21,713.61 L227,713.31 C227.83,713.31,228.24,712.94,228.24,712.2 C228.24,711.22,227.6,710.71,226.36,710.71 C226.2,710.71,226.09,710.72,225.85,710.76 L226.5,713.04 C226.56,713.24,226.68,713.31,227,713.31 L227.21,713.61 H224.74 V713.45 C225.16,713.39,225.21,713.38,225.31,713.31 C225.39,713.26,225.45,713.15,225.45,713.04 C225.45,712.92,225.4,712.68,225.33,712.41 L224.11,708.02 C223.93,707.43,223.86,707.37,223.3,707.28 V707.12 H225.73 V707.28 C225.12,707.36,225.05,707.41,225.05,707.74 C225.05,707.84,225.08,707.97,225.17,708.32 L225.73,710.39 L226.38,710.34 L227.6,707.12 H229.07 Z " /><path
+       id="path4628"
+       fill="black"
+       stroke-width="0"
+       d="M232.83,706.58 L232.74,706.62 C232.48,706.22,232.39,706.16,232.07,706.16 H230.41 L231.58,707.38 C232.2,708.03,232.47,708.56,232.47,709.1 C232.47,709.8,231.91,710.33,231.18,710.33 C230.8,710.33,230.44,710.18,230.18,709.9 C229.96,709.66,229.85,709.44,229.74,708.95 L229.88,708.91 C230.16,709.59,230.41,709.82,230.89,709.82 C231.48,709.82,231.87,709.42,231.87,708.84 C231.87,708.29,231.55,707.65,230.97,707.03 L229.73,705.71 V705.63 H232.44 Z " /></g>  <g
+     id="g4878"
+     transform="matrix(1.2,0,0,-1.2,-85.729267,1529.2856)"
+     xml:space="preserve"
+     stroke-miterlimit="10.433"
+     font-style="normal"
+     font-variant="normal"
+     font-weight="normal"
+     font-stretch="normal"
+     font-size-adjust="none"
+     letter-spacing="normal"
+     word-spacing="normal"
+     ns0:text="$V_s$"
+     ns0:preamble="/home/sriranga/Desktop/UBM-2014/package.tex"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:normal;word-spacing:normal;text-anchor:start;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10.43299961;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"><path
+       style="fill:#000000;stroke-width:0"
+       inkscape:connector-curvature="0"
+       d="m 230.28,713.61 h -1.85 v -0.16 c 0.44,-0.05 0.62,-0.15 0.62,-0.34 0,-0.18 -0.19,-0.61 -0.51,-1.18 l -2.05,-3.53 -0.66,4.4 c -0.01,0.05 -0.01,0.09 -0.01,0.15 0,0.33 0.14,0.43 0.77,0.5 v 0.16 h -2.4 v -0.16 c 0.55,-0.07 0.57,-0.1 0.78,-1.34 l 0.85,-5.16 h 0.19 l 3.71,6.1 c 0.17,0.27 0.33,0.39 0.56,0.4 z"
+       id="path4880" /><path
+       style="fill:#000000;stroke-width:0"
+       inkscape:connector-curvature="0"
+       d="m 230.12,706.65 -0.14,-1.11 h 0.11 c 0.06,0.11 0.1,0.15 0.17,0.15 0.08,0 0.2,-0.03 0.34,-0.07 0.15,-0.04 0.27,-0.07 0.38,-0.07 0.59,0 1.01,0.38 1.01,0.91 0,0.26 -0.15,0.57 -0.48,0.97 -0.26,0.33 -0.37,0.54 -0.37,0.73 0,0.23 0.14,0.38 0.39,0.38 0.36,0 0.57,-0.26 0.64,-0.8 h 0.11 l 0.14,0.97 h -0.1 c -0.06,-0.1 -0.11,-0.13 -0.21,-0.13 -0.05,0 -0.12,0.01 -0.25,0.05 -0.17,0.05 -0.28,0.07 -0.39,0.07 -0.51,0 -0.84,-0.3 -0.84,-0.77 0,-0.22 0.14,-0.52 0.44,-0.89 0.27,-0.36 0.39,-0.6 0.39,-0.8 0,-0.32 -0.21,-0.54 -0.52,-0.54 -0.38,0 -0.6,0.29 -0.71,0.95 z"
+       id="path4882" /></g></svg>

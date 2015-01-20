@@ -1,0 +1,78 @@
+\BOOKMARK [0][-]{chapter.2}{Bipolar Junction Transistor}{}% 1
+\BOOKMARK [1][-]{section.2.1}{Transistor construction}{chapter.2}% 2
+\BOOKMARK [1][-]{section.2.2}{Barrier voltages in unbiased npn transistor}{chapter.2}% 3
+\BOOKMARK [1][-]{section.2.3}{Operation of npn transistor}{chapter.2}% 4
+\BOOKMARK [1][-]{section.2.4}{Operation of pnp transistor}{chapter.2}% 5
+\BOOKMARK [1][-]{section.2.5}{Directions of IE, IC and IB in npn and pnp transistors}{chapter.2}% 6
+\BOOKMARK [1][-]{section.2.6}{Terminal voltages in an npn transistor}{chapter.2}% 7
+\BOOKMARK [1][-]{section.2.7}{Terminal voltages in a pnp transistor}{chapter.2}% 8
+\BOOKMARK [1][-]{section.2.8}{Transistor current gains}{chapter.2}% 9
+\BOOKMARK [2][-]{subsection.2.8.1}{Emitter to collector current gain}{section.2.8}% 10
+\BOOKMARK [2][-]{subsection.2.8.2}{Base to collector current gain}{section.2.8}% 11
+\BOOKMARK [1][-]{section.2.9}{Reverse saturation current, ICB0}{chapter.2}% 12
+\BOOKMARK [1][-]{section.2.10}{To express IC in terms of IB and `39`42`"613A``45`47`"603Adc}{chapter.2}% 13
+\BOOKMARK [1][-]{section.2.11}{Relationship between `39`42`"613A``45`47`"603Adc and `39`42`"613A``45`47`"603Adc}{chapter.2}% 14
+\BOOKMARK [1][-]{section.2.12}{`39`42`"613A``45`47`"603Adc in terms of `39`42`"613A``45`47`"603Adc}{chapter.2}% 15
+\BOOKMARK [1][-]{section.2.13}{Transistor configuration}{chapter.2}% 16
+\BOOKMARK [2][-]{subsection.2.13.1}{Common-emitter configuration}{section.2.13}% 17
+\BOOKMARK [2][-]{subsection.2.13.2}{Common-base configuration}{section.2.13}% 18
+\BOOKMARK [2][-]{subsection.2.13.3}{Common-collector configuration}{section.2.13}% 19
+\BOOKMARK [1][-]{section.2.14}{BJT current amplification}{chapter.2}% 20
+\BOOKMARK [2][-]{subsection.2.14.1}{Common-emitter ac current gain \(`39`42`"613A``45`47`"603Aac\)}{section.2.14}% 21
+\BOOKMARK [1][-]{section.2.15}{Voltage amplification in BJT}{chapter.2}% 22
+\BOOKMARK [1][-]{section.2.16}{Transistor characteristics}{chapter.2}% 23
+\BOOKMARK [1][-]{section.2.17}{Common-Base input characteristics}{chapter.2}% 24
+\BOOKMARK [1][-]{section.2.18}{Common-Base output characteristics}{chapter.2}% 25
+\BOOKMARK [2][-]{subsection.2.18.1}{Suitability of operating regions for the intended application of transistor}{section.2.18}% 26
+\BOOKMARK [2][-]{subsection.2.18.2}{Break down in transistor}{section.2.18}% 27
+\BOOKMARK [1][-]{section.2.19}{Current gain characteristic of common-base configuration}{chapter.2}% 28
+\BOOKMARK [1][-]{section.2.20}{Common-Emitter input characteristics}{chapter.2}% 29
+\BOOKMARK [1][-]{section.2.21}{Common-Emitter output characteristics}{chapter.2}% 30
+\BOOKMARK [1][-]{section.2.22}{Current gain characteristic of CE configuration}{chapter.2}% 31
+\BOOKMARK [1][-]{section.2.23}{Common-Collector input characteristics}{chapter.2}% 32
+\BOOKMARK [1][-]{section.2.24}{Common-Collector output characteristics}{chapter.2}% 33
+\BOOKMARK [1][-]{section.2.25}{Common-Collector current gain characteristics}{chapter.2}% 34
+\BOOKMARK [0][-]{chapter.3}{Transistor Biasing}{}% 35
+\BOOKMARK [1][-]{section.3.1}{Need for biasing}{chapter.3}% 36
+\BOOKMARK [2][-]{subsection.3.1.1}{DC load line}{section.3.1}% 37
+\BOOKMARK [2][-]{subsection.3.1.2}{Procedure for drawing the DC load line on the transistor CE output characteristics}{section.3.1}% 38
+\BOOKMARK [1][-]{section.3.2}{DC Bias point or Q point}{chapter.3}% 39
+\BOOKMARK [2][-]{subsection.3.2.1}{Variation of IB, IC and VCE with the application of input signal}{section.3.2}% 40
+\BOOKMARK [2][-]{subsection.3.2.2}{Selection of Q-point}{section.3.2}% 41
+\BOOKMARK [1][-]{section.3.3}{Biasing circuits}{chapter.3}% 42
+\BOOKMARK [2][-]{subsection.3.3.1}{Requirements of Biasing circuit}{section.3.3}% 43
+\BOOKMARK [1][-]{section.3.4}{Base bias or Fixed current Bias}{chapter.3}% 44
+\BOOKMARK [1][-]{section.3.5}{Design of Base-bias circuit}{chapter.3}% 45
+\BOOKMARK [1][-]{section.3.6}{Voltage divider bias circuit}{chapter.3}% 46
+\BOOKMARK [1][-]{section.3.7}{Analysis of voltage divider bias circuit}{chapter.3}% 47
+\BOOKMARK [2][-]{subsection.3.7.1}{Approximate analysis of voltage divider bias circuit}{section.3.7}% 48
+\BOOKMARK [1][-]{section.3.8}{Accurate analysis of voltage divider bias circuit}{chapter.3}% 49
+\BOOKMARK [1][-]{section.3.9}{Design of voltage divider bias circuit}{chapter.3}% 50
+\BOOKMARK [1][-]{section.3.10}{Thermal stability of bias circuits}{chapter.3}% 51
+\BOOKMARK [1][-]{section.3.11}{Thermal stability of Q point in base-bias}{chapter.3}% 52
+\BOOKMARK [1][-]{section.3.12}{Thermal stability of Q point in voltage divider bias circuit}{chapter.3}% 53
+\BOOKMARK [0][-]{chapter.4}{Operational Amplifier}{}% 54
+\BOOKMARK [1][-]{section.4.1}{Operational Amplifier}{chapter.4}% 55
+\BOOKMARK [2][-]{subsection.4.1.1}{Circuit symbol of Op-amp}{section.4.1}% 56
+\BOOKMARK [2][-]{subsection.4.1.2}{Operation of an Op-amp}{section.4.1}% 57
+\BOOKMARK [2][-]{subsection.4.1.3}{Properties of an ideal Op-amp}{section.4.1}% 58
+\BOOKMARK [2][-]{subsection.4.1.4}{Properties of a practical Op-amp}{section.4.1}% 59
+\BOOKMARK [2][-]{subsection.4.1.5}{Integrated circuit Op-amp \(MA741\)}{section.4.1}% 60
+\BOOKMARK [2][-]{subsection.4.1.6}{Typical values of various Op-amp parameters for A741 IC}{section.4.1}% 61
+\BOOKMARK [2][-]{subsection.4.1.7}{Equivalent circuit of an Op-amp}{section.4.1}% 62
+\BOOKMARK [1][-]{section.4.2}{Necessity of negative feedback in an Op-amp amplifier}{chapter.4}% 63
+\BOOKMARK [1][-]{section.4.3}{Typical frequency response of an Op-amp and the effect of negative feedback on bandwidth of the Op-amp}{chapter.4}% 64
+\BOOKMARK [1][-]{section.4.4}{Slew-rate of an Op-amp and its significance}{chapter.4}% 65
+\BOOKMARK [1][-]{section.4.5}{Common-mode rejection ratio or CMRR of an Op-amp and its significance}{chapter.4}% 66
+\BOOKMARK [1][-]{section.4.6}{Concept of virtual short in an Op-amp}{chapter.4}% 67
+\BOOKMARK [1][-]{section.4.7}{Op-amp inverting amplifier}{chapter.4}% 68
+\BOOKMARK [1][-]{section.4.8}{Op-amp non-inverting amplifier}{chapter.4}% 69
+\BOOKMARK [1][-]{section.4.9}{Expression for input resistance of Op-amp inverting amplifier}{chapter.4}% 70
+\BOOKMARK [1][-]{section.4.10}{Important applications of Op-amp}{chapter.4}% 71
+\BOOKMARK [1][-]{section.4.11}{Voltage follower}{chapter.4}% 72
+\BOOKMARK [1][-]{section.4.12}{Important properties of Op-amp voltage follower and its application}{chapter.4}% 73
+\BOOKMARK [1][-]{section.4.13}{Op-amp summer}{chapter.4}% 74
+\BOOKMARK [1][-]{section.4.14}{Explain how an Op-amp can be used as a subtractor}{chapter.4}% 75
+\BOOKMARK [1][-]{section.4.15}{Alternate circuit for subtractor}{chapter.4}% 76
+\BOOKMARK [1][-]{section.4.16}{Op-amp as an integrator}{chapter.4}% 77
+\BOOKMARK [1][-]{section.4.17}{Op-amp as differentiator}{chapter.4}% 78

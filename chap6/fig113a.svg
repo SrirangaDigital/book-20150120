@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:ns0="http://www.iki.fi/pav/software/textext/"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.47 r22583"
+   sodipodi:docname="New document 1">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="319.6439"
+     inkscape:cy="876.90639"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1024"
+     inkscape:window-height="689"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="color:#000000;fill:none;stroke:#000000;stroke-width:1.375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 178.64447,193.57999 176.07161,0"
+       id="path2816" />
+    <g
+       transform="matrix(1.2,0,0,1.2,-103.03556,35.860415)"
+       ns0:text="$C$"
+       ns0:preamble="/home/sriranga/Desktop/Projects/running-project/Prism-Modern-Control-Theory/package.tex"
+       id="g3597">
+      <defs
+         id="defs3599">
+        <g
+           id="g3601">
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="textext-517b3091-0">
+            <path
+               style="stroke:none"
+               d=""
+               id="path3604" />
+          </symbol>
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="textext-517b3091-1">
+            <path
+               style="stroke:none"
+               d="M 6.5,-4.640625 6.875,-6.625 l -0.21875,0 c -0.078125,0.171875 -0.171875,0.21875 -0.375,0.21875 -0.078125,0 -0.203125,-0.015625 -0.40625,-0.0625 -0.453125,-0.109375 -0.84375,-0.171875 -1.171875,-0.171875 -2.125,0 -4.046875,2 -4.046875,4.21875 0,1.53125 1.078125,2.59375 2.609375,2.59375 1.015625,0 1.8125,-0.4375 2.71875,-1.484375 L 5.8125,-1.453125 c -0.890625,0.890625 -1.46875,1.1875 -2.296875,1.1875 -1.109375,0 -1.734375,-0.765625 -1.734375,-2.046875 0,-1.1875 0.46875,-2.390625 1.25,-3.203125 C 3.515625,-6 4.140625,-6.28125 4.796875,-6.28125 c 0.921875,0 1.421875,0.546875 1.515625,1.609375 L 6.5,-4.640625 z m 0,0"
+               id="path3607" />
+          </symbol>
+        </g>
+      </defs>
+      <g
+         id="textext-517b3091-2">
+        <g
+           style="fill:#000000;fill-opacity:1"
+           id="g3610">
+          <use
+             height="1052.3622"
+             width="744.09448"
+             xlink:href="#textext-517b3091-1"
+             x="223.183"
+             y="134.765"
+             id="use3612" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g3666"
+       transform="matrix(1.2,0,0,1.2,90.96444,35.860415)"
+       ns0:preamble="/home/sriranga/Desktop/Projects/running-project/Prism-Modern-Control-Theory/package.tex"
+       ns0:text="$Y=C$">
+      <defs
+         id="defs3668">
+        <g
+           id="g3670">
+          <symbol
+             id="textext-2d53e600-0"
+             overflow="visible">
+            <path
+               id="path3673"
+               d=""
+               style="stroke:none;" />
+          </symbol>
+          <symbol
+             id="textext-2d53e600-1"
+             overflow="visible">
+            <path
+               id="path3676"
+               d="M 0.90625 -6.34375 C 1.46875 -6.265625 1.5 -6.234375 1.671875 -5.6875 L 2.4375 -3.015625 L 1.828125 -0.890625 C 1.65625 -0.359375 1.4375 -0.203125 0.78125 -0.15625 L 0.78125 0 L 3.65625 0 L 3.65625 -0.15625 C 3.5 -0.171875 3.359375 -0.171875 3.296875 -0.1875 C 2.90625 -0.203125 2.765625 -0.3125 2.765625 -0.5625 C 2.765625 -0.765625 2.84375 -1.0625 3.078125 -1.84375 C 3.109375 -1.9375 3.125 -2 3.140625 -2.046875 L 3.421875 -3.046875 L 5.609375 -5.734375 C 5.9375 -6.140625 6.015625 -6.203125 6.3125 -6.34375 L 6.3125 -6.515625 L 4.421875 -6.515625 L 4.421875 -6.34375 C 4.546875 -6.34375 4.65625 -6.328125 4.6875 -6.3125 C 4.984375 -6.296875 5.109375 -6.203125 5.109375 -6.046875 C 5.109375 -5.765625 4.65625 -5.125 3.625 -3.921875 C 3.453125 -3.71875 3.390625 -3.640625 3.234375 -3.453125 C 3.125 -3.890625 3.09375 -4.03125 2.9375 -4.5625 C 2.6875 -5.40625 2.578125 -5.84375 2.578125 -5.984375 C 2.578125 -6.234375 2.6875 -6.296875 3.296875 -6.34375 L 3.296875 -6.515625 L 0.90625 -6.515625 L 0.90625 -6.34375 Z M 0.90625 -6.34375 "
+               style="stroke:none;" />
+          </symbol>
+          <symbol
+             id="textext-2d53e600-2"
+             overflow="visible">
+            <path
+               id="path3679"
+               d="M 6.5 -4.640625 L 6.875 -6.625 L 6.65625 -6.625 C 6.578125 -6.453125 6.484375 -6.40625 6.28125 -6.40625 C 6.203125 -6.40625 6.078125 -6.421875 5.875 -6.46875 C 5.421875 -6.578125 5.03125 -6.640625 4.703125 -6.640625 C 2.578125 -6.640625 0.65625 -4.640625 0.65625 -2.421875 C 0.65625 -0.890625 1.734375 0.171875 3.265625 0.171875 C 4.28125 0.171875 5.078125 -0.265625 5.984375 -1.3125 L 5.8125 -1.453125 C 4.921875 -0.5625 4.34375 -0.265625 3.515625 -0.265625 C 2.40625 -0.265625 1.78125 -1.03125 1.78125 -2.3125 C 1.78125 -3.5 2.25 -4.703125 3.03125 -5.515625 C 3.515625 -6 4.140625 -6.28125 4.796875 -6.28125 C 5.71875 -6.28125 6.21875 -5.734375 6.3125 -4.671875 L 6.5 -4.640625 Z M 6.5 -4.640625 "
+               style="stroke:none;" />
+          </symbol>
+          <symbol
+             id="textext-2d53e600-3"
+             overflow="visible">
+            <path
+               id="path3682"
+               d=""
+               style="stroke:none;" />
+          </symbol>
+          <symbol
+             id="textext-2d53e600-4"
+             overflow="visible">
+            <path
+               id="path3685"
+               d="M 5.71875 -3.296875 L 5.71875 -3.84375 L 0.625 -3.84375 L 0.625 -3.296875 L 5.71875 -3.296875 Z M 5.71875 -1.265625 L 5.71875 -1.828125 L 0.625 -1.828125 L 0.625 -1.265625 L 5.71875 -1.265625 Z M 5.71875 -1.265625 "
+               style="stroke:none;" />
+          </symbol>
+        </g>
+      </defs>
+      <g
+         id="textext-2d53e600-5">
+        <g
+           id="g3688"
+           style="fill:rgb(0%,0%,0%);fill-opacity:1;">
+          <use
+             id="use3690"
+             y="134.765"
+             x="223.432"
+             xlink:href="#textext-2d53e600-1" />
+        </g>
+        <g
+           id="g3692"
+           style="fill:rgb(0%,0%,0%);fill-opacity:1;">
+          <use
+             id="use3694"
+             y="134.765"
+             x="232.506"
+             xlink:href="#textext-2d53e600-4" />
+        </g>
+        <g
+           id="g3696"
+           style="fill:rgb(0%,0%,0%);fill-opacity:1;">
+          <use
+             id="use3698"
+             y="134.765"
+             x="241.36"
+             xlink:href="#textext-2d53e600-2" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

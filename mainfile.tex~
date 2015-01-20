@@ -1,0 +1,213 @@
+\documentclass[11pt,twoside]{book}
+
+\usepackage[numbers]{natbib}
+\usepackage{rotating}
+
+\usepackage{sectsty}
+\usepackage[Lenny]{fncychap}
+
+\makeatletter
+  \ChNameVar{\fontsize{14}{16}\usefont{OT1}{phv}{m}{n}\selectfont}
+  \ChNumVar{\fontsize{60}{62}\usefont{OT1}{ptm}{m}{n}\selectfont}
+  \ChTitleVar{\Huge\bfseries\rm}
+  \ChRuleWidth{1pt}
+  \renewcommand{\DOCH}{%
+    \settowidth{\px}{\CNV\FmN{\@chapapp}}
+    \addtolength{\px}{2pt}
+    \settoheight{\py}{\CNV\FmN{\@chapapp}}
+    \addtolength{\py}{1pt}
+
+    \settowidth{\mylen}{\CNV\FmN{\@chapapp}\space\CNoV\thechapter}
+    \addtolength{\mylen}{1pt}
+    \settowidth{\pxx}{\CNoV\thechapter}
+    \addtolength{\pxx}{-1pt}
+
+    \settoheight{\pyy}{\CNoV\thechapter}
+    \addtolength{\pyy}{-2pt}
+    \setlength{\myhi}{\pyy}
+    \addtolength{\myhi}{-1\py}
+    \par
+    \parbox[b]{\textwidth}{%
+    \rule[\py]{\RW}{\myhi}%
+    \hskip -\RW%
+    \rule[\pyy]{\px}{\RW}%
+    \hskip -\px%
+    \raggedright%
+    \CNV\FmN{\@chapapp}\space\CNoV\thechapter%
+    \hskip1pt%
+    \mghrulefill{\RW}%
+    \rule{\RW}{\pyy}\par\nobreak%
+    \vskip -\baselineskip%
+    \vskip -\pyy%
+    \hskip \mylen%
+    \mghrulefill{\RW}\par\nobreak%
+    \vskip \pyy}%
+    \vskip 15\p@}
+ 
+  \renewcommand{\DOTI}[1]{%
+    \raggedright
+    \CTV\FmTi{#1}\par\nobreak
+    \vskip 20\p@}
+
+
+  \renewcommand{\DOTIS}[1]{%
+    \raggedright
+    \CTV\FmTi{#1}\par\nobreak
+    \vskip 20\p@}
+\makeatother
+
+
+%\usepackage{color}
+%\usepackage[Glenn]{fncychap}
+
+%\usepackage{titlesec}
+
+\makeatletter
+\sectionfont{\sectionrule{3ex}{3pt}{-1ex}{1pt}}
+%\sectionfont{\noindent\fbox}
+\makeatother
+
+\newcommand\Bpara[4]{%
+\begin{picture}(0,0)%
+\setlength{\unitlength}{1pt}%
+\put(#1,#2){\rotatebox{#3}{\raisebox{0mm}[0mm][0mm]{%
+\makebox[0mm]{$\left.\rule{0mm}{#4pt}\right\}$}}}}%
+\end{picture}}
+
+
+%\def\@seccntformat#1{\@ifundefined{#1@cntformat}%
+%{\csname the#1\endcsname\quad}% default
+%{\csname #1@cntformat\endcsname}% individual control}
+%\def\section@cntformat{\protect\fcolorbox{gray}{gray}{\thesection}\quad}
+%\def\subsection@cntformat{\thesubsection~~}
+
+
+%\renewcommand{\@seccntformat}[1]{{\csname the#1\endcsname}\hspace{0.5em}}
+
+%\titleformat{\section}{\LARGE\bfseries}{$\dagger$\thesection}{1em}{}
+
+%%%%%%%%%% section sample {number with in gray box}
+
+\usepackage{color}
+
+\definecolor{lightgray}{rgb}{0.75,0.75,0.75}
+
+\input macros
+
+\usepackage[justification=centering]{caption}
+\usepackage{floatrow} 
+\floatsetup[figure]{framestyle=fbox,
+           framearound=none,rowfill=yes}
+\floatsetup[table]{style=plaintop,framestyle=fbox,
+           framearound=none,rowfill=yes}
+\DeclareCaptionFormat{box}{%
+\colorbox{lightgray}{\parbox{\dimexpr\captionwidth-45\fboxsep}{\centering{\bf #1#2}{\em #3}}}%
+ } 
+\captionsetup[figure]{format=box}
+\captionsetup[table]{format=box}
+\renewcommand\figurename{Fig.}
+\renewcommand\tablename{Table}
+
+%\usepackage{color}
+%\usepackage{float}
+%\floatstyle{plain}
+%\floatplacement{Figure}{H}
+%\usepackage[justification=centering]{caption}
+%\DeclareCaptionFormat{myformat}{\color{gray}{#1#2\em #3}\par}
+%\captionsetup{format=myformat,labelfont=bf,textfont=bf}
+%\renewcommand\figurename{Fig.}
+%\renewcommand\tablename{Table}
+
+\usepackage{rotating}
+\usepackage{steinmetz}
+\usepackage{lscape}
+
+
+\pagestyle{headings}
+
+\makeatletter
+\def\@fnsymbol#1{\ensuremath{\ifcase#1\or *\or \dagger\or \ddagger\or
+  \mathsection\or \mathparagraph\or \|\or **\or \dagger\dagger
+  \or \ddagger\ddagger\or \mathsection\mathsection 
+  \or \mathparagraph\mathparagraph \or \|\|\or *{*}*
+  \or \dagger\dagger\dagger \or \ddagger\ddagger\ddagger\or
+  \mathsection\mathsection\mathsection\or \mathparagraph\mathparagraph
+  \mathparagraph \or \|\|\|\else\@ctrerr\fi}}
+   \renewcommand{\thefootnote}{\fnsymbol{footnote}}
+\makeatother
+
+\makeindex
+
+\def\Scaption{\refstepcounter{scount}\centerline{\textbf{Fig. \thescount}}}
+\newcounter{scount}
+\def\thescount{\Alph{scount}}
+
+
+\allowdisplaybreaks
+
+\begin{document}
+%\makeatletter
+%\show\ps@headings
+%\makeatother
+
+\frontmatter
+
+%\input frontpage
+
+%\input preface
+
+%\makeatletter
+%\renewcommand\tableofcontents{%
+%    \if@twocolumn
+%      \@restonecoltrue\onecolumn
+%    \else
+%      \@restonecolfalse
+%    \fi
+  %%%% \def\header{{\small\sl Contents }}
+%    \chapter*{\contentsname
+%        \@mkboth{%
+%           \contentsname}{\contentsname}}%
+%    \@starttoc{toc}%
+%    \if@restonecol\twocolumn\fi
+%    }
+%\makeatother
+
+\input preface
+\input acknowledge
+
+
+\tableofcontents
+
+\mainmatter
+
+\input chapter1
+\input chapter2
+\input chapter3
+\input chapter4
+\input chapter5
+\input chapter6
+\input chapter7
+\input chapter8
+\input chapter9
+\input chapter10
+
+\makeatletter
+\renewenvironment{theindex}{\newpage
+\@makeschapterhead{\indexname}
+   \markboth{\it\bfseries Index}%
+                        {\it\bfseries\indexname}%
+\addtocontents{toc}{\protect\contentsline{chapter}{Index}{\thepage}}
+\thispagestyle{plain}\let\item\@idxitem
+
+\begin{multicols}{2}
+\par\bigskip\bigskip}%
+{\end{multicols}}%
+
+\makeatother
+\printindex
+
+\end{document}
+
+
+
+

@@ -1,0 +1,261 @@
+\usepackage[papersize={173mm,235mm},
+topmargin=12mm,botmargin=13mm,leftmargin=14mm,rightmargin=14mm,
+headheight=6mm,headsep=4mm,footskip=6mm,cropmarks,nopagenumbers]{zwpagelayout}
+
+%%%%%%%%%%%%%
+
+
+\definecolor{lightgray}{rgb}{.92,.92,.92}
+
+%%%%%%%%%%%%%%%%
+
+%\textwidth=14.5cm
+%\textheight=19.4cm
+
+\usepackage{amsmath,longtable,multicol,enumerate,amsthm}
+\usepackage{makeidx,cancel}
+%\usepackage{graphics,subfigure,epsfig,subfloat,longtable,multicol,array}
+\usepackage{graphics,epsfig,longtable,multicol,array}
+\usepackage{multirow}
+\usepackage{mathrsfs,mathtools}
+\usepackage{xfrac}
+\usepackage[all]{xy}
+\usepackage{xcolor}
+\usepackage{txfonts}
+\usepackage{cases}
+
+\def\heading#1{\noindent\textbf{#1}}
+\def\headingit#1{\noindent\textbf{\textit{#1}}}
+
+\usepackage{textcomp}
+
+\DeclareMathOperator{\bigdot}{\raisebox{.75pt}{\scriptsize\textbullet}}
+\DeclareMathOperator{\sinc}{sinc}
+\DeclareMathOperator{\sgn}{sgn}
+\DeclareMathOperator{\rad}{rad}
+\DeclareMathOperator{\Real}{Real}
+\DeclareMathOperator{\secs}{secs}
+\DeclareMathOperator{\FT}{FT}
+\DeclareMathOperator{\Arg}{Arg}
+\DeclareMathOperator{\carr}{carr}
+
+
+\DeclareMathOperator{\dc}{dc}
+\DeclareMathOperator{\ac}{ac}
+
+\DeclareMathOperator{\mA}{mA}
+\DeclareMathOperator{\kk}{k}
+\DeclareMathOperator{\W}{W}
+\DeclareMathOperator{\Hz}{Hz}
+\DeclareMathOperator{\F}{F}
+\DeclareMathOperator{\A}{A}
+
+
+\allowdisplaybreaks
+
+\newtheorem{theorem}{Theorem}[chapter]
+\newtheorem{cor}{Corollary}
+
+%\newtheoremstyle{nonumsol}{}{}{ }{}{\it\bfseries}{\kern -2pt{\bf.}}{
+%}{#1 \mdseries{\bf #3}} 
+%\theoremstyle{nonumsol}
+%\newtheorem{solution}{Solution}
+
+\def\solution{\medbreak\bgroup\noindent\ignorespaces{\it\bfseries{Solution}{\bf :}}}
+\def\endsolution{\hfill$\blacklozenge$\egroup\smallskip}
+
+
+\newtheoremstyle{nonumcor}{}{}{\it }{}{\bfseries}{\kern -2pt{\bf}}{
+}{#1 \mdseries{\bf #3}} 
+\theoremstyle{nonumcor}
+\newtheorem{coro*}{Corollary:}
+
+\def\q{\quad}
+\def\qq{\qquad}
+\def\bnabla{{\boldmath{\nabla}}}
+
+\def\rml{\rm l}
+\def\rmC{\rm C}
+\def\rmm{\rm m}
+\def\rmN{\rm N}
+
+\def\bfA{\mathbf{A}}
+\def\bfB{\mathbf{B}}
+\def\bfC{\mathbf{C}}
+\def\bfD{\mathbf{D}}
+\def\bfE{\mathbf{E}}
+\def\bfF{\mathbf{F}}
+\def\bfS{\mathbf{S}}
+\def\bfR{\mathbf{R}}
+\def\bfJ{\mathbf{J}}
+\def\bfH{\mathbf{H}}
+\def\bfK{\mathbf{K}}
+\def\bfT{\mathbf{T}}
+\def\bfP{\mathbf{P}}
+\def\bfM{\mathbf{M}}
+\def\bfG{\mathbf{G}}
+\def\bfV{\mathbf{V}}
+\def\bfX{\mathbf{X}}
+
+\def\bfa{\mathbf{a}}
+\def\bfb{\mathbf{b}}
+\def\bfc{\mathbf{c}}
+\def\bfd{\mathbf{d}}
+\def\bfl{\mathbf{l}}
+\def\bfr{\mathbf{r}}
+\def\bfs{\mathbf{s}}
+\def\bfu{\mathbf{u}}
+\def\bfm{\mathbf{m}}
+\def\bfx{\mathbf{x}}
+\def\bfz{\mathbf{z}}
+
+
+\def\btimes{\mbox{\boldmath{\,$\times$\,}}}
+\def\bdot{\mbox{\boldmath{\,$\cdot$\,}}}
+
+\theoremstyle{definition}
+\newtheorem{step}{Step}
+\newtheorem{region}{Region}
+\newtheorem{exam}{Example}
+%\newtheorem{example}{Example}[chapter]
+\newtheorem{rp}{RP}[chapter]
+\newtheorem{ep}{EP}[chapter]
+
+\newtheoremstyle{example}{3pt}{2pt}{ }{}{\bfseries}{}
+{ }{\colorbox{black}{\textcolor{white}{\bf #1 #2}}\;}
+%{ }{\colorbox{black}{\textcolor{white}{\bf #1 #2}}\;}
+\theoremstyle{example}
+\newtheorem{example}{Example}[chapter]
+
+
+\newtheoremstyle{nonum}{}{}{}{}{\bfseries}{\kern -2pt{\bf.}}{
+}{#1 \mdseries{\bf #3}} 
+\theoremstyle{nonum}
+\newtheorem{example*}{Example}
+
+%%%%%%%%%%%%%
+
+\makeatletter
+\fboxsep=4pt
+\if@twoside
+  \def\ps@headings{%
+      \let\@oddfoot\@empty\let\@evenfoot\@empty
+%      \def\@evenhead{\thepage\hfil\slshape Basic Electronics}%
+%      \def\@oddhead{{\slshape\leftmark}\hfil \thepage}%
+%      \def\@evenhead{\vbox{\hbox to \textwidth{\rule[-.5ex]{0em}{0.5ex}{\thepage}\hfil \slshape Basic Electronics}\vskip3pt \hrule height.3pt}}%
+%      \def\@oddhead{\vbox{\hbox to \textwidth{\rule[-.5ex]{0em}{.5em}{\sl\leftmark}\hfil \thepage}\vskip3pt \hrule height.3pt}}%
+     \def\@evenhead{\fcolorbox{white}{lightgray}{\hbox to0.98\textwidth{\color{black}{\thepage}\hfill\slshape \color{black}{Basic Electronics}}}}%
+     \def\@oddhead{\fcolorbox{white}{lightgray}{\hbox to0.98\textwidth{\color{black}{\slshape\leftmark}\hfill \color{black}{\thepage}}}}%
+      \let\@mkboth\markboth
+    \def\chaptermark##1{%
+      \markboth {{%
+        \ifnum \c@secnumdepth >\m@ne
+          \if@mainmatter
+            \@chapapp\ \thechapter. \ %
+          \fi
+        \fi
+        {##1}}}{}}%
+    \def\sectionmark##1{%
+      \markright {{%
+        \ifnum \c@secnumdepth >\z@
+          \thesection. \ %
+        \fi
+        {##1}}}}}
+\fi
+
+\def\cleardoublepage{\clearpage\if@twoside \ifodd\c@page\else
+    \thispagestyle{empty}\hbox{}\newpage\if@twocolumn\hbox{}\newpage\fi\fi\fi}
+
+
+\def\@chapter[#1]#2{\ifnum \c@secnumdepth >\m@ne
+                       \if@mainmatter
+                         \refstepcounter{chapter}%
+                         \typeout{\@chapapp\space\thechapter.}%
+                         \addcontentsline{toc}{chapter}%
+                                   {\protect\numberline{\thechapter}#1}%
+                       \else
+                         \addcontentsline{toc}{chapter}{#1}%
+                       \fi
+                    \else
+                      \addcontentsline{toc}{chapter}{#1}%
+                    \fi
+                    \chaptermark{#1}%
+                    \addtocontents{lof}{\protect\addvspace{10\p@}}%
+                    \addtocontents{lot}{\protect\addvspace{10\p@}}%
+                    \if@twocolumn
+                      \@topnewpage[\@makechapterhead{#2}]%
+                    \else
+                      \@makechapterhead{#2}%
+                      \@afterheading
+                    \fi}
+
+%\def\@chapter[#1]#2{\ifnum \c@secnumdepth >\m@ne
+%                       \if@mainmatter
+%		       %\addtocontents{toc}{\protect\thispagestyle{empty}}
+%                         \refstepcounter{chapter}%
+%                         \typeout{\@chapapp\space\thechapter.}%
+%                    \else
+%                
+%                       \fi
+%                    \else
+%                
+%                    \fi
+%                    \chaptermark{#1}%
+%                    \addtocontents{lof}{\protect\addvspace{10\p@}}%
+%                    \addtocontents{lot}{\protect\addvspace{10\p@}}%
+%                    \if@twocolumn
+%                      \@topnewpage[\@makechapterhead{#2}]%
+%                    \else
+%                      \@makechapterhead{#2}%
+%                      \@afterheading
+%                    \fi}
+
+
+%\def\printindex#1#2{\thispagestyle{empty}\@restonecoltrue\if@twocolumn\@restonecolfalse\fi \columnseprule \z@ \columnsep 35pt
+%  \newpage \twocolumn[{\centerline{\LARGE\bf #2} \vskip4ex}]
+%  \markright{\uppercase{#2}}
+%  \addcontentsline{toc}{chapter}{#2}
+%  \@input{#1.ind}}
+
+\def\theindex{\columnsep 35pt \let\item\@idxitem\begin{multicols}{2}}
+\def\endtheindex{\end{multicols}}
+
+\makeatother
+
+%\newenvironment{solution}{\penalty-200\smallskip\noindent{\it\bfseries
+%Solution:\!\,}}{}%{\hspace*{\fill}\par\smallskip}
+
+\newenvironment{answer}{\penalty-200\medskip\noindent{\it\bfseries
+Answer:\!\,}}{}%{\hspace*{\fill}\par\smallskip}
+
+
+\theoremstyle{nonpro}
+\newtheorem{pro}{Proof}
+\newtheoremstyle{gen}{3pt}{2pt}{\itshape}{}{\bfseries}{}
+{ }{\colorbox{black}{\textcolor{white}{\bf #1}}\;}
+
+\renewenvironment{proof}{\vspace{2ex}\noindent{\it\bfseries Proof:}\hspace{0.2em}}
+	{\hfill\vspace{2ex}}
+
+
+\DeclareMathOperator{\tri}{tri}
+\DeclareMathOperator{\Iim}{Im}
+
+\DeclareMathOperator{\rect}{rect}
+\DeclareMathOperator{\sint}{sint}
+\DeclareMathOperator{\ROC}{ROC}
+\DeclareMathOperator{\Ree}{Re}
+\DeclareMathOperator{\ZT}{\mathbf{ZT}}
+\DeclareMathOperator{\UL}{\mathbf{UL}}
+\DeclareMathOperator{\LT}{\mathbf{LT}}
+\DeclareMathOperator{\T}{\mathbf{T}}
+\DeclareMathOperator{\Y}{\mathrm{Y}}
+\DeclareMathOperator{\X}{\mathrm{X}}
+\DeclareMathOperator{\V}{\mathrm{V}}
+\DeclareMathOperator{\Z}{\mathbf{Z}}
+\DeclareMathOperator{\into}{into}
+\DeclareMathOperator*{\Lim}{Lim}
+
+
+%%%%%
+

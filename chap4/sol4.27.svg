@@ -1,0 +1,630 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:ns0="http://www.iki.fi/pav/software/textext/"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="425.19684"
+   height="283.46457"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.47 r22583"
+   sodipodi:docname="sol4.27.svg">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.9934446"
+     inkscape:cx="329.69506"
+     inkscape:cy="168.08185"
+     inkscape:document-units="cm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="cm"
+     inkscape:object-nodes="true"
+     inkscape:window-width="1024"
+     inkscape:window-height="689"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-nodes="false">
+    <inkscape:grid
+       snapvisiblegridlinesonly="true"
+       enabled="true"
+       visible="true"
+       empspacing="5"
+       id="grid2985"
+       type="xygrid" />
+  </sodipodi:namedview>
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 141.73228 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="425.19684 : 141.73228 : 1"
+       inkscape:persp3d-origin="212.59842 : 94.48819 : 1"
+       id="perspective85" />
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Mstart"
+       style="overflow:visible">
+      <path
+         id="path6343"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt"
+         transform="scale(0.4) translate(10,0)" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Mend"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         id="path3949" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Mend-0"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         id="path3949-9" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Mend-0-1"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         id="path3949-9-4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Mend-8"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         id="path3949-6" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Mstart-6"
+       style="overflow:visible">
+      <path
+         id="path6343-6"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt"
+         transform="scale(0.4) translate(10,0)" />
+    </marker>
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0,-768.89631)"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <path
+       id="path9645"
+       style="fill:none;stroke:#231f20;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.86369991;stroke-opacity:1;stroke-dasharray:none"
+       d="m 314.05147,852.36088 -163.66732,0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       id="path9647"
+       style="fill:none;stroke:#231f20;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.86369991;stroke-opacity:1;stroke-dasharray:none"
+       d="m 315,882.36088 0,14.77493"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path9649"
+       style="fill:none;stroke:#231f20;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.86369991;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Mend-8)"
+       d="m 212.83851,864.79743 0,21.45376"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       sodipodi:nodetypes="cccccccccccc"
+       inkscape:connector-curvature="0"
+       d="m 150,827.36088 -32.80458,0 -1.96287,4.624 -3.9365,-9.33625 -3.99412,9.33625 -3.99663,-9.33625 -3.938,9.33625 -3.90375,-9.33625 -3.938,9.33625 -3.99662,-9.21625 -1.91163,4.59225 -35.6173,0"
+       style="fill:none;stroke:#231f20;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.86369991;stroke-opacity:1;stroke-dasharray:none"
+       id="path4671" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 317.17176,852.36088 c 0,1.14988 -0.9325,2.0835 -2.08375,2.0835 -1.15125,0 -2.08375,-0.93362 -2.08375,-2.0835 0,-1.14987 0.9325,-2.084 2.08375,-2.084 1.15125,0 2.08375,0.93413 2.08375,2.084 z"
+       style="fill:#ffffff;stroke:#231f20;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path4673" />
+    <path
+       id="path4675"
+       style="fill:#ffffff;stroke:#231f20;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 50,827.36088 c 0,1.14988 -0.9325,2.0835 -2.08375,2.0835 -1.15125,0 -2.08375,-0.93362 -2.08375,-2.0835 0,-1.14987 0.9325,-2.084 2.08375,-2.084 1.15125,0 2.08375,0.93413 2.08375,2.084 z"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path4669"
+       style="fill:none;stroke:#231f20;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.86369991;stroke-opacity:1;stroke-dasharray:none"
+       d="m 205,852.36088 0,50 4.624,1.96287 -9.33625,3.9365 9.33625,3.99412 -9.33625,3.99663 9.33625,3.938 -9.33625,3.90375 9.33625,3.938 -9.21625,3.99662 4.59225,1.91163 0,48.435"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccc" />
+    <path
+       id="path9591"
+       style="fill:none;stroke:#231f20;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.86369991;stroke-opacity:1;stroke-dasharray:none"
+       d="m 213.59889,982.5155 -17.5,0"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path9593"
+       style="fill:none;stroke:#231f20;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.86369991;stroke-opacity:1;stroke-dasharray:none"
+       d="m 211.72389,985.8207 -13.75,0"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path9595"
+       style="fill:none;stroke:#231f20;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.86369991;stroke-opacity:1;stroke-dasharray:none"
+       d="m 209.84889,989.1244 -10,0"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path3048"
+       style="fill:none;stroke:#231f20;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.86369991;stroke-opacity:1;stroke-dasharray:none"
+       d="m 150,827.36088 0,50 -32.80458,0 -1.96287,4.624 -3.9365,-9.33625 -3.99412,9.33625 -3.99663,-9.33625 -3.938,9.33625 -3.90375,-9.33625 -3.938,9.33625 -3.99662,-9.21625 -1.91163,4.59225 -35.6173,0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccc" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 50,877.36088 c 0,1.14988 -0.9325,2.0835 -2.08375,2.0835 -1.15125,0 -2.08375,-0.93362 -2.08375,-2.0835 0,-1.14987 0.9325,-2.084 2.08375,-2.084 1.15125,0 2.08375,0.93413 2.08375,2.084 z"
+       style="fill:#ffffff;stroke:#231f20;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path3050" />
+    <path
+       sodipodi:type="arc"
+       id="path3052"
+       style="fill:#000000;stroke:none"
+       sodipodi:cx="150"
+       sodipodi:cy="852.3609"
+       sodipodi:rx="2.5"
+       sodipodi:ry="2.5"
+       d="m 152.5,852.3609 c 0,1.38071 -1.11929,2.5 -2.5,2.5 -1.38071,0 -2.5,-1.11929 -2.5,-2.5 0,-1.38071 1.11929,-2.5 2.5,-2.5 1.38071,0 2.5,1.11929 2.5,2.5 z" />
+    <path
+       sodipodi:nodetypes="cccccccccccc"
+       inkscape:connector-curvature="0"
+       d="m 255,852.36088 0,50 4.624,1.96287 -9.33625,3.9365 9.33625,3.99412 -9.33625,3.99663 9.33625,3.938 -9.33625,3.90375 9.33625,3.938 -9.21625,3.99662 4.59225,1.91163 0,48.435"
+       style="fill:none;stroke:#231f20;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.86369991;stroke-opacity:1;stroke-dasharray:none"
+       id="path3054" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 263.59889,982.5155 -17.5,0"
+       style="fill:none;stroke:#231f20;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.86369991;stroke-opacity:1;stroke-dasharray:none"
+       id="path3056" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 261.72389,985.8207 -13.75,0"
+       style="fill:none;stroke:#231f20;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.86369991;stroke-opacity:1;stroke-dasharray:none"
+       id="path3058" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 259.84889,989.1244 -10,0"
+       style="fill:none;stroke:#231f20;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.86369991;stroke-opacity:1;stroke-dasharray:none"
+       id="path3060" />
+    <path
+       id="path3062"
+       style="fill:none;stroke:#231f20;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.86369991;stroke-opacity:1;stroke-dasharray:none"
+       d="m 323.89725,897.36261 -17.5,0"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path3064"
+       style="fill:none;stroke:#231f20;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.86369991;stroke-opacity:1;stroke-dasharray:none"
+       d="m 322.02225,900.66781 -13.75,0"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path3066"
+       style="fill:none;stroke:#231f20;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.86369991;stroke-opacity:1;stroke-dasharray:none"
+       d="m 320.14725,903.97151 -10,0"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path3068"
+       style="fill:#ffffff;stroke:#231f20;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 317.17176,882.36088 c 0,1.14988 -0.9325,2.0835 -2.08375,2.0835 -1.15125,0 -2.08375,-0.93362 -2.08375,-2.0835 0,-1.14987 0.9325,-2.084 2.08375,-2.084 1.15125,0 2.08375,0.93413 2.08375,2.084 z"
+       inkscape:connector-curvature="0" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       d="m 262.99514,864.07009 0,22.61357"
+       style="fill:none;stroke:#231f20;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.86369991;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Mend-8)"
+       id="path4066" />
+    <g
+       id="g4148"
+       transform="matrix(1,0,0,-1,-187.88782,1534.5623)"
+       xml:space="preserve"
+       stroke-miterlimit="10.433"
+       font-style="normal"
+       font-variant="normal"
+       font-weight="normal"
+       font-stretch="normal"
+       font-size-adjust="none"
+       letter-spacing="normal"
+       word-spacing="normal"
+       ns0:text="$v_1$"
+       ns0:preamble="/home/sriranga/Desktop/Basic-Electronics-Figures/package.tex"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:normal;word-spacing:normal;text-anchor:start;fill:none;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10.43299961;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"><path
+         style="fill:#000000;stroke-width:0"
+         inkscape:connector-curvature="0"
+         d="m 223.64,711.13 0.02,0 0.02,0 0.02,0 0.02,0 0.02,0 0.01,0.01 0.02,0 0.02,0 0.04,0 0.01,0 0.02,0 0.02,0 0.02,0 0.02,0 0.02,0 c 0.39,0 0.49,-0.17 0.63,-1.09 0.1,-0.68 0.22,-2.18 0.22,-2.76 0,-0.27 0.01,-0.34 0.09,-0.34 0.24,0 1.17,1.05 2.18,2.46 0.35,0.5 0.61,1.14 0.61,1.51 0,0.32 -0.26,0.59 -0.56,0.59 -0.22,0 -0.37,-0.13 -0.37,-0.34 0,-0.16 0.06,-0.28 0.24,-0.44 0.13,-0.12 0.18,-0.2 0.18,-0.3 0,-0.45 -0.65,-1.56 -1.36,-2.29 l -0.31,-0.32 c -0.07,1.4 -0.13,1.92 -0.26,2.65 -0.2,1.02 -0.2,1.04 -0.29,1.04 -0.04,0 -0.12,-0.01 -0.2,-0.04 -0.17,-0.05 -0.72,-0.15 -1.1,-0.21 z"
+         id="path4150" /><path
+         style="fill:#000000;stroke-width:0"
+         inkscape:connector-curvature="0"
+         d="m 229.88,710.33 -1.25,-0.63 v -0.1 c 0.08,0.04 0.16,0.06 0.19,0.08 0.12,0.05 0.24,0.08 0.31,0.08 0.15,0 0.21,-0.11 0.21,-0.33 v -3.15 c 0,-0.23 -0.06,-0.39 -0.17,-0.45 -0.1,-0.07 -0.2,-0.09 -0.49,-0.1 v -0.1 h 1.92 v 0.1 c -0.55,0.01 -0.66,0.08 -0.66,0.42 v 4.17 z"
+         id="path4152" /></g>    <g
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:normal;word-spacing:normal;text-anchor:start;fill:none;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10.43299961;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       ns0:preamble="/home/sriranga/Desktop/Basic-Electronics-Figures/package.tex"
+       ns0:text="$v_2$"
+       word-spacing="normal"
+       letter-spacing="normal"
+       font-size-adjust="none"
+       font-stretch="normal"
+       font-weight="normal"
+       font-variant="normal"
+       font-style="normal"
+       stroke-miterlimit="10.433"
+       xml:space="preserve"
+       transform="matrix(1,0,0,-1,-188.63905,1585.1516)"
+       id="g4324"><path
+         id="path4326"
+         d="m 223.64,711.13 0.02,0 0.02,0 0.02,0 0.02,0 0.02,0 0.01,0.01 0.02,0 0.02,0 0.04,0 0.01,0 0.02,0 0.02,0 0.02,0 0.02,0 0.02,0 c 0.39,0 0.49,-0.17 0.63,-1.09 0.1,-0.68 0.22,-2.18 0.22,-2.76 0,-0.27 0.01,-0.34 0.09,-0.34 0.24,0 1.17,1.05 2.18,2.46 0.35,0.5 0.61,1.14 0.61,1.51 0,0.32 -0.26,0.59 -0.56,0.59 -0.22,0 -0.37,-0.13 -0.37,-0.34 0,-0.16 0.06,-0.28 0.24,-0.44 0.13,-0.12 0.18,-0.2 0.18,-0.3 0,-0.45 -0.65,-1.56 -1.36,-2.29 l -0.31,-0.32 c -0.07,1.4 -0.13,1.92 -0.26,2.65 -0.2,1.02 -0.2,1.04 -0.29,1.04 -0.04,0 -0.12,-0.01 -0.2,-0.04 -0.17,-0.05 -0.72,-0.15 -1.1,-0.21 z"
+         inkscape:connector-curvature="0"
+         style="fill:#000000;stroke-width:0" /><path
+         id="path4328"
+         d="m 231.16,706.58 -0.09,0.04 c -0.25,-0.4 -0.34,-0.46 -0.66,-0.46 h -1.66 l 1.17,1.22 c 0.62,0.65 0.89,1.18 0.89,1.72 0,0.7 -0.57,1.23 -1.29,1.23 -0.38,0 -0.75,-0.15 -1,-0.43 -0.23,-0.24 -0.33,-0.46 -0.45,-0.95 l 0.15,-0.04 c 0.28,0.68 0.53,0.91 1.01,0.91 0.58,0 0.98,-0.4 0.98,-0.98 0,-0.55 -0.32,-1.19 -0.91,-1.81 l -1.23,-1.32 v -0.08 h 2.71 z"
+         inkscape:connector-curvature="0"
+         style="fill:#000000;stroke-width:0" /></g>    <g
+       id="g4524"
+       transform="matrix(1,0,0,-1,-124.68838,1525.3735)"
+       xml:space="preserve"
+       stroke-miterlimit="10.433"
+       font-style="normal"
+       font-variant="normal"
+       font-weight="normal"
+       font-stretch="normal"
+       font-size-adjust="none"
+       letter-spacing="normal"
+       word-spacing="normal"
+       ns0:text="$R_1$"
+       ns0:preamble="/home/sriranga/Desktop/Basic-Electronics-Figures/package.tex"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:normal;word-spacing:normal;text-anchor:start;fill:none;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10.43299961;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"><path
+         style="fill:#000000;stroke-width:0"
+         inkscape:connector-curvature="0"
+         d="m 229.07,707.28 -0.04,0.01 -0.04,0 -0.03,0.01 -0.04,0 -0.04,0.01 -0.03,0.01 -0.03,0.01 -0.03,0.01 -0.03,0.01 -0.03,0.01 -0.03,0.01 -0.03,0.02 -0.03,0.01 -0.02,0.02 -0.03,0.02 -0.02,0.02 -0.03,0.02 -0.02,0.02 -0.02,0.03 -0.02,0.02 -0.02,0.03 -0.03,0.03 -0.02,0.03 -0.02,0.03 -0.01,0.04 -0.02,0.03 -0.02,0.04 -0.02,0.04 -0.02,0.04 -0.02,0.05 -0.02,0.04 -0.01,0.05 -0.93,2.43 c 0.77,0.17 1.1,0.31 1.45,0.63 0.33,0.29 0.51,0.67 0.51,1.12 0,0.92 -0.73,1.43 -2.07,1.43 l -0.21,-0.3 c 0.83,0 1.24,-0.37 1.24,-1.11 0,-0.98 -0.64,-1.49 -1.88,-1.49 -0.16,0 -0.27,0.01 -0.51,0.05 l 0.65,2.28 c 0.06,0.2 0.18,0.27 0.5,0.27 l 0.21,0.3 h -2.47 v -0.16 c 0.42,-0.06 0.47,-0.07 0.57,-0.14 0.08,-0.05 0.14,-0.16 0.14,-0.27 0,-0.12 -0.05,-0.36 -0.12,-0.63 l -1.22,-4.39 c -0.18,-0.59 -0.25,-0.65 -0.81,-0.74 v -0.16 h 2.43 v 0.16 c -0.61,0.08 -0.68,0.13 -0.68,0.46 0,0.1 0.03,0.23 0.12,0.58 l 0.56,2.07 0.65,-0.05 1.22,-3.22 h 1.47 z"
+         id="path4526" /><path
+         style="fill:#000000;stroke-width:0"
+         inkscape:connector-curvature="0"
+         d="m 231.55,710.33 -1.26,-0.63 v -0.1 c 0.09,0.04 0.16,0.06 0.19,0.08 0.12,0.05 0.24,0.08 0.31,0.08 0.15,0 0.21,-0.11 0.21,-0.33 v -3.15 c 0,-0.23 -0.05,-0.39 -0.16,-0.45 -0.11,-0.07 -0.21,-0.09 -0.5,-0.1 v -0.1 h 1.92 v 0.1 c -0.55,0.01 -0.66,0.08 -0.66,0.42 v 4.17 z"
+         id="path4528" /></g>    <g
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:normal;word-spacing:normal;text-anchor:start;fill:none;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10.43299961;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       ns0:preamble="/home/sriranga/Desktop/Basic-Electronics-Figures/package.tex"
+       ns0:text="$R_2$"
+       word-spacing="normal"
+       letter-spacing="normal"
+       font-size-adjust="none"
+       font-stretch="normal"
+       font-weight="normal"
+       font-variant="normal"
+       font-style="normal"
+       stroke-miterlimit="10.433"
+       xml:space="preserve"
+       transform="matrix(1,0,0,-1,-124.81288,1574.1988)"
+       id="g4730"><path
+         style="fill:#000000;stroke-width:0"
+         inkscape:connector-curvature="0"
+         id="path4732"
+         d="m 229.07,707.28 -0.04,0.01 -0.04,0 -0.03,0.01 -0.04,0 -0.04,0.01 -0.03,0.01 -0.03,0.01 -0.03,0.01 -0.03,0.01 -0.03,0.01 -0.03,0.01 -0.03,0.02 -0.03,0.01 -0.02,0.02 -0.03,0.02 -0.02,0.02 -0.03,0.02 -0.02,0.02 -0.02,0.03 -0.02,0.02 -0.02,0.03 -0.03,0.03 -0.02,0.03 -0.02,0.03 -0.01,0.04 -0.02,0.03 -0.02,0.04 -0.02,0.04 -0.02,0.04 -0.02,0.05 -0.02,0.04 -0.01,0.05 -0.93,2.43 c 0.77,0.17 1.1,0.31 1.45,0.63 0.33,0.29 0.51,0.67 0.51,1.12 0,0.92 -0.73,1.43 -2.07,1.43 l -0.21,-0.3 c 0.83,0 1.24,-0.37 1.24,-1.11 0,-0.98 -0.64,-1.49 -1.88,-1.49 -0.16,0 -0.27,0.01 -0.51,0.05 l 0.65,2.28 c 0.06,0.2 0.18,0.27 0.5,0.27 l 0.21,0.3 h -2.47 v -0.16 c 0.42,-0.06 0.47,-0.07 0.57,-0.14 0.08,-0.05 0.14,-0.16 0.14,-0.27 0,-0.12 -0.05,-0.36 -0.12,-0.63 l -1.22,-4.39 c -0.18,-0.59 -0.25,-0.65 -0.81,-0.74 v -0.16 h 2.43 v 0.16 c -0.61,0.08 -0.68,0.13 -0.68,0.46 0,0.1 0.03,0.23 0.12,0.58 l 0.56,2.07 0.65,-0.05 1.22,-3.22 h 1.47 z" /><path
+         style="fill:#000000;stroke-width:0"
+         inkscape:connector-curvature="0"
+         id="path4734"
+         d="m 232.83,706.58 -0.09,0.04 c -0.26,-0.4 -0.35,-0.46 -0.67,-0.46 h -1.66 l 1.17,1.22 c 0.62,0.65 0.89,1.18 0.89,1.72 0,0.7 -0.56,1.23 -1.29,1.23 -0.38,0 -0.74,-0.15 -1,-0.43 -0.22,-0.24 -0.33,-0.46 -0.44,-0.95 l 0.14,-0.04 c 0.28,0.68 0.53,0.91 1.01,0.91 0.59,0 0.98,-0.4 0.98,-0.98 0,-0.55 -0.32,-1.19 -0.9,-1.81 l -1.24,-1.32 v -0.08 h 2.71 z" /></g>    <g
+       id="g4929"
+       transform="matrix(1,0,0,-1,-10.28824,1628.098)"
+       xml:space="preserve"
+       stroke-miterlimit="10.433"
+       font-style="normal"
+       font-variant="normal"
+       font-weight="normal"
+       font-stretch="normal"
+       font-size-adjust="none"
+       letter-spacing="normal"
+       word-spacing="normal"
+       ns0:text="$R_0$"
+       ns0:preamble="/home/sriranga/Desktop/Basic-Electronics-Figures/package.tex"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:normal;word-spacing:normal;text-anchor:start;fill:none;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10.43299961;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"><path
+         style="fill:#000000;stroke-width:0"
+         inkscape:connector-curvature="0"
+         d="m 229.07,707.28 -0.04,0.01 -0.04,0 -0.03,0.01 -0.04,0 -0.04,0.01 -0.03,0.01 -0.03,0.01 -0.03,0.01 -0.03,0.01 -0.03,0.01 -0.03,0.01 -0.03,0.02 -0.03,0.01 -0.02,0.02 -0.03,0.02 -0.02,0.02 -0.03,0.02 -0.02,0.02 -0.02,0.03 -0.02,0.02 -0.02,0.03 -0.03,0.03 -0.02,0.03 -0.02,0.03 -0.01,0.04 -0.02,0.03 -0.02,0.04 -0.02,0.04 -0.02,0.04 -0.02,0.05 -0.02,0.04 -0.01,0.05 -0.93,2.43 c 0.77,0.17 1.1,0.31 1.45,0.63 0.33,0.29 0.51,0.67 0.51,1.12 0,0.92 -0.73,1.43 -2.07,1.43 l -0.21,-0.3 c 0.83,0 1.24,-0.37 1.24,-1.11 0,-0.98 -0.64,-1.49 -1.88,-1.49 -0.16,0 -0.27,0.01 -0.51,0.05 l 0.65,2.28 c 0.06,0.2 0.18,0.27 0.5,0.27 l 0.21,0.3 h -2.47 v -0.16 c 0.42,-0.06 0.47,-0.07 0.57,-0.14 0.08,-0.05 0.14,-0.16 0.14,-0.27 0,-0.12 -0.05,-0.36 -0.12,-0.63 l -1.22,-4.39 c -0.18,-0.59 -0.25,-0.65 -0.81,-0.74 v -0.16 h 2.43 v 0.16 c -0.61,0.08 -0.68,0.13 -0.68,0.46 0,0.1 0.03,0.23 0.12,0.58 l 0.56,2.07 0.65,-0.05 1.22,-3.22 h 1.47 z"
+         id="path4931" /><path
+         style="fill:#000000;stroke-width:0"
+         inkscape:connector-curvature="0"
+         d="m 231.29,710.33 -0.04,0 -0.03,0 -0.04,0 -0.03,0 -0.04,-0.01 -0.03,0 -0.03,-0.01 -0.03,0 -0.04,-0.01 -0.03,0 -0.03,-0.01 -0.03,-0.01 -0.03,-0.01 -0.03,-0.01 -0.03,-0.01 -0.03,-0.01 -0.02,-0.01 -0.03,-0.01 -0.03,-0.01 -0.03,-0.02 -0.03,-0.01 -0.02,-0.02 -0.03,-0.01 -0.02,-0.02 -0.03,-0.02 -0.03,-0.02 -0.02,-0.02 -0.03,-0.01 -0.02,-0.02 -0.03,-0.03 -0.02,-0.02 -0.03,-0.02 c -0.4,-0.39 -0.66,-1.19 -0.66,-2 0,-0.76 0.23,-1.57 0.55,-1.96 0.26,-0.31 0.62,-0.48 1.02,-0.48 v 0.18 c -0.6,0 -0.91,0.75 -0.91,2.2 0,1.47 0.32,2.24 0.92,2.24 h 0 c 0.58,0 0.89,-0.79 0.89,-2.24 0,-1.45 -0.3,-2.2 -0.9,-2.2 v -0.18 c 0.36,0 0.65,0.12 0.9,0.37 0.41,0.38 0.67,1.18 0.67,2.03 0,1.42 -0.63,2.4 -1.54,2.4 z"
+         id="path4933" /></g>    <g
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:normal;word-spacing:normal;text-anchor:start;fill:none;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10.43299961;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       ns0:preamble="/home/sriranga/Desktop/Basic-Electronics-Figures/package.tex"
+       ns0:text="$R_L$"
+       word-spacing="normal"
+       letter-spacing="normal"
+       font-size-adjust="none"
+       font-stretch="normal"
+       font-weight="normal"
+       font-variant="normal"
+       font-style="normal"
+       stroke-miterlimit="10.433"
+       xml:space="preserve"
+       transform="matrix(1,0,0,-1,39.68472,1627.0761)"
+       id="g5134"><path
+         id="path5136"
+         d="m 229.07,707.28 -0.04,0.01 -0.04,0 -0.03,0.01 -0.04,0 -0.04,0.01 -0.03,0.01 -0.03,0.01 -0.03,0.01 -0.03,0.01 -0.03,0.01 -0.03,0.01 -0.03,0.02 -0.03,0.01 -0.02,0.02 -0.03,0.02 -0.02,0.02 -0.03,0.02 -0.02,0.02 -0.02,0.03 -0.02,0.02 -0.02,0.03 -0.03,0.03 -0.02,0.03 -0.02,0.03 -0.01,0.04 -0.02,0.03 -0.02,0.04 -0.02,0.04 -0.02,0.04 -0.02,0.05 -0.02,0.04 -0.01,0.05 -0.93,2.43 c 0.77,0.17 1.1,0.31 1.45,0.63 0.33,0.29 0.51,0.67 0.51,1.12 0,0.92 -0.73,1.43 -2.07,1.43 l -0.21,-0.3 c 0.83,0 1.24,-0.37 1.24,-1.11 0,-0.98 -0.64,-1.49 -1.88,-1.49 -0.16,0 -0.27,0.01 -0.51,0.05 l 0.65,2.28 c 0.06,0.2 0.18,0.27 0.5,0.27 l 0.21,0.3 h -2.47 v -0.16 c 0.42,-0.06 0.47,-0.07 0.57,-0.14 0.08,-0.05 0.14,-0.16 0.14,-0.27 0,-0.12 -0.05,-0.36 -0.12,-0.63 l -1.22,-4.39 c -0.18,-0.59 -0.25,-0.65 -0.81,-0.74 v -0.16 h 2.43 v 0.16 c -0.61,0.08 -0.68,0.13 -0.68,0.46 0,0.1 0.03,0.23 0.12,0.58 l 0.56,2.07 0.65,-0.05 1.22,-3.22 h 1.47 z"
+         inkscape:connector-curvature="0"
+         style="fill:#000000;stroke-width:0" /><path
+         id="path5138"
+         d="m 232.5,710.17 h -1.9 v -0.11 c 0.43,-0.04 0.54,-0.1 0.54,-0.3 0,-0.1 -0.03,-0.26 -0.08,-0.43 l -0.86,-3.07 c -0.12,-0.41 -0.17,-0.45 -0.56,-0.52 v -0.11 h 3.54 l 0.41,1.25 -0.14,0.04 c -0.25,-0.5 -0.43,-0.73 -0.74,-0.88 -0.24,-0.12 -0.53,-0.16 -1.14,-0.16 -0.53,0 -0.7,0.06 -0.7,0.24 0,0.05 0.04,0.21 0.07,0.35 l 0.86,3.08 c 0.1,0.35 0.28,0.48 0.7,0.51 z"
+         inkscape:connector-curvature="0"
+         style="fill:#000000;stroke-width:0" /></g>    <g
+       id="g5344"
+       transform="matrix(1,0,0,-1,-15.033027,1602.148)"
+       xml:space="preserve"
+       stroke-miterlimit="10.433"
+       font-style="normal"
+       font-variant="normal"
+       font-weight="normal"
+       font-stretch="normal"
+       font-size-adjust="none"
+       letter-spacing="normal"
+       word-spacing="normal"
+       ns0:text="$i_o$"
+       ns0:preamble="/home/sriranga/Desktop/Basic-Electronics-Figures/package.tex"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:normal;word-spacing:normal;text-anchor:start;fill:none;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10.43299961;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"><path
+         style="fill:#000000;stroke-width:0"
+         inkscape:connector-curvature="0"
+         d="m 225.64,708.26 -0.02,-0.03 -0.02,-0.03 -0.02,-0.03 -0.02,-0.02 -0.02,-0.02 -0.02,-0.03 -0.01,-0.02 -0.02,-0.02 -0.01,-0.02 -0.02,-0.02 -0.01,-0.02 -0.02,-0.01 -0.01,-0.02 -0.01,-0.02 -0.01,-0.01 -0.02,-0.01 -0.01,-0.02 -0.01,-0.01 -0.01,-0.01 -0.01,-0.01 -0.01,-0.02 -0.01,-0.01 -0.02,-0.02 -0.01,-0.02 -0.02,-0.02 -0.02,-0.02 -0.02,-0.02 c -0.17,-0.17 -0.32,-0.27 -0.41,-0.27 -0.08,0 -0.15,0.08 -0.15,0.15 0,0.1 0.03,0.25 0.09,0.44 0,0.03 0.03,0.1 0.06,0.18 v 0.02 l 0,0.02 0.88,3.2 -0.03,0.02 c -1,-0.19 -1.2,-0.22 -1.59,-0.25 v -0.16 c 0.53,-0.01 0.63,-0.04 0.63,-0.24 0,-0.08 -0.03,-0.24 -0.09,-0.44 l -0.48,-1.76 c -0.16,-0.57 -0.22,-0.88 -0.22,-1.08 0,-0.37 0.16,-0.56 0.46,-0.56 0.46,0 0.82,0.29 1.39,1.13 z"
+         id="path5346" /><path
+         style="fill:#000000;stroke-width:0"
+         inkscape:connector-curvature="0"
+         d="m 225.56,713.62 -0.02,0 -0.03,0 -0.02,0 -0.03,-0.01 -0.02,0 -0.02,-0.01 -0.02,-0.01 -0.03,-0.01 -0.02,-0.01 -0.02,-0.01 -0.02,-0.01 -0.02,-0.02 -0.01,-0.01 -0.02,-0.02 -0.02,-0.01 -0.01,-0.02 -0.02,-0.02 -0.01,-0.02 -0.02,-0.02 -0.01,-0.02 -0.01,-0.02 -0.01,-0.02 -0.01,-0.02 -0.01,-0.03 -0.01,-0.02 -0.01,-0.03 0,-0.02 -0.01,-0.03 0,-0.02 0,-0.03 -0.01,-0.03 0,-0.03 c 0,-0.31 0.19,-0.52 0.48,-0.52 0.26,0 0.49,0.23 0.49,0.51 0,0.28 -0.23,0.54 -0.5,0.54 z"
+         id="path5348" /><path
+         style="fill:#000000;stroke-width:0"
+         inkscape:connector-curvature="0"
+         d="m 228.46,708.7 -0.08,-0.15 c 0.3,0 0.5,-0.26 0.5,-0.65 0,-0.51 -0.23,-1.2 -0.54,-1.66 -0.26,-0.37 -0.52,-0.54 -0.82,-0.54 -0.33,0 -0.54,0.25 -0.54,0.63 0,0.52 0.2,1.13 0.54,1.62 0.27,0.39 0.56,0.6 0.86,0.6 h 0 l 0.08,0.15 c -1.04,0 -2.07,-1.08 -2.07,-2.17 0,-0.6 0.39,-0.98 1.02,-0.98 0.46,0 0.91,0.21 1.31,0.61 0.46,0.45 0.74,1.04 0.74,1.56 0,0.58 -0.4,0.98 -1,0.98 z"
+         id="path5350" /></g>    <g
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:normal;word-spacing:normal;text-anchor:start;fill:none;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10.43299961;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       ns0:preamble="/home/sriranga/Desktop/Basic-Electronics-Figures/package.tex"
+       ns0:text="$i_L$"
+       word-spacing="normal"
+       letter-spacing="normal"
+       font-size-adjust="none"
+       font-stretch="normal"
+       font-weight="normal"
+       font-variant="normal"
+       font-style="normal"
+       stroke-miterlimit="10.433"
+       xml:space="preserve"
+       transform="matrix(1,0,0,-1,35.698943,1602.148)"
+       id="g5560"><path
+         id="path5562"
+         d="m 225.64,708.26 -0.02,-0.03 -0.02,-0.03 -0.02,-0.03 -0.02,-0.02 -0.02,-0.02 -0.02,-0.03 -0.01,-0.02 -0.02,-0.02 -0.01,-0.02 -0.02,-0.02 -0.01,-0.02 -0.02,-0.01 -0.01,-0.02 -0.01,-0.02 -0.01,-0.01 -0.02,-0.01 -0.01,-0.02 -0.01,-0.01 -0.01,-0.01 -0.01,-0.01 -0.01,-0.02 -0.01,-0.01 -0.02,-0.02 -0.01,-0.02 -0.02,-0.02 -0.02,-0.02 -0.02,-0.02 c -0.17,-0.17 -0.32,-0.27 -0.41,-0.27 -0.08,0 -0.15,0.08 -0.15,0.15 0,0.1 0.03,0.25 0.09,0.44 0,0.03 0.03,0.1 0.06,0.18 v 0.02 l 0,0.02 0.88,3.2 -0.03,0.02 c -1,-0.19 -1.2,-0.22 -1.59,-0.25 v -0.16 c 0.53,-0.01 0.63,-0.04 0.63,-0.24 0,-0.08 -0.03,-0.24 -0.09,-0.44 l -0.48,-1.76 c -0.16,-0.57 -0.22,-0.88 -0.22,-1.08 0,-0.37 0.16,-0.56 0.46,-0.56 0.46,0 0.82,0.29 1.39,1.13 z"
+         inkscape:connector-curvature="0"
+         style="fill:#000000;stroke-width:0" /><path
+         id="path5564"
+         d="m 225.56,713.62 -0.02,0 -0.03,0 -0.02,0 -0.03,-0.01 -0.02,0 -0.02,-0.01 -0.02,-0.01 -0.03,-0.01 -0.02,-0.01 -0.02,-0.01 -0.02,-0.01 -0.02,-0.02 -0.01,-0.01 -0.02,-0.02 -0.02,-0.01 -0.01,-0.02 -0.02,-0.02 -0.01,-0.02 -0.02,-0.02 -0.01,-0.02 -0.01,-0.02 -0.01,-0.02 -0.01,-0.02 -0.01,-0.03 -0.01,-0.02 -0.01,-0.03 0,-0.02 -0.01,-0.03 0,-0.02 0,-0.03 -0.01,-0.03 0,-0.03 c 0,-0.31 0.19,-0.52 0.48,-0.52 0.26,0 0.49,0.23 0.49,0.51 0,0.28 -0.23,0.54 -0.5,0.54 z"
+         inkscape:connector-curvature="0"
+         style="fill:#000000;stroke-width:0" /><path
+         id="path5566"
+         d="m 229.18,710.17 h -1.9 v -0.11 c 0.43,-0.04 0.54,-0.1 0.54,-0.3 0,-0.1 -0.03,-0.26 -0.08,-0.43 l -0.86,-3.07 c -0.12,-0.41 -0.17,-0.45 -0.56,-0.52 v -0.11 h 3.55 l 0.4,1.25 -0.14,0.04 c -0.24,-0.5 -0.43,-0.73 -0.74,-0.88 -0.24,-0.12 -0.53,-0.16 -1.13,-0.16 -0.53,0 -0.71,0.06 -0.71,0.24 0,0.05 0.04,0.21 0.07,0.35 l 0.86,3.08 c 0.1,0.35 0.28,0.48 0.7,0.51 z"
+         inkscape:connector-curvature="0"
+         style="fill:#000000;stroke-width:0" /></g>    <g
+       id="g5787"
+       transform="matrix(1,0,0,-1,97.341019,1562.6897)"
+       xml:space="preserve"
+       stroke-miterlimit="10.433"
+       font-style="normal"
+       font-variant="normal"
+       font-weight="normal"
+       font-stretch="normal"
+       font-size-adjust="none"
+       letter-spacing="normal"
+       word-spacing="normal"
+       ns0:text="$v_0$"
+       ns0:preamble="/home/sriranga/Desktop/Basic-Electronics-Figures/package.tex"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:normal;word-spacing:normal;text-anchor:start;fill:none;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10.43299961;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"><path
+         style="fill:#000000;stroke-width:0"
+         inkscape:connector-curvature="0"
+         d="m 223.64,711.13 0.02,0 0.02,0 0.02,0 0.02,0 0.02,0 0.01,0.01 0.02,0 0.02,0 0.04,0 0.01,0 0.02,0 0.02,0 0.02,0 0.02,0 0.02,0 c 0.39,0 0.49,-0.17 0.63,-1.09 0.1,-0.68 0.22,-2.18 0.22,-2.76 0,-0.27 0.01,-0.34 0.09,-0.34 0.24,0 1.17,1.05 2.18,2.46 0.35,0.5 0.61,1.14 0.61,1.51 0,0.32 -0.26,0.59 -0.56,0.59 -0.22,0 -0.37,-0.13 -0.37,-0.34 0,-0.16 0.06,-0.28 0.24,-0.44 0.13,-0.12 0.18,-0.2 0.18,-0.3 0,-0.45 -0.65,-1.56 -1.36,-2.29 l -0.31,-0.32 c -0.07,1.4 -0.13,1.92 -0.26,2.65 -0.2,1.02 -0.2,1.04 -0.29,1.04 -0.04,0 -0.12,-0.01 -0.2,-0.04 -0.17,-0.05 -0.72,-0.15 -1.1,-0.21 z"
+         id="path5789" /><path
+         style="fill:#000000;stroke-width:0"
+         inkscape:connector-curvature="0"
+         d="m 229.62,710.33 -0.03,0 -0.04,0 -0.03,0 -0.03,0 -0.04,-0.01 -0.03,0 -0.03,-0.01 -0.04,0 -0.03,-0.01 -0.03,0 -0.03,-0.01 -0.03,-0.01 -0.03,-0.01 -0.03,-0.01 -0.03,-0.01 -0.03,-0.01 -0.03,-0.01 -0.03,-0.01 -0.02,-0.01 -0.03,-0.02 -0.03,-0.01 -0.02,-0.02 -0.03,-0.01 -0.03,-0.02 -0.02,-0.02 -0.03,-0.02 -0.02,-0.02 -0.03,-0.01 -0.02,-0.02 -0.03,-0.03 -0.02,-0.02 -0.03,-0.02 c -0.4,-0.39 -0.67,-1.19 -0.67,-2 0,-0.76 0.23,-1.57 0.56,-1.96 0.26,-0.31 0.61,-0.48 1.02,-0.48 v 0.18 c -0.6,0 -0.91,0.75 -0.91,2.2 0,1.47 0.32,2.24 0.91,2.24 h 0 c 0.59,0 0.9,-0.79 0.9,-2.24 0,-1.45 -0.3,-2.2 -0.9,-2.2 v -0.18 c 0.35,0 0.65,0.12 0.9,0.37 0.41,0.38 0.67,1.18 0.67,2.03 0,1.42 -0.63,2.4 -1.55,2.4 z"
+         id="path5791" /></g>    <g
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:normal;word-spacing:normal;text-anchor:start;fill:none;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10.43299961;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       ns0:preamble="/home/sriranga/Desktop/Basic-Electronics-Figures/package.tex"
+       ns0:text="$A$"
+       word-spacing="normal"
+       letter-spacing="normal"
+       font-size-adjust="none"
+       font-stretch="normal"
+       font-weight="normal"
+       font-variant="normal"
+       font-style="normal"
+       stroke-miterlimit="10.433"
+       xml:space="preserve"
+       transform="matrix(1,0,0,-1,-20.514238,1551.115)"
+       id="content"><path
+         id="path5986"
+         d="m 229.29,707.28 -0.05,0.01 -0.05,0 -0.04,0.01 -0.05,0.01 -0.04,0 -0.04,0.01 -0.03,0.01 -0.04,0.01 -0.03,0.01 -0.03,0.01 -0.03,0.01 -0.02,0.02 -0.03,0.01 -0.02,0.02 -0.02,0.02 -0.02,0.02 -0.02,0.02 -0.02,0.03 -0.01,0.02 -0.02,0.03 -0.01,0.03 -0.02,0.04 -0.01,0.04 -0.01,0.04 -0.01,0.04 -0.01,0.04 -0.02,0.05 -0.01,0.06 0,0.02 -0.01,0.03 0,0.03 -0.01,0.03 -0.01,0.03 0,0.03 -0.01,0.03 0,0.04 -0.94,5.62 h -0.26 l -2.88,-4.97 c -0.79,-1.32 -0.89,-1.43 -1.29,-1.51 v -0.16 h 1.86 v 0.16 c -0.5,0.05 -0.58,0.1 -0.58,0.35 0,0.19 0.03,0.28 0.2,0.62 l 0.56,1.12 h 2.19 l -0.05,0.36 h -1.93 l 1.49,2.58 0.44,-2.58 0.05,-0.36 0.2,-1.3 c 0.01,-0.09 0.02,-0.18 0.02,-0.26 0,-0.38 -0.14,-0.47 -0.77,-0.53 v -0.16 h 2.44 z"
+         inkscape:connector-curvature="0"
+         style="fill:#000000;stroke-width:0" /></g>    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       d="m 83.413731,839.11696 27.111139,0"
+       style="fill:none;stroke:#231f20;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.86369991;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Mend-8)"
+       id="path6063" />
+    <g
+       id="g6154"
+       transform="matrix(1,0,0,-1,-109.74652,1549.572)"
+       xml:space="preserve"
+       stroke="black"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="10.433"
+       stroke-dasharray="none"
+       stroke-dashoffset="0"
+       stroke-opacity="1"
+       fill="none"
+       fill-rule="evenodd"
+       fill-opacity="1"
+       font-style="normal"
+       font-variant="normal"
+       font-weight="normal"
+       font-stretch="normal"
+       font-size-adjust="none"
+       letter-spacing="normal"
+       word-spacing="normal"
+       text-anchor="start"
+       ns0:text="$i_1$"
+       ns0:preamble="/home/sriranga/Desktop/Basic-Electronics-Figures/package.tex"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:normal;word-spacing:normal;text-anchor:start;fill:none;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10.43299961;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"><path
+         d="M225.64,708.26 L225.62,708.23 L225.6,708.2 L225.58,708.17 L225.56,708.15 L225.54,708.13 L225.52,708.1 L225.51,708.08 L225.49,708.06 L225.48,708.04 L225.46,708.02 L225.45,708 L225.43,707.99 L225.42,707.97 L225.41,707.95 L225.4,707.94 L225.38,707.93 L225.37,707.91 L225.36,707.9 L225.35,707.89 L225.34,707.88 L225.33,707.86 L225.32,707.85 L225.3,707.83 L225.29,707.81 L225.27,707.79 L225.25,707.77 L225.23,707.75 C225.06,707.58,224.91,707.48,224.82,707.48 C224.74,707.48,224.67,707.56,224.67,707.63 C224.67,707.73,224.7,707.88,224.76,708.07 C224.76,708.1,224.79,708.17,224.82,708.25 V708.27 L224.82,708.29 L225.7,711.49 L225.67,711.51 C224.67,711.32,224.47,711.29,224.08,711.26 V711.1 C224.61,711.09,224.71,711.06,224.71,710.86 C224.71,710.78,224.68,710.62,224.62,710.42 L224.14,708.66 C223.98,708.09,223.92,707.78,223.92,707.58 C223.92,707.21,224.08,707.02,224.38,707.02 C224.84,707.02,225.2,707.31,225.77,708.15 Z "
+         stroke-width="0"
+         fill="black"
+         id="path6156" /><path
+         d="M225.56,713.62 L225.54,713.62 L225.51,713.62 L225.49,713.62 L225.46,713.61 L225.44,713.61 L225.42,713.6 L225.4,713.59 L225.37,713.58 L225.35,713.57 L225.33,713.56 L225.31,713.55 L225.29,713.53 L225.28,713.52 L225.26,713.5 L225.24,713.49 L225.23,713.47 L225.21,713.45 L225.2,713.43 L225.18,713.41 L225.17,713.39 L225.16,713.37 L225.15,713.35 L225.14,713.33 L225.13,713.3 L225.12,713.28 L225.11,713.25 L225.11,713.23 L225.1,713.2 L225.1,713.18 L225.1,713.15 L225.09,713.12 L225.09,713.09 C225.09,712.78,225.28,712.57,225.57,712.57 C225.83,712.57,226.06,712.8,226.06,713.08 C226.06,713.36,225.83,713.62,225.56,713.62 Z "
+         stroke-width="0"
+         fill="black"
+         id="path6158" /><path
+         d="M228.23,710.33 L226.98,709.7 V709.6 C227.06,709.64,227.13,709.66,227.16,709.68 C227.29,709.73,227.41,709.76,227.48,709.76 C227.62,709.76,227.69,709.65,227.69,709.43 V706.28 C227.69,706.05,227.63,705.89,227.52,705.83 C227.41,705.76,227.32,705.74,227.02,705.73 V705.63 H228.95 V705.73 C228.4,705.74,228.28,705.81,228.28,706.15 V710.32 Z "
+         stroke-width="0"
+         fill="black"
+         id="path6160" /></g>    <path
+       id="path6242"
+       style="fill:none;stroke:#231f20;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.86369991;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Mend-8)"
+       d="m 83.413731,888.7476 27.111139,0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <g
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:normal;word-spacing:normal;text-anchor:start;fill:none;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10.43299961;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       ns0:preamble="/home/sriranga/Desktop/Basic-Electronics-Figures/package.tex"
+       ns0:text="$i_2$"
+       text-anchor="start"
+       word-spacing="normal"
+       letter-spacing="normal"
+       font-size-adjust="none"
+       font-stretch="normal"
+       font-weight="normal"
+       font-variant="normal"
+       font-style="normal"
+       fill-opacity="1"
+       fill-rule="evenodd"
+       fill="none"
+       stroke-opacity="1"
+       stroke-dashoffset="0"
+       stroke-dasharray="none"
+       stroke-miterlimit="10.433"
+       stroke-linejoin="miter"
+       stroke-linecap="butt"
+       stroke="black"
+       xml:space="preserve"
+       transform="matrix(1,0,0,-1,-109.74652,1599.2026)"
+       id="g6335"><path
+         id="path6337"
+         fill="black"
+         stroke-width="0"
+         d="M225.64,708.26 L225.62,708.23 L225.6,708.2 L225.58,708.17 L225.56,708.15 L225.54,708.13 L225.52,708.1 L225.51,708.08 L225.49,708.06 L225.48,708.04 L225.46,708.02 L225.45,708 L225.43,707.99 L225.42,707.97 L225.41,707.95 L225.4,707.94 L225.38,707.93 L225.37,707.91 L225.36,707.9 L225.35,707.89 L225.34,707.88 L225.33,707.86 L225.32,707.85 L225.3,707.83 L225.29,707.81 L225.27,707.79 L225.25,707.77 L225.23,707.75 C225.06,707.58,224.91,707.48,224.82,707.48 C224.74,707.48,224.67,707.56,224.67,707.63 C224.67,707.73,224.7,707.88,224.76,708.07 C224.76,708.1,224.79,708.17,224.82,708.25 V708.27 L224.82,708.29 L225.7,711.49 L225.67,711.51 C224.67,711.32,224.47,711.29,224.08,711.26 V711.1 C224.61,711.09,224.71,711.06,224.71,710.86 C224.71,710.78,224.68,710.62,224.62,710.42 L224.14,708.66 C223.98,708.09,223.92,707.78,223.92,707.58 C223.92,707.21,224.08,707.02,224.38,707.02 C224.84,707.02,225.2,707.31,225.77,708.15 Z " /><path
+         id="path6339"
+         fill="black"
+         stroke-width="0"
+         d="M225.56,713.62 L225.54,713.62 L225.51,713.62 L225.49,713.62 L225.46,713.61 L225.44,713.61 L225.42,713.6 L225.4,713.59 L225.37,713.58 L225.35,713.57 L225.33,713.56 L225.31,713.55 L225.29,713.53 L225.28,713.52 L225.26,713.5 L225.24,713.49 L225.23,713.47 L225.21,713.45 L225.2,713.43 L225.18,713.41 L225.17,713.39 L225.16,713.37 L225.15,713.35 L225.14,713.33 L225.13,713.3 L225.12,713.28 L225.11,713.25 L225.11,713.23 L225.1,713.2 L225.1,713.18 L225.1,713.15 L225.09,713.12 L225.09,713.09 C225.09,712.78,225.28,712.57,225.57,712.57 C225.83,712.57,226.06,712.8,226.06,713.08 C226.06,713.36,225.83,713.62,225.56,713.62 Z " /><path
+         id="path6341"
+         fill="black"
+         stroke-width="0"
+         d="M229.51,706.58 L229.42,706.62 C229.16,706.22,229.07,706.16,228.76,706.16 H227.09 L228.26,707.38 C228.88,708.03,229.15,708.56,229.15,709.1 C229.15,709.8,228.59,710.33,227.87,710.33 C227.48,710.33,227.12,710.18,226.86,709.9 C226.64,709.66,226.54,709.44,226.42,708.95 L226.56,708.91 C226.84,709.59,227.09,709.82,227.57,709.82 C228.16,709.82,228.56,709.42,228.56,708.84 C228.56,708.29,228.24,707.65,227.65,707.03 L226.41,705.71 V705.63 H229.13 Z " /></g>    <path
+       sodipodi:type="arc"
+       id="path6428"
+       style="fill:#000000;stroke:none"
+       sodipodi:cx="205"
+       sodipodi:cy="852.3609"
+       sodipodi:rx="2.5"
+       sodipodi:ry="2.5"
+       d="m 207.5,852.3609 c 0,1.38071 -1.11929,2.5 -2.5,2.5 -1.38071,0 -2.5,-1.11929 -2.5,-2.5 0,-1.38071 1.11929,-2.5 2.5,-2.5 1.38071,0 2.5,1.11929 2.5,2.5 z" />
+    <path
+       sodipodi:type="arc"
+       id="path6430"
+       style="fill:#000000;stroke:none"
+       sodipodi:cx="255"
+       sodipodi:cy="852.3609"
+       sodipodi:rx="2.5"
+       sodipodi:ry="2.5"
+       d="m 257.5,852.3609 c 0,1.38071 -1.11929,2.5 -2.5,2.5 -1.38071,0 -2.5,-1.11929 -2.5,-2.5 0,-1.38071 1.11929,-2.5 2.5,-2.5 1.38071,0 2.5,1.11929 2.5,2.5 z" />
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:LMRoman12;-inkscape-font-specification:LMRoman12"
+       x="309.50723"
+       y="863.0506"
+       id="text2891"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan2893"
+         x="309.50723"
+         y="863.0506">+</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18.21656036px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:LMRoman12;-inkscape-font-specification:LMRoman12"
+       x="204.82812"
+       y="1336.0232"
+       id="text2895"
+       sodipodi:linespacing="125%"
+       transform="scale(1.5180465,0.65874134)"><tspan
+         sodipodi:role="line"
+         id="tspan2897"
+         x="204.82812"
+         y="1336.0232">-</tspan></text>
+  </g>
+</svg>

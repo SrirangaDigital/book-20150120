@@ -1,0 +1,7933 @@
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=latex 2011.8.10)  20 JAN 2015 11:21
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**mainfile.tex
+(./mainfile.tex
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, dumylang, nohyphenation, ge
+rman-x-2009-06-19, ngerman-x-2009-06-19, afrikaans, ancientgreek, ibycus, arabi
+c, armenian, basque, bulgarian, catalan, pinyin, coptic, croatian, czech, danis
+h, dutch, ukenglish, usenglishmax, esperanto, estonian, ethiopic, farsi, finnis
+h, french, galician, german, ngerman, swissgerman, monogreek, greek, hungarian,
+ icelandic, assamese, bengali, gujarati, hindi, kannada, malayalam, marathi, or
+iya, panjabi, tamil, telugu, indonesian, interlingua, irish, italian, kurmanji,
+ lao, latin, latvian, lithuanian, mongolian, mongolianlmc, bokmal, nynorsk, pol
+ish, portuguese, romanian, russian, sanskrit, serbian, serbianc, slovak, sloven
+ian, spanish, swedish, turkish, turkmen, ukrainian, uppersorbian, welsh, loaded
+.
+(/usr/local/texlive/2011/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2011/texmf-dist/tex/latex/base/bk11.clo
+File: bk11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip43
+\bibsep=\skip44
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count88
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/rotating/rotating.sty
+Package: rotating 2009/03/28 v2.16a rotated objects in LaTeX
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: dvips.def on input line 91.
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/graphics/dvips.def
+File: dvips.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\c@r@tfl@t=\count89
+\rotFPtop=\skip45
+\rotFPbot=\skip46
+\rot@float@box=\box26
+\rot@mess@toks=\toks15
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/sectsty/sectsty.sty
+Package: sectsty 2002/02/25 v2.0.2 Commands to change all sectional heading sty
+les
+)
+(./fncychap.sty
+Package: fncychap 2007/07/30 v1.34 LaTeX package (Revised chapters)
+\RW=\skip47
+\mylen=\skip48
+\myhi=\skip49
+\px=\skip50
+\py=\skip51
+\pyy=\skip52
+\pxx=\skip53
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: dvips.def on input line 130.
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/graphics/dvipsnam.def
+File: dvipsnam.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
+))
+(./macros.tex
+(/usr/local/texlive/2011/texmf-dist/tex/latex/zwpagelayout/zwpagelayout.sty
+Package: zwpagelayout 2010/12/21 ZW Page Layout
+Package zwpagelayout Info: $Id: zwpagelayout.sty 377 2010-12-21 14:29:56Z zw $.
+
+
+(/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is not detected.
+)
+(/usr/local/texlive/2011/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2010/12/23 v3.10 Keyval support for LaTeX options (HO)
+
+(/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/04/18 v1.20 LaTeX kernel commands for general use (HO)
+)
+(/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2011/04/07 v1.13 Key value parser (HO)
+
+(/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/message (HO)
+)
+(/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Prefix for e-TeX command names (HO)
+
+(/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+\zwpl@Driver=\count90
+Package zwpagelayout Info: Driver mode used: dvips.
+(zwpagelayout)              on input line 207.
+\ZW@baselineskip=\skip54
+\zwpl@low=\dimen105
+\zwpl@len=\dimen106
+\zwpl@gap=\dimen107
+\zwpl@plus=\dimen108
+\zwpl@minus=\dimen109
+\zwpl@frame=\dimen110
+\zwpl@vsize=\dimen111
+\zwpl@Hshift=\count91
+\zwpl@Vshift=\count92
+)
+Package color Info: Redefining color lightgray on input line 8.
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2000/07/18 v2.13 AMS math features
+\@mathmargin=\skip55
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2011/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks16
+\ex@=\dimen112
+))
+(/usr/local/texlive/2011/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen113
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count93
+LaTeX Info: Redefining \frac on input line 211.
+\uproot@=\count94
+\leftroot@=\count95
+LaTeX Info: Redefining \overline on input line 307.
+\classnum@=\count96
+\DOTSCASE@=\count97
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
+\Mathstrutbox@=\box27
+\strutbox@=\box28
+\big@size=\dimen114
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+\macc@depth=\count98
+\c@MaxMatrixCols=\count99
+\dotsspace@=\muskip10
+\c@parentequation=\count100
+\dspbrk@lvl=\count101
+\tag@help=\toks17
+\row@=\count102
+\column@=\count103
+\maxfields@=\count104
+\andhelp@=\toks18
+\eqnshift@=\dimen115
+\alignsep@=\dimen116
+\tagshift@=\dimen117
+\tagwidth@=\dimen118
+\totwidth@=\dimen119
+\lineht@=\dimen120
+\@envbody=\toks19
+\multlinegap=\skip56
+\multlinetaggap=\skip57
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2004/02/01 v4.11 Multi-page Table package (DPC)
+\LTleft=\skip58
+\LTright=\skip59
+\LTpre=\skip60
+\LTpost=\skip61
+\LTchunksize=\count105
+\LTcapwidth=\dimen121
+\LT@head=\box29
+\LT@firsthead=\box30
+\LT@foot=\box31
+\LT@lastfoot=\box32
+\LT@cols=\count106
+\LT@rows=\count107
+\c@LT@tables=\count108
+\c@LT@chunks=\count109
+\LT@p@ftn=\toks21
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2008/12/05 v1.6h multicolumn formatting (FMi)
+\c@tracingmulticols=\count110
+\mult@box=\box33
+\multicol@leftmargin=\dimen122
+\c@unbalance=\count111
+\c@collectmore=\count112
+\doublecol@number=\count113
+\multicoltolerance=\count114
+\multicolpretolerance=\count115
+\full@width=\dimen123
+\page@free=\dimen124
+\premulticols=\dimen125
+\postmulticols=\dimen126
+\multicolsep=\skip62
+\multicolbaselineskip=\skip63
+\partial@page=\box34
+\last@line=\box35
+\mult@rightbox=\box36
+\mult@grightbox=\box37
+\mult@gfirstbox=\box38
+\mult@firstbox=\box39
+\@tempa=\box40
+\@tempa=\box41
+\@tempa=\box42
+\@tempa=\box43
+\@tempa=\box44
+\@tempa=\box45
+\@tempa=\box46
+\@tempa=\box47
+\@tempa=\box48
+\@tempa=\box49
+\@tempa=\box50
+\@tempa=\box51
+\@tempa=\box52
+\@tempa=\box53
+\@tempa=\box54
+\@tempa=\box55
+\@tempa=\box56
+\c@columnbadness=\count116
+\c@finalcolumnbadness=\count117
+\last@try=\dimen127
+\multicolovershoot=\dimen128
+\multicolundershoot=\dimen129
+\mult@nat@firstbox=\box57
+\colbreak@box=\box58
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/tools/enumerate.sty
+Package: enumerate 1999/03/05 v3.00 enumerate extensions (DPC)
+\@enLab=\toks22
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/amscls/amsthm.sty
+Package: amsthm 2009/07/02 v2.20.1
+\thm@style=\toks23
+\thm@bodyfont=\toks24
+\thm@headfont=\toks25
+\thm@notefont=\toks26
+\thm@headpunct=\toks27
+\thm@preskip=\skip64
+\thm@postskip=\skip65
+\thm@headsep=\skip66
+\dth@everypar=\toks28
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/base/makeidx.sty
+Package: makeidx 2000/03/29 v1.0m Standard LaTeX package
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/cancel/cancel.sty
+Package: cancel 2000/03/12 v2.1 Cancel math terms
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/graphics/epsfig.sty
+Package: epsfig 1999/02/16 v1.7a (e)psfig emulation (SPQR)
+\epsfxsize=\dimen130
+\epsfysize=\dimen131
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/tools/array.sty
+Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen132
+\extrarowheight=\dimen133
+\NC@list=\toks29
+\extratabsurround=\skip67
+\backup@length=\skip68
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/multirow/multirow.sty
+\bigstrutjot=\dimen134
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/jknapltx/mathrsfs.sty
+Package: mathrsfs 1996/01/01 Math RSFS package v1.0 (jk)
+\symrsfs=\mathgroup4
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/mh/mathtools.sty
+Package: mathtools 2011/02/12 v1.10 mathematical typesetting tools
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2007/08/22 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count118
+\calc@Bcount=\count119
+\calc@Adimen=\dimen135
+\calc@Bdimen=\dimen136
+\calc@Askip=\skip69
+\calc@Bskip=\skip70
+LaTeX Info: Redefining \setlength on input line 76.
+LaTeX Info: Redefining \addtolength on input line 77.
+\calc@Ccount=\count120
+\calc@Cskip=\skip71
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/mh/mhsetup.sty
+Package: mhsetup 2010/01/21 v1.2a programming setup (MH)
+)
+\g_MT_multlinerow_int=\count121
+\l_MT_multwidth_dim=\dimen137
+\origjot=\skip72
+\l_MT_shortvdotswithinadjustabove_dim=\dimen138
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen139
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/mh/xfrac.sty
+(/usr/local/texlive/2011/texmf-dist/tex/latex/expl3/expl3.sty
+(/usr/local/texlive/2011/texmf-dist/tex/latex/expl3/l3names.sty
+Package: l3names 2011/01/08 v2122 L3 Experimental Naming Scheme for TeX Primiti
+ves
+)
+Package: expl3 2011/04/09 v2222 L3 Experimental code bundle wrapper
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/etex-pkg/etex.sty
+Package: etex 1998/03/26 v2.0 eTeX basic definition package (PEB)
+\et@xins=\count122
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/expl3/l3basics.sty
+Package: l3basics 2011/04/23 v2246 L3 Experimental basic definitions
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/expl3/l3expan.sty
+Package: l3expan 2011/04/09 v2223 L3 Experimental Argument Expansion module
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/expl3/l3tl.sty
+Package: l3tl 2011/04/09 v2223 L3 Experimental Token Lists
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/expl3/l3int.sty
+Package: l3int 2011/04/11 v2229 L3 Experimental Integer module
+\l_tmpa_int=\count123
+\l_tmpb_int=\count124
+\l_tmpc_int=\count125
+\g_tmpa_int=\count126
+\g_tmpb_int=\count127
+\c_max_int=\count128
+\g_tl_inline_level_int=\count129
+\g_prg_inline_level_int=\count130
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/expl3/l3quark.sty
+Package: l3quark 2011/04/14 v2234 L3 Experimental Quark Commands
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/expl3/l3seq.sty
+Package: l3seq 2011/04/21 v2245 The LaTeX3 kernel: sequences and stacks
+\g_seq_nesting_depth_int=\count131
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/expl3/l3toks.sty
+Package: l3toks 2011/04/09 v2223 L3 Experimental Token Registers
+\l_tmpb_toks=\toks30
+\l_tmpc_toks=\toks31
+\g_tmpa_toks=\toks32
+\g_tmpb_toks=\toks33
+\g_tmpc_toks=\toks34
+\c_empty_toks=\toks35
+\l_tl_replace_toks=\toks36
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/expl3/l3prg.sty
+Package: l3prg 2011/04/09 v2223 L3 Experimental control structures
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/expl3/l3clist.sty
+Package: l3clist 2011/04/09 v2223 L3 Experimental comma separated lists
+\g_clist_map_inline_int=\count132
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/expl3/l3token.sty
+Package: l3token 2011/04/09 v2223 L3 Experimental token investigation and manip
+ulation
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/expl3/l3prop.sty
+Package: l3prop 2011/04/09 v2223 L3 Experimental Property Lists
+\g_prop_inline_level_int=\count133
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/expl3/l3msg.sty
+Package: l3msg 2010/10/02 v2052 L3 Experimental LaTeX Messages module
+\l_msg_redirect_classes_prop=\toks37
+\l_msg_redirect_names_prop=\toks38
+\l_msg_redirect_fatal_prop=\toks39
+\l_msg_redirect_error_prop=\toks40
+\l_msg_redirect_warning_prop=\toks41
+\l_msg_redirect_info_prop=\toks42
+\l_msg_redirect_log_prop=\toks43
+\l_msg_redirect_trace_prop=\toks44
+\l_msg_redirect_none_prop=\toks45
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/expl3/l3io.sty
+Package: l3io 2010/10/03 v2063 L3 Experimental i/o module
+\g_iow_streams_prop=\toks46
+\g_ior_streams_prop=\toks47
+\l_iow_stream_int=\count134
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/expl3/l3skip.sty
+Package: l3skip 2011/02/15 v2149 L3 Experimental skip registers
+\l_tmpa_skip=\skip73
+\l_tmpb_skip=\skip74
+\l_tmpc_skip=\skip75
+\g_tmpa_skip=\skip76
+\g_tmpb_skip=\skip77
+\l_tmpa_dim=\dimen140
+\l_tmpb_dim=\dimen141
+\l_tmpc_dim=\dimen142
+\l_tmpd_dim=\dimen143
+\g_tmpa_dim=\dimen144
+\g_tmpb_dim=\dimen145
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/expl3/l3box.sty
+Package: l3box 2011/04/09 v2223 L3 Experimental Box module
+\l_tmpb_box=\box59
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/expl3/l3keyval.sty
+Package: l3keyval 2011/04/09 v2223 L3 Experimental keyval processing
+\l_KV_level_int=\count135
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/expl3/l3keys.sty
+Package: l3keys 2010/11/11 v2082 L3 Experimental key-value support
+\l_keys_choice_int=\count136
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/expl3/l3precom.sty
+Package: l3precom 2011/04/09 v2223 L3 Experimental precompilation module
+\g_gen_sym_int=\count137
+\g_ggen_sym_int=\count138
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/expl3/l3xref.sty
+Package: l3xref 2011/04/09 v2223 L3 Experimental cross referencing
+\g_xref_all_curr_immediate_fields_prop=\toks48
+\g_xref_all_curr_deferred_fields_prop=\toks49
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/expl3/l3file.sty
+Package: l3file 2011/04/21 v2242 The LaTeX3 kernel: file operations
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/expl3/l3fp.sty
+Package: l3fp 2011/03/19 v2201 L3 Experimental floating-point operations
+\c_one_million=\count139
+\c_one_hundred_million=\count140
+\c_five_hundred_million=\count141
+\c_one_thousand_million=\count142
+\c_fp_pi_by_four_decimal_int=\count143
+\c_fp_pi_by_four_extended_int=\count144
+\c_fp_pi_decimal_int=\count145
+\c_fp_pi_extended_int=\count146
+\c_fp_two_pi_decimal_int=\count147
+\c_fp_two_pi_extended_int=\count148
+\l_fp_count_int=\count149
+\l_fp_div_offset_int=\count150
+\l_fp_exp_integer_int=\count151
+\l_fp_exp_decimal_int=\count152
+\l_fp_exp_extended_int=\count153
+\l_fp_exp_exponent_int=\count154
+\l_fp_input_a_sign_int=\count155
+\l_fp_input_a_integer_int=\count156
+\l_fp_input_a_decimal_int=\count157
+\l_fp_input_a_exponent_int=\count158
+\l_fp_input_b_sign_int=\count159
+\l_fp_input_b_integer_int=\count160
+\l_fp_input_b_decimal_int=\count161
+\l_fp_input_b_exponent_int=\count162
+\l_fp_input_a_extended_int=\count163
+\l_fp_input_b_extended_int=\count164
+\l_fp_mul_a_i_int=\count165
+\l_fp_mul_a_ii_int=\count166
+\l_fp_mul_a_iii_int=\count167
+\l_fp_mul_a_iv_int=\count168
+\l_fp_mul_a_v_int=\count169
+\l_fp_mul_a_vi_int=\count170
+\l_fp_mul_b_i_int=\count171
+\l_fp_mul_b_ii_int=\count172
+\l_fp_mul_b_iii_int=\count173
+\l_fp_mul_b_iv_int=\count174
+\l_fp_mul_b_v_int=\count175
+\l_fp_mul_b_vi_int=\count176
+\l_fp_mul_output_int=\count177
+\l_fp_output_sign_int=\count178
+\l_fp_output_integer_int=\count179
+\l_fp_output_decimal_int=\count180
+\l_fp_output_exponent_int=\count181
+\l_fp_output_extended_int=\count182
+\l_fp_round_position_int=\count183
+\l_fp_round_target_int=\count184
+\l_fp_split_sign_int=\count185
+\l_fp_tmp_int=\count186
+\l_fp_trig_octant_int=\count187
+\l_fp_trig_sign_int=\count188
+\l_fp_trig_decimal_int=\count189
+\l_fp_trig_extended_int=\count190
+\l_fp_tmp_dim=\dimen146
+\l_fp_tmp_skip=\skip78
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/expl3/l3luatex.sty
+Package: l3luatex 2010/07/18 v1985 L3 Experimental LuaTeX functions
+\g_cctab_allocate_int=\count191
+\g_cctab_stack_int=\count192
+))
+Package: xfrac 2010/02/02 v0.3 Text fractions
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/xpackages/xtras/l3keys2e.sty
+Package: l3keys2e 2011/05/06 v2320 Parsing LaTeX3 keyvals as LaTeX2e package op
+tions
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/xpackages/xbase/xparse.sty
+Package: xparse 2011/04/08 v2219 Generic document command parser
+\c_xparse_shorthands_prop=\toks50
+\l_xparse_m_args_int=\count193
+\l_xparse_mandatory_args_int=\count194
+\l_xparse_processor_int=\count195
+\l_xparse_total_args_int=\count196
+))
+(/usr/local/texlive/2011/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2005/09/27 v1.99g Standard LaTeX package
+Package textcomp Info: Sub-encoding information:
+(textcomp)               5 = only ISO-Adobe without \textcurrency
+(textcomp)               4 = 5 + \texteuro
+(textcomp)               3 = 4 + \textohm
+(textcomp)               2 = 3 + \textestimated + \textcurrency
+(textcomp)               1 = TS1 - \textcircled - \t
+(textcomp)               0 = TS1 (full)
+(textcomp)             Font families with sub-encoding setting implement
+(textcomp)             only a restricted character set as indicated.
+(textcomp)             Family '?' is the default used for unknown fonts.
+(textcomp)             See the documentation for details.
+Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 71.
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+)
+LaTeX Info: Redefining \oldstylenums on input line 266.
+Package textcomp Info: Setting cmr sub-encoding to TS1/0 on input line 281.
+Package textcomp Info: Setting cmss sub-encoding to TS1/0 on input line 282.
+Package textcomp Info: Setting cmtt sub-encoding to TS1/0 on input line 283.
+Package textcomp Info: Setting cmvtt sub-encoding to TS1/0 on input line 284.
+Package textcomp Info: Setting cmbr sub-encoding to TS1/0 on input line 285.
+Package textcomp Info: Setting cmtl sub-encoding to TS1/0 on input line 286.
+Package textcomp Info: Setting ccr sub-encoding to TS1/0 on input line 287.
+Package textcomp Info: Setting ptm sub-encoding to TS1/4 on input line 288.
+Package textcomp Info: Setting pcr sub-encoding to TS1/4 on input line 289.
+Package textcomp Info: Setting phv sub-encoding to TS1/4 on input line 290.
+Package textcomp Info: Setting ppl sub-encoding to TS1/3 on input line 291.
+Package textcomp Info: Setting pag sub-encoding to TS1/4 on input line 292.
+Package textcomp Info: Setting pbk sub-encoding to TS1/4 on input line 293.
+Package textcomp Info: Setting pnc sub-encoding to TS1/4 on input line 294.
+Package textcomp Info: Setting pzc sub-encoding to TS1/4 on input line 295.
+Package textcomp Info: Setting bch sub-encoding to TS1/4 on input line 296.
+Package textcomp Info: Setting put sub-encoding to TS1/5 on input line 297.
+Package textcomp Info: Setting uag sub-encoding to TS1/5 on input line 298.
+Package textcomp Info: Setting ugq sub-encoding to TS1/5 on input line 299.
+Package textcomp Info: Setting ul8 sub-encoding to TS1/4 on input line 300.
+Package textcomp Info: Setting ul9 sub-encoding to TS1/4 on input line 301.
+Package textcomp Info: Setting augie sub-encoding to TS1/5 on input line 302.
+Package textcomp Info: Setting dayrom sub-encoding to TS1/3 on input line 303.
+Package textcomp Info: Setting dayroms sub-encoding to TS1/3 on input line 304.
+
+Package textcomp Info: Setting pxr sub-encoding to TS1/0 on input line 305.
+Package textcomp Info: Setting pxss sub-encoding to TS1/0 on input line 306.
+Package textcomp Info: Setting pxtt sub-encoding to TS1/0 on input line 307.
+Package textcomp Info: Setting txr sub-encoding to TS1/0 on input line 308.
+Package textcomp Info: Setting txss sub-encoding to TS1/0 on input line 309.
+Package textcomp Info: Setting txtt sub-encoding to TS1/0 on input line 310.
+Package textcomp Info: Setting futs sub-encoding to TS1/4 on input line 311.
+Package textcomp Info: Setting futx sub-encoding to TS1/4 on input line 312.
+Package textcomp Info: Setting futj sub-encoding to TS1/4 on input line 313.
+Package textcomp Info: Setting hlh sub-encoding to TS1/3 on input line 314.
+Package textcomp Info: Setting hls sub-encoding to TS1/3 on input line 315.
+Package textcomp Info: Setting hlst sub-encoding to TS1/3 on input line 316.
+Package textcomp Info: Setting hlct sub-encoding to TS1/5 on input line 317.
+Package textcomp Info: Setting hlx sub-encoding to TS1/5 on input line 318.
+Package textcomp Info: Setting hlce sub-encoding to TS1/5 on input line 319.
+Package textcomp Info: Setting hlcn sub-encoding to TS1/5 on input line 320.
+Package textcomp Info: Setting hlcw sub-encoding to TS1/5 on input line 321.
+Package textcomp Info: Setting hlcf sub-encoding to TS1/5 on input line 322.
+Package textcomp Info: Setting pplx sub-encoding to TS1/3 on input line 323.
+Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 324.
+Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 325.
+Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 326.
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/xpackages/xbase/xtemplate.sty
+Package: xtemplate 2011/01/03 v2115 Prototype document functions
+\g_xtemplate_object_type_prop=\toks51
+\l_xtemplate_collections_prop=\toks52
+\l_xtemplate_keytypes_prop=\toks53
+\l_xtemplate_values_prop=\toks54
+\l_xtemplate_vars_prop=\toks55
+\l_xtemplate_tmp_dim=\dimen147
+\l_xtemplate_tmp_int=\count197
+\l_xtemplate_tmp_skip=\skip79
+)
+\l_xfrac_slash_box=\box60
+\l_xfrac_tmp_box=\box61
+\l_xfrac_denominator_bot_sep_dim=\dimen148
+\l_xfrac_numerator_bot_sep_dim=\dimen149
+\l_xfrac_numerator_top_sep_dim=\dimen150
+\l_xfrac_slash_left_sep_dim=\dimen151
+\l_xfrac_slash_right_sep_dim=\dimen152
+ LaTeX info: Defining object type 'xfrac' with 3 argument(s) on line 71.
+
+\g_xtemplate_defaults>xfrac/text_prop=\toks56
+ LaTeX info: Defining template interface for 'xfrac/text' on line 97.
+
+\g_xtemplate_keytypes>xfrac/text_prop=\toks57
+ LaTeX info: Defining template code for 'xfrac/text' on line 303.
+
+\g_xtemplate_vars>xfrac/text_prop=\toks58
+\g_xtemplate_defaults>xfrac/math_prop=\toks59
+ LaTeX info: Defining template interface for 'xfrac/math' on line 316.
+
+\g_xtemplate_keytypes>xfrac/math_prop=\toks60
+ LaTeX info: Defining template code for 'xfrac/math' on line 316.
+
+\g_xtemplate_vars>xfrac/math_prop=\toks61
+\l_xtemplate_values>xfrac//default_prop=\toks62
+\l_xtemplate_values>xfrac//mathdefault_prop=\toks63
+\l_xtemplate_values>xfrac/plainmath/mathdefault_prop=\toks64
+\l_xtemplate_values>xfrac//cmr_prop=\toks65
+\l_xtemplate_values>xfrac//cmss_prop=\toks66
+\l_xtemplate_values>xfrac//cmtt_prop=\toks67
+\l_xtemplate_values>xfrac//lmr_prop=\toks68
+\l_xtemplate_values>xfrac//lmss_prop=\toks69
+\l_xtemplate_values>xfrac//lmtt_prop=\toks70
+ LaTeX info: Defining document command \sfrac
+(LaTeX)  with arg. spec. 'omom' on line 396.
+
+)
+(/usr/local/texlive/2011/texmf-dist/tex/generic/xypic/xy.sty
+(/usr/local/texlive/2011/texmf-dist/tex/generic/xypic/xy.tex Bootstrap'ing:
+catcodes, docmode,
+(/usr/local/texlive/2011/texmf-dist/tex/generic/xypic/xyrecat.tex)
+(/usr/local/texlive/2011/texmf-dist/tex/generic/xypic/xyidioms.tex)
+
+ Xy-pic version 3.8.5 <2011/02/11>
+ Copyright (c) 1991-2010 by Kristoffer H. Rose <krisrose@tug.org>
+ Xy-pic is free software: see the User's Guide for details.
+
+Loading kernel: messages; fonts; allocations: state,
+\X@c=\dimen153
+\Y@c=\dimen154
+\U@c=\dimen155
+\D@c=\dimen156
+\L@c=\dimen157
+\R@c=\dimen158
+\Edge@c=\toks71
+\X@p=\dimen159
+\Y@p=\dimen160
+\U@p=\dimen161
+\D@p=\dimen162
+\L@p=\dimen163
+\R@p=\dimen164
+\Edge@p=\toks72
+\X@origin=\dimen165
+\Y@origin=\dimen166
+\X@xbase=\dimen167
+\Y@xbase=\dimen168
+\X@ybase=\dimen169
+\Y@ybase=\dimen170
+\X@min=\dimen171
+\Y@min=\dimen172
+\X@max=\dimen173
+\Y@max=\dimen174
+\lastobjectbox@=\box62
+\zerodotbox@=\box63
+\almostz@=\dimen175
+ direction,
+\d@X=\dimen176
+\d@Y=\dimen177
+\K@=\count198
+\KK@=\count199
+\Direction=\count200
+\K@dXdY=\dimen178
+\K@dYdX=\dimen179
+\xyread@=\read1
+\xywrite@=\write3
+\csp@=\count201
+\quotPTK@=\dimen180
+
+utility macros; pictures: \xy, positions,
+\swaptoks@@=\toks73
+\connectobjectbox@@=\box64
+ objects,
+\styletoks@=\toks74
+ decorations;
+kernel objects: directionals, circles, text; options; algorithms: directions,
+edges, connections;  Xy-pic loaded)
+Package: xy 2011/02/11 Xy-pic version 3.8.5
+
+(/usr/local/texlive/2011/texmf-dist/tex/generic/xypic/xyall.tex
+ Xy-pic option: All features v.3.7
+(/usr/local/texlive/2011/texmf-dist/tex/generic/xypic/xycurve.tex
+ Xy-pic option: Curve and Spline extension v.3.11 curve,
+Normal \count register pool exhausted, switching to extended pool.
+\crv@cnt@=\count277
+\crvpts@=\toks75
+\splinebox@=\box65
+\splineval@=\dimen181
+\splinedepth@=\dimen182
+\splinetol@=\dimen183
+\splinelength@=\dimen184
+ circles,
+\L@=\dimen185
+ loaded)
+(/usr/local/texlive/2011/texmf-dist/tex/generic/xypic/xyframe.tex
+ Xy-pic option: Frame and Bracket extension v.3.12 loaded)
+(/usr/local/texlive/2011/texmf-dist/tex/generic/xypic/xycmtip.tex
+ Xy-pic option: Computer Modern tip extension v.3.6
+(/usr/local/texlive/2011/texmf-dist/tex/generic/xypic/xytips.tex
+ Xy-pic option: More Tips extension v.3.8 loaded) loaded)
+(/usr/local/texlive/2011/texmf-dist/tex/generic/xypic/xyline.tex
+ Xy-pic option: Line styles extension v.3.9
+\xylinethick@=\dimen186
+ loaded)
+(/usr/local/texlive/2011/texmf-dist/tex/generic/xypic/xyrotate.tex
+ Xy-pic option: Rotate and Scale extension v.3.7 loaded)
+(/usr/local/texlive/2011/texmf-dist/tex/generic/xypic/xycolor.tex
+ Xy-pic option: Colour extension v.3.10 loaded)
+(/usr/local/texlive/2011/texmf-dist/tex/generic/xypic/xymatrix.tex
+ Xy-pic option: Matrix feature v.3.9
+\Row=\count278
+\Col=\count279
+\queue@=\toks76
+\queue@@=\toks77
+\qcount@=\count280
+\qcount@@=\count281
+\matrixsize@=\count282
+ loaded)
+(/usr/local/texlive/2011/texmf-dist/tex/generic/xypic/xyarrow.tex
+ Xy-pic option: Arrow and Path feature v.3.8 path, \ar, loaded)
+(/usr/local/texlive/2011/texmf-dist/tex/generic/xypic/xygraph.tex
+ Xy-pic option: Graph feature v.3.10 loaded) loaded))
+(/usr/local/texlive/2011/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: dvips.def on input line 225.
+LaTeX Info: Redefining \color on input line 702.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/txfonts/txfonts.sty
+Package: txfonts 2008/01/22 v3.2.1
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 21.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/txr/m/n on input line 21.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/txr/m/n on input line 21.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/txr/m/n --> OT1/txr/bx/n on input line 22.
+\symitalic=\mathgroup5
+LaTeX Font Info:    Overwriting symbol font `italic' in version `bold'
+(Font)                  OT1/txr/m/it --> OT1/txr/bx/it on input line 26.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/txr/bx/n on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/txr/bx/n on input line 29.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 30.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/txr/m/it on input line 30.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/txr/m/it on input line 30.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/txr/m/it --> OT1/txr/bx/it on input line 31.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 40.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/txss/m/n on input line 40.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/txss/m/n on input line 40.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/txss/m/n --> OT1/txss/b/n on input line 41.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 50.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/txtt/m/n on input line 50.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/txtt/m/n on input line 50.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/txtt/m/n --> OT1/txtt/b/n on input line 51.
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 58.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/txmi/m/it on input line 58.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/txmi/m/it on input line 58.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/txmi/m/it --> OML/txmi/bx/it on input line 59.
+\symlettersA=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `lettersA' in version `bold'
+(Font)                  U/txmia/m/it --> U/txmia/bx/it on input line 67.
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 77.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/txsy/m/n on input line 77.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/txsy/m/n on input line 77.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/txsy/m/n --> OMS/txsy/bx/n on input line 78.
+\symAMSa=\mathgroup7
+LaTeX Font Info:    Overwriting symbol font `AMSa' in version `bold'
+(Font)                  U/txsya/m/n --> U/txsya/bx/n on input line 94.
+\symAMSb=\mathgroup8
+LaTeX Font Info:    Overwriting symbol font `AMSb' in version `bold'
+(Font)                  U/txsyb/m/n --> U/txsyb/bx/n on input line 103.
+\symsymbolsC=\mathgroup9
+LaTeX Font Info:    Overwriting symbol font `symbolsC' in version `bold'
+(Font)                  U/txsyc/m/n --> U/txsyc/bx/n on input line 113.
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 120.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/txex/m/n on input line 120.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/txex/m/n on input line 120.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/txex/m/n --> OMX/txex/bx/n on input line 121.
+\symlargesymbolsA=\mathgroup10
+LaTeX Font Info:    Overwriting symbol font `largesymbolsA' in version `bold'
+(Font)                  U/txexa/m/n --> U/txexa/bx/n on input line 129.
+LaTeX Info: Redefining \not on input line 1043.
+LaTeX Info: Redefining \textsquare on input line 1063.
+LaTeX Info: Redefining \openbox on input line 1064.
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/cases/cases.sty
+Package: cases 2002/05/02 ver 2.5 
+)
+\c@theorem=\count283
+\c@thm=\count284
+\c@cor=\count285
+\c@coro*=\count286
+\c@step=\count287
+\c@region=\count288
+\c@exam=\count289
+\c@rp=\count290
+\c@ep=\count291
+\c@example=\count292
+\c@example*=\count293
+
+
+Package amsthm Warning: Unknown theoremstyle `nonpro' on input line 233.
+
+\c@pro=\count294
+) (/usr/local/texlive/2011/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2010/01/09 v3.1m Customizing captions (AR)
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2010/01/14 v3.1m caption3 kernel (AR)
+\captionmargin=\dimen187
+\captionmargin@=\dimen188
+\captionwidth=\dimen189
+\caption@indent=\dimen190
+\caption@parindent=\dimen191
+\caption@hangindent=\dimen192
+)
+\c@ContinuedFloat=\count295
+Package caption Info: longtable package is loaded.
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/caption/ltcaption.sty
+Package: ltcaption 2008/03/28 v1.2 longtable captions (AR)
+)
+Package caption Info: rotating package is loaded.
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/floatrow/floatrow.sty
+Package: floatrow 2008/08/02 v0.3b floatrow: float package extension
+\c@float@type=\count296
+\float@exts=\toks78
+\float@box=\box66
+\@floatcapt=\box67
+Package floatrow Info: Modified float package code loaded on input line 455.
+Package floatrow Info: Modified rotfloat package code loaded on input line 473.
+
+\FR@everyfloat=\toks79
+\flrow@foot=\insert233
+\FB@wd=\dimen193
+\FBo@wd=\dimen194
+\FBc@wd=\dimen195
+\FBo@ht=\skip80
+\FBc@ht=\skip81
+\FBf@ht=\skip82
+\FBo@max=\skip83
+\FBc@max=\skip84
+\FBf@max=\skip85
+\c@FBl@b=\count297
+\floatbox@depth=\count298
+\c@FRobj=\count299
+\c@FRsobj=\count300
+\Xhsize=\skip86
+\sXhsize=\skip87
+\Zhsize=\skip88
+\sZhsize=\skip89
+\flrow@rowbox=\box68
+\FR@Zunitlength=\dimen196
+\c@FBcnt=\count301
+\FPOScnt=\count302
+\LTleft=\skip90
+\LTright=\skip91
+\LTleft=\skip92
+\LTright=\skip93
+\flrow@types=\toks80
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/steinmetz/steinmetz.sty
+Package: steinmetz 2009/06/14 v1.0 Steinmetz symbol for electrotechnics
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/pict2e/pict2e.sty
+Package: pict2e 2011/04/05 v0.2y Improved picture commands (HjG,RN,JT)
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/pict2e/pict2e.cfg
+File: pict2e.cfg 2011/04/05 v0.1t pict2e configuration for teTeX/TeXLive
+)
+Package pict2e Info: Driver file: dvips.def on input line 119.
+Package pict2e Info: Driver file for pict2e: p2e-dvips.def on input line 121.
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/pict2e/p2e-dvips.def
+File: p2e-dvips.def 2011/04/05 v0.1t Driver-dependant file (RN,HjG,JT)
+)
+\pIIe@GRAPH=\toks81
+\@arclen=\dimen197
+\@arcrad=\dimen198
+\@tempdimd=\dimen199
+)
+\stm@phasebox=\box69
+\stm@phasedp=\skip94
+\stm@phaseht=\skip95
+\stm@phasetot=\skip96
+\stm@phasewd=\skip97
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+)
+\@indexfile=\write4
+\openout4 = `mainfile.idx'.
+
+
+Writing index file mainfile.idx
+\c@scount=\count303
+(./mainfile.aux
+
+LaTeX Warning: Label `eq2.13' multiply defined.
+
+
+LaTeX Warning: Label `eq2.24' multiply defined.
+
+
+LaTeX Warning: Label `eqA' multiply defined.
+
+
+LaTeX Warning: Label `exam2.28' multiply defined.
+
+
+LaTeX Warning: Label `sec5.3' multiply defined.
+
+
+LaTeX Warning: Label `exam5.6' multiply defined.
+
+
+LaTeX Warning: Label `eq5.40' multiply defined.
+
+
+LaTeX Warning: Label `sec5.15' multiply defined.
+
+
+LaTeX Warning: Label `exam9.13' multiply defined.
+
+)
+\openout1 = `mainfile.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/txmi/m/it on input line 148.
+LaTeX Font Info:    Try loading font information for OML+txmi on input line 148
+.
+ (/usr/local/texlive/2011/texmf-dist/tex/latex/txfonts/omltxmi.fd
+File: omltxmi.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    ... okay on input line 148.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 148.
+LaTeX Font Info:    ... okay on input line 148.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 148.
+LaTeX Font Info:    ... okay on input line 148.
+LaTeX Font Info:    Checking defaults for OMS/txsy/m/n on input line 148.
+LaTeX Font Info:    Try loading font information for OMS+txsy on input line 148
+.
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/txfonts/omstxsy.fd
+File: omstxsy.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    ... okay on input line 148.
+LaTeX Font Info:    Checking defaults for OMX/txex/m/n on input line 148.
+LaTeX Font Info:    Try loading font information for OMX+txex on input line 148
+.
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/txfonts/omxtxex.fd
+File: omxtxex.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    ... okay on input line 148.
+LaTeX Font Info:    Checking defaults for U/txexa/m/n on input line 148.
+LaTeX Font Info:    Try loading font information for U+txexa on input line 148.
+
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/txfonts/utxexa.fd
+File: utxexa.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    ... okay on input line 148.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 148.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 148.
+
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 148.
+LaTeX Font Info:    Try loading font information for OT1+txr on input line 148.
+
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/txfonts/ot1txr.fd
+File: ot1txr.fd 2000/12/15 v3.1
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: floatrow package is loaded.
+Package caption Info: End \AtBeginDocument code.
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/floatrow/fr-longtable.sty
+Package: fr-longtable 2007/11/28 v0.1b (beta) floatrow: additions for longtable
+
+\flrow@LT@lasthead=\box70
+\flrow@LT@prelastfoot=\box71
+\c@FBLTpage=\count304
+)
+(./preface.tex) (./acknowledge.tex
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[1
+
+
+
+]
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[2
+
+]
+Overfull \hbox (1.51357pt too wide) in paragraph at lines 8--9
+[]\OT1/txr/m/n/10.95 I great-fully ac-knowl-edge all the en-cour-age-ment and s
+up-port ren-dered by Dr. Syed Shakheeb
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[3]) (./foreword.tex
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[4]
+LaTeX Font Info:    Try loading font information for U+rsfs on input line 14.
+ (/usr/local/texlive/2011/texmf-dist/tex/latex/jknapltx/ursfs.fd
+File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
+)
+LaTeX Font Info:    Try loading font information for U+txmia on input line 14.
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/txfonts/utxmia.fd
+File: utxmia.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    Try loading font information for U+txsya on input line 14.
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/txfonts/utxsya.fd
+File: utxsya.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    Try loading font information for U+txsyb on input line 14.
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/txfonts/utxsyb.fd
+File: utxsyb.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    Try loading font information for U+txsyc on input line 14.
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/txfonts/utxsyc.fd
+File: utxsyc.fd 2000/12/15 v3.1
+)
+File: signature.eps Graphic file (type eps)
+
+<signature.eps>)
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[5
+
+]
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[6
+
+] (./mainfile.toc [7]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[8]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[9]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[10]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[11]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[12]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[13]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[14])
+\tf@toc=\write5
+\openout5 = `mainfile.toc'.
+
+
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[15]
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[16
+
+] (./chapter1.tex
+Chapter 1.
+LaTeX Font Info:    Try loading font information for OT1+phv on input line 1.
+(/usr/local/texlive/2011/texmf-dist/tex/latex/psnfss/ot1phv.fd
+File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
+)
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 1.
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+File: chap1/S3-EE-01-001.eps Graphic file (type eps)
+
+<chap1/S3-EE-01-001.eps> [1
+
+]
+File: chap1/S3-EE-01-002.eps Graphic file (type eps)
+ <chap1/S3-EE-01-002.eps>
+LaTeX Font Info:    Try loading font information for TS1+txr on input line 48.
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/txfonts/ts1txr.fd
+File: ts1txr.fd 2000/12/15 v3.1
+)
+File: chap1/S3-EE-01-003.eps Graphic file (type eps)
+
+<chap1/S3-EE-01-003.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[2]
+File: chap1/S3-EE-01-004.eps Graphic file (type eps)
+ <chap1/S3-EE-01-004.eps>
+File: chap1/S3-EE-01-005.eps Graphic file (type eps)
+ <chap1/S3-EE-01-005.eps>
+Underfull \hbox (badness 10000) in paragraph at lines 116--121
+
+ []
+
+
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[3]
+File: chap1/S3-EE-01-006.eps Graphic file (type eps)
+ <chap1/S3-EE-01-006.eps>
+Underfull \hbox (badness 10000) in paragraph at lines 146--147
+
+ []
+
+
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[4]
+File: chap1/S3-EE-01-007.eps Graphic file (type eps)
+ <chap1/S3-EE-01-007.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[5]
+Underfull \vbox (badness 2884) has occurred while \output is active []
+
+
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[6]
+File: chap1/S3-EE-01-008.eps Graphic file (type eps)
+ <chap1/S3-EE-01-008.eps>
+File: chap1/S3-EE-01-009.eps Graphic file (type eps)
+ <chap1/S3-EE-01-009.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[7]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[8]
+File: chap1/S3-EE-01-010.eps Graphic file (type eps)
+ <chap1/S3-EE-01-010.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[9]
+File: chap1/S3-EE-01-011.eps Graphic file (type eps)
+ <chap1/S3-EE-01-011.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[10]
+File: chap1/S3-EE-01-012.eps Graphic file (type eps)
+ <chap1/S3-EE-01-012.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[11]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[12]
+Underfull \hbox (badness 10000) in paragraph at lines 507--508
+
+ []
+
+File: chap1/S3-EE-01-013.eps Graphic file (type eps)
+<chap1/S3-EE-01-013.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[13]
+File: chap1/S3-EE-01-014.eps Graphic file (type eps)
+ <chap1/S3-EE-01-014.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[14]
+File: chap1/S3-EE-01-015.eps Graphic file (type eps)
+ <chap1/S3-EE-01-015.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[15]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[16]
+File: chap1/S3-EE-01-016.eps Graphic file (type eps)
+ <chap1/S3-EE-01-016.eps>
+File: chap1/S3-EE-01-017.eps Graphic file (type eps)
+ <chap1/S3-EE-01-017.eps>
+Overfull \hbox (0.98003pt too wide) in paragraph at lines 696--697
+ [][] 
+ []
+
+
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[17]
+File: chap1/S3-EE-01-018.eps Graphic file (type eps)
+ <chap1/S3-EE-01-018.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[18]
+File: chap1/S3-EE-01-019.eps Graphic file (type eps)
+ <chap1/S3-EE-01-019.eps>
+File: chap1/S3-EE-01-020.eps Graphic file (type eps)
+ <chap1/S3-EE-01-020.eps>
+Underfull \vbox (badness 3138) has occurred while \output is active []
+
+
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[19]
+File: chap1/S3-EE-01-021.eps Graphic file (type eps)
+ <chap1/S3-EE-01-021.eps>
+File: chap1/S3-EE-01-022.eps Graphic file (type eps)
+ <chap1/S3-EE-01-022.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[20]
+File: chap1/S3-EE-01-023.eps Graphic file (type eps)
+ <chap1/S3-EE-01-023.eps>
+File: chap1/S3-EE-01-024.eps Graphic file (type eps)
+ <chap1/S3-EE-01-024.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[21]
+File: chap1/S3-EE-01-025.eps Graphic file (type eps)
+ <chap1/S3-EE-01-025.eps>
+File: chap1/S3-EE-01-026.eps Graphic file (type eps)
+ <chap1/S3-EE-01-026.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[22]
+File: chap1/S3-EE-01-027.eps Graphic file (type eps)
+ <chap1/S3-EE-01-027.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[23]
+File: chap1/S3-EE-01-029.eps Graphic file (type eps)
+ <chap1/S3-EE-01-029.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[24]
+File: chap1/S3-EE-01-UN001.eps Graphic file (type eps)
+ <chap1/S3-EE-01-UN001.eps>
+File: chap1/S3-EE-01-030.eps Graphic file (type eps)
+ <chap1/S3-EE-01-030.eps>
+File: chap1/S3-EE-01-031.eps Graphic file (type eps)
+
+<chap1/S3-EE-01-031.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[25]
+File: chap1/exp1.16.eps Graphic file (type eps)
+ <chap1/exp1.16.eps>
+File: chap1/sol1.16.eps Graphic file (type eps)
+ <chap1/sol1.16.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[26]
+File: chap1/fig1.14.eps Graphic file (type eps)
+ <chap1/fig1.14.eps>
+File: chap1/fig1.15.eps Graphic file (type eps)
+ <chap1/fig1.15.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[27]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[28]
+File: chap1/exp1.17.eps Graphic file (type eps)
+ <chap1/exp1.17.eps>
+File: chap1/sol1.17.eps Graphic file (type eps)
+ <chap1/sol1.17.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[29]
+File: chap1/exp1.18.eps Graphic file (type eps)
+ <chap1/exp1.18.eps>
+File: chap1/sol1.18.eps Graphic file (type eps)
+ <chap1/sol1.18.eps>
+Underfull \vbox (badness 1270) has occurred while \output is active []
+
+
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[30]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[31]
+File: chap1/fig1.16.eps Graphic file (type eps)
+ <chap1/fig1.16.eps>
+File: chap1/fig1.17.eps Graphic file (type eps)
+ <chap1/fig1.17.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[32]
+File: chap1/fig1.18.eps Graphic file (type eps)
+ <chap1/fig1.18.eps>
+File: chap1/fig1.19.eps Graphic file (type eps)
+ <chap1/fig1.19.eps>
+File: chap1/fig1.20.eps Graphic file (type eps)
+ <chap1/fig1.20.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[33]
+File: chap1/fig1.21.eps Graphic file (type eps)
+ <chap1/fig1.21.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[34]
+File: chap1/fig1.25.eps Graphic file (type eps)
+ <chap1/fig1.25.eps>
+Underfull \hbox (badness 10000) in paragraph at lines 1410--1411
+
+ []
+
+
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[35]
+File: chap1/fig1.26.eps Graphic file (type eps)
+ <chap1/fig1.26.eps>
+Underfull \hbox (badness 10000) in paragraph at lines 1422--1423
+
+ []
+
+
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[36]
+File: chap1/fig1.27.eps Graphic file (type eps)
+ <chap1/fig1.27.eps>
+File: chap1/addfig1.28.eps Graphic file (type eps)
+ <chap1/addfig1.28.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[37]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[38]
+File: chap1/exp1.19.eps Graphic file (type eps)
+ <chap1/exp1.19.eps>
+File: chap1/sol1.19.eps Graphic file (type eps)
+ <chap1/sol1.19.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[39]
+File: chap1/sol1.20.eps Graphic file (type eps)
+ <chap1/sol1.20.eps>
+File: chap1/fig1.29.eps Graphic file (type eps)
+ <chap1/fig1.29.eps>
+Underfull \vbox (badness 3525) has occurred while \output is active []
+
+
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[40]
+File: chap1/fig1.30.eps Graphic file (type eps)
+ <chap1/fig1.30.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[41]
+File: addfig/exr1.2.eps Graphic file (type eps)
+ <addfig/exr1.2.eps>
+File: addfig/exr1.3.eps Graphic file (type eps)
+ <addfig/exr1.3.eps>
+File: addfig/exr1.5.eps Graphic file (type eps)
+ <addfig/exr1.5.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[42]
+File: addfig/exr1.6.eps Graphic file (type eps)
+ <addfig/exr1.6.eps>) (./chapter2.tex
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[43]
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[44
+
+]
+Chapter 2.
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--7
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--19
+
+ []
+
+[45]
+File: chap2/add-fig/S3-EE-02-001ab.eps Graphic file (type eps)
+ <chap2/add-fig/S3-EE-02-001ab.eps>
+Overfull \vbox (0.43398pt too high) has occurred while \output is active []
+
+
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[46]
+File: chap2/add-fig/S3-EE-02-002ab.eps Graphic file (type eps)
+ <chap2/add-fig/S3-EE-02-002ab.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[47]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[48]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[49]
+File: chap2/add-fig/S3-EE-02-003.eps Graphic file (type eps)
+ <chap2/add-fig/S3-EE-02-003.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[50]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[51]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[52]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[53]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[54]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[55]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[56]
+Underfull \hbox (badness 10000) in paragraph at lines 540--544
+
+ []
+
+File: chap2/add-fig/S3-EE-02-IN001.eps Graphic file (type eps)
+<chap2/add-fig/S3-EE-02-IN001.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[57]
+Overfull \hbox (1.54787pt too wide) in paragraph at lines 583--583
+[]|\OT1/txr/m/n/10.95 Parameter|  
+ []
+
+
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[58]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[59]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[60]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[61]
+File: chap2/add-fig/S3-EE-02-004.eps Graphic file (type eps)
+ <chap2/add-fig/S3-EE-02-004.eps>
+File: chap2/add-fig/S3-EE-02-005.eps Graphic file (type eps)
+ <chap2/add-fig/S3-EE-02-005.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[62]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[63]
+File: chap2/add-fig/S3-EE-02-006.eps Graphic file (type eps)
+ <chap2/add-fig/S3-EE-02-006.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[64]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[65]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[66]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[67]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[68]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[69]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[70]
+File: chap2/add-fig/S3-EE-02-007.eps Graphic file (type eps)
+ <chap2/add-fig/S3-EE-02-007.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[71]
+Overfull \hbox (1.54787pt too wide) in paragraph at lines 1143--1143
+[]|\OT1/txr/m/n/10.95 Parameter|  
+ []
+
+
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[72]
+File: chap2/add-fig/S3-EE-02-IN002.eps Graphic file (type eps)
+ <chap2/add-fig/S3-EE-02-IN002.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[73]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[74]
+File: chap2/add-fig/S3-EE-02-IN003.eps Graphic file (type eps)
+ <chap2/add-fig/S3-EE-02-IN003.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[75]
+File: chap2/add-fig/S3-EE-02-IN004.eps Graphic file (type eps)
+ <chap2/add-fig/S3-EE-02-IN004.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[76]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[77]
+File: chap2/add-fig/S3-EE-02-IN005.eps Graphic file (type eps)
+ <chap2/add-fig/S3-EE-02-IN005.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[78]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[79]
+File: chap2/add-fig/S3-EE-02-IN006.eps Graphic file (type eps)
+ <chap2/add-fig/S3-EE-02-IN006.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[80]
+File: chap2/add-fig/S3-EE-02-008.eps Graphic file (type eps)
+ <chap2/add-fig/S3-EE-02-008.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[81]
+File: chap2/add-fig/S3-EE-02-009.eps Graphic file (type eps)
+ <chap2/add-fig/S3-EE-02-009.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[82]
+File: chap2/add-fig/S3-EE-02-010.eps Graphic file (type eps)
+ <chap2/add-fig/S3-EE-02-010.eps>
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[83]
+Overfull \hbox (1.54787pt too wide) in paragraph at lines 1628--1628
+[]|\OT1/txr/m/n/10.95 Parameter|  
+ []
+
+
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[84]
+File: chap2/add-fig/S3-EE-02-011.eps Graphic file (type eps)
+ <chap2/add-fig/S3-EE-02-011.eps>
+Overfull \hbox (9.50499pt too wide) in paragraph at lines 1690--1693
+[][][][][][][] []\OT1/txr/m/n/10.95 In a full-wave bridge rec-ti-fier, the tran
+s-former sec-ondary volt-age is $100 [] \OML/txmi/m/it/10.95 !t []$\OT1/txr/m/n
+/10.95 .
+ []
+
+
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[85]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[86]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[87]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[88]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[89]
+File: chap2/add-fig/S3-EE-02-012.eps Graphic file (type eps)
+ <chap2/add-fig/S3-EE-02-012.eps>
+File: chap2/add-fig/S3-EE-02-013.eps Graphic file (type eps)
+ <chap2/add-fig/S3-EE-02-013.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[90]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[91]
+File: chap2/add-fig/S3-EE-02-014.eps Graphic file (type eps)
+ <chap2/add-fig/S3-EE-02-014.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[92]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[93]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[94]
+File: chap2/add-fig/S3-EE-02-015.eps Graphic file (type eps)
+ <chap2/add-fig/S3-EE-02-015.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[95]
+File: chap2/add-fig/S3-EE-02-016.eps Graphic file (type eps)
+ <chap2/add-fig/S3-EE-02-016.eps>
+Underfull \vbox (badness 7047) has occurred while \output is active []
+
+
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[96]
+File: chap2/add-fig/S3-EE-02-017.eps Graphic file (type eps)
+ <chap2/add-fig/S3-EE-02-017.eps>
+File: chap2/add-fig/S3-EE-02-018.eps Graphic file (type eps)
+ <chap2/add-fig/S3-EE-02-018.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[97]
+File: chap2/add-fig/S3-EE-02-019.eps Graphic file (type eps)
+ <chap2/add-fig/S3-EE-02-019.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[98]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[99]
+Underfull \vbox (badness 1521) has occurred while \output is active []
+
+
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[100]
+File: chap2/add-fig/S3-EE-02-020.eps Graphic file (type eps)
+ <chap2/add-fig/S3-EE-02-020.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[101]
+File: chap2/eqfig1.eps Graphic file (type eps)
+ <chap2/eqfig1.eps>
+Overfull \hbox (1.54787pt too wide) in paragraph at lines 2433--2433
+[]|\OT1/txr/m/n/10.95 Parameter[]|  
+ []
+
+
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[102]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[103]
+Underfull \vbox (badness 1881) has occurred while \output is active []
+
+
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[104]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[105]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[106]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[107]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[108]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[109]
+File: chap2/fig2.21.eps Graphic file (type eps)
+ <chap2/fig2.21.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[110]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[111]
+File: chap2/fig2.22.eps Graphic file (type eps)
+ <chap2/fig2.22.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[112]
+File: chap2/fig2.23.eps Graphic file (type eps)
+ <chap2/fig2.23.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[113]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[114]
+File: chap2/sol2.26.eps Graphic file (type eps)
+ <chap2/sol2.26.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[115]
+File: chap2/sol2.27.eps Graphic file (type eps)
+ <chap2/sol2.27.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[116]
+File: chap2/fig2.24.eps Graphic file (type eps)
+ <chap2/fig2.24.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[117]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[118]
+File: chap2/sol2.26a.eps Graphic file (type eps)
+ <chap2/sol2.26a.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[119]
+File: chap2/sol2.27a.eps Graphic file (type eps)
+ <chap2/sol2.27a.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[120]
+File: chap2/exp2.29.eps Graphic file (type eps)
+ <chap2/exp2.29.eps>
+File: chap2/sol2.29a.eps Graphic file (type eps)
+ <chap2/sol2.29a.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[121]
+File: chap2/sol2.29b.eps Graphic file (type eps)
+ <chap2/sol2.29b.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[122]
+File: chap2/exp2.30.eps Graphic file (type eps)
+ <chap2/exp2.30.eps>
+File: chap2/sol2.30.eps Graphic file (type eps)
+ <chap2/sol2.30.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[123]
+File: chap2/sol2.31.eps Graphic file (type eps)
+ <chap2/sol2.31.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[124]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[125]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[126]
+File: chap2/newfig1.eps Graphic file (type eps)
+ <chap2/newfig1.eps>
+File: chap2/figA.eps Graphic file (type eps)
+ <chap2/figA.eps>
+Overfull \hbox (5.57115pt too wide) in paragraph at lines 3431--3438
+\OT1/txr/m/n/10.95 When the volt-ages are chang-ing the Zener diode can be re-p
+laced by its dy-namic impedance
+ []
+
+
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[127]
+File: chap2/figB.eps Graphic file (type eps)
+ <chap2/figB.eps>
+File: chap2/figC.eps Graphic file (type eps)
+ <chap2/figC.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[128]
+File: chap2/figD.eps Graphic file (type eps)
+ <chap2/figD.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[129]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[130]
+File: chap2/fig2.25.eps Graphic file (type eps)
+ <chap2/fig2.25.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[131]
+File: chap2/fig2.26.eps Graphic file (type eps)
+ <chap2/fig2.26.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[132]
+Overfull \hbox (13.77823pt too wide) in paragraph at lines 3652--3653
+[]\OT1/txr/m/n/10.95 The diode is re-verse bi-ased and only the re-verse sat-u-
+ra-tion cur-rent $\OML/txmi/m/it/10.95 I[]$ \OT1/txr/m/n/10.95 of diode flows t
+hrough $\OML/txmi/m/it/10.95 R[]$\OT1/txr/m/n/10.95 . 
+ []
+
+File: chap2/exp2.37.eps Graphic file (type eps)
+<chap2/exp2.37.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[133]
+Underfull \vbox (badness 1189) has occurred while \output is active []
+
+
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[134]
+File: chap2/sol2.37.eps Graphic file (type eps)
+ <chap2/sol2.37.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[135]
+File: chap2/sol2.38.eps Graphic file (type eps)
+ <chap2/sol2.38.eps>
+Underfull \vbox (badness 1038) has occurred while \output is active []
+
+
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[136]
+File: chap2/sol2.39.eps Graphic file (type eps)
+ <chap2/sol2.39.eps>
+File: chap2/fig2.27.eps Graphic file (type eps)
+ <chap2/fig2.27.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[137]
+File: chap2/fig2.28.eps Graphic file (type eps)
+ <chap2/fig2.28.eps>
+File: chap2/fig2.29.eps Graphic file (type eps)
+ <chap2/fig2.29.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[138]
+File: chap2/fig2.30.eps Graphic file (type eps)
+ <chap2/fig2.30.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[139]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[140]
+File: chap2/fig2.31.eps Graphic file (type eps)
+ <chap2/fig2.31.eps>
+File: chap2/fig2.32.eps Graphic file (type eps)
+ <chap2/fig2.32.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[141]
+File: chap2/fig2.33.eps Graphic file (type eps)
+ <chap2/fig2.33.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[142]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[143]
+File: chap2/sol2.40.eps Graphic file (type eps)
+ <chap2/sol2.40.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[144]
+File: chap2/sol2.41.eps Graphic file (type eps)
+ <chap2/sol2.41.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[145]
+File: chap2/sol2.42.eps Graphic file (type eps)
+ <chap2/sol2.42.eps>
+File: chap2/exp2.43.eps Graphic file (type eps)
+ <chap2/exp2.43.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[146]
+File: chap2/sol2.43a.eps Graphic file (type eps)
+ <chap2/sol2.43a.eps>
+File: chap2/sol2.43b.eps Graphic file (type eps)
+ <chap2/sol2.43b.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[147]
+File: chap2/fig2.34.eps Graphic file (type eps)
+ <chap2/fig2.34.eps>
+Underfull \hbox (badness 10000) in paragraph at lines 4212--4213
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4218--4219
+
+ []
+
+
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[148]
+File: chap2/fig2.35.eps Graphic file (type eps)
+ <chap2/fig2.35.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[149]
+File: chap2/sol2.44.eps Graphic file (type eps)
+ <chap2/sol2.44.eps>
+File: chap2/sol2.45.eps Graphic file (type eps)
+ <chap2/sol2.45.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[150]
+File: chap2/fig2.36.eps Graphic file (type eps)
+ <chap2/fig2.36.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[151]
+File: chap2/sol2.46.eps Graphic file (type eps)
+ <chap2/sol2.46.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[152]
+File: chap2/exp2.47ab.eps Graphic file (type eps)
+ <chap2/exp2.47ab.eps>
+File: chap2/exp2.47cd.eps Graphic file (type eps)
+ <chap2/exp2.47cd.eps>
+File: chap2/sol2.47a.eps Graphic file (type eps)
+ <chap2/sol2.47a.eps>
+Underfull \vbox (badness 2913) has occurred while \output is active []
+
+
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[153]
+File: chap2/sol2.47b.eps Graphic file (type eps)
+ <chap2/sol2.47b.eps>
+File: chap2/sol2.47c.eps Graphic file (type eps)
+ <chap2/sol2.47c.eps>
+File: chap2/sol2.47d.eps Graphic file (type eps)
+ <chap2/sol2.47d.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[154]
+File: chap2/fig2.37.eps Graphic file (type eps)
+ <chap2/fig2.37.eps>
+File: chap2/fig2.38.eps Graphic file (type eps)
+ <chap2/fig2.38.eps>
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[155]
+File: chap2/fig2.39.eps Graphic file (type eps)
+ <chap2/fig2.39.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[156]
+File: chap2/fig2.40.eps Graphic file (type eps)
+ <chap2/fig2.40.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[157]
+File: chap2/fig2.41.eps Graphic file (type eps)
+ <chap2/fig2.41.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[158]
+File: chap2/fig2.42.eps Graphic file (type eps)
+ <chap2/fig2.42.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[159]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[160]
+File: chap2/sol2.48a.eps Graphic file (type eps)
+ <chap2/sol2.48a.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[161]
+File: chap2/sol2.48b.eps Graphic file (type eps)
+ <chap2/sol2.48b.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[162]
+File: chap2/sol2.49.eps Graphic file (type eps)
+ <chap2/sol2.49.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[163]
+File: addfig/exr2.5.eps Graphic file (type eps)
+ <addfig/exr2.5.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[164]
+File: addfig/exr2.6.eps Graphic file (type eps)
+ <addfig/exr2.6.eps>) (./chapter3.tex
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[165]
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[166
+
+]
+Chapter 3.
+File: chap2/S3-EE-03-001.eps Graphic file (type eps)
+<chap2/S3-EE-03-001.eps> [167]
+File: chap2/S3-EE-03-002.eps Graphic file (type eps)
+ <chap2/S3-EE-03-002.eps>
+File: chap2/S3-EE-03-003.eps Graphic file (type eps)
+
+<chap2/S3-EE-03-003.eps>
+Underfull \vbox (badness 4366) has occurred while \output is active []
+
+
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[168]
+File: chap2/S3-EE-03-004.eps Graphic file (type eps)
+ <chap2/S3-EE-03-004.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[169]
+File: chap2/fig2.5.eps Graphic file (type eps)
+ <chap2/fig2.5.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[170]
+File: chap2/S3-EE-03-006.eps Graphic file (type eps)
+ <chap2/S3-EE-03-006.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[171]
+File: chap2/fig2.7.eps Graphic file (type eps)
+ <chap2/fig2.7.eps>
+File: chap2/fig2.8.eps Graphic file (type eps)
+ <chap2/fig2.8.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[172]
+File: chap2/fig2.9.eps Graphic file (type eps)
+ <chap2/fig2.9.eps>
+File: chap2/S3-EE-03-007.eps Graphic file (type eps)
+ <chap2/S3-EE-03-007.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[173]
+File: chap2/S3-EE-03-008.eps Graphic file (type eps)
+ <chap2/S3-EE-03-008.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[174]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[175]
+File: chap2/fig2.12.eps Graphic file (type eps)
+ <chap2/fig2.12.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[176]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[177]
+Overfull \hbox (1.37137pt too wide) in paragraph at lines 324--327
+ [] 
+ []
+
+
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[178]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[179]
+File: chap2/S3-EE-03-011.eps Graphic file (type eps)
+ <chap2/S3-EE-03-011.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[180]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[181]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[182]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[183]
+Underfull \vbox (badness 1248) has occurred while \output is active []
+
+
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[184]
+File: chap2/fig2.13.eps Graphic file (type eps)
+ <chap2/fig2.13.eps>
+File: chap2/fig2.14.eps Graphic file (type eps)
+ <chap2/fig2.14.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[185]
+File: chap2/fig2.15.eps Graphic file (type eps)
+ <chap2/fig2.15.eps>
+File: chap2/fig2.16.eps Graphic file (type eps)
+ <chap2/fig2.16.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[186]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[187]
+File: chap2/fig2.17.eps Graphic file (type eps)
+ <chap2/fig2.17.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[188]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[189]
+File: chap2/S3-EE-03-014a.eps Graphic file (type eps)
+ <chap2/S3-EE-03-014a.eps>
+File: chap2/S3-EE-03-014b.eps Graphic file (type eps)
+ <chap2/S3-EE-03-014b.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[190]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[191]
+File: chap2/S3-EE-03-015.eps Graphic file (type eps)
+ <chap2/S3-EE-03-015.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[192]
+File: chap2/S3-EE-03-016a.eps Graphic file (type eps)
+ <chap2/S3-EE-03-016a.eps>
+File: chap2/S3-EE-03-016b.eps Graphic file (type eps)
+ <chap2/S3-EE-03-016b.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[193]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[194]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[195]
+File: chap2/fig2.18.eps Graphic file (type eps)
+ <chap2/fig2.18.eps>
+File: chap2/fig2.19.eps Graphic file (type eps)
+ <chap2/fig2.19.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[196]
+Underfull \vbox (badness 4647) has occurred while \output is active []
+
+
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[197]
+File: chap2/S3-EE-03-019.eps Graphic file (type eps)
+ <chap2/S3-EE-03-019.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[198]
+Underfull \hbox (badness 10000) in paragraph at lines 1106--1107
+
+ []
+
+
+Overfull \hbox (5.43951pt too wide) in paragraph at lines 1118--1119
+\OT1/txr/m/n/10.95 The tran-sis-tor may break-down,[] when an ex-ces-sive rever
+se-bias volt-age is ap-plied to the collector-
+ []
+
+
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[199]
+File: chap2/S3-EE-03-024.eps Graphic file (type eps)
+ <chap2/S3-EE-03-024.eps>
+File: chap2/S3-EE-03-020.eps Graphic file (type eps)
+ <chap2/S3-EE-03-020.eps>
+Underfull \vbox (badness 3826) has occurred while \output is active []
+
+
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[200]
+File: chap2/S3-EE-03-021.eps Graphic file (type eps)
+ <chap2/S3-EE-03-021.eps>
+File: chap2/S3-EE-03-022.eps Graphic file (type eps)
+ <chap2/S3-EE-03-022.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[201]
+File: chap2/S3-EE-03-025.eps Graphic file (type eps)
+ <chap2/S3-EE-03-025.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[202]
+File: chap2/S3-EE-03-027.eps Graphic file (type eps)
+ <chap2/S3-EE-03-027.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[203]
+File: chap2/S3-EE-03-028.eps Graphic file (type eps)
+ <chap2/S3-EE-03-028.eps>
+File: chap2/S3-EE-03-029.eps Graphic file (type eps)
+ <chap2/S3-EE-03-029.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[204]
+File: chap2/S3-EE-03-030.eps Graphic file (type eps)
+ <chap2/S3-EE-03-030.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[205]
+File: chap2/S3-EE-03-031.eps Graphic file (type eps)
+ <chap2/S3-EE-03-031.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[206]
+File: chap2/S3-EE-03-032.eps Graphic file (type eps)
+ <chap2/S3-EE-03-032.eps>
+File: chap2/Addfig2.29.eps Graphic file (type eps)
+ <chap2/Addfig2.29.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[207]
+File: chap2/S3-EE-03-033a.eps Graphic file (type eps)
+ <chap2/S3-EE-03-033a.eps>
+File: chap2/S3-EE-03-033b.eps Graphic file (type eps)
+ <chap2/S3-EE-03-033b.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[208]
+File: chap2/S3-EE-03-034.eps Graphic file (type eps)
+ <chap2/S3-EE-03-034.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[209]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[210]) (./chapter4.tex
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[211]
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[212
+
+]
+Chapter 4.
+File: chap3/S3-EE-03-035.eps Graphic file (type eps)
+<chap3/S3-EE-03-035.eps> [213]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[214]
+File: chap3/S3-EE-03-036.eps Graphic file (type eps)
+ <chap3/S3-EE-03-036.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[215]
+File: chap3/S3-EE-03-IN001.eps Graphic file (type eps)
+ <chap3/S3-EE-03-IN001.eps>
+Underfull \vbox (badness 1281) has occurred while \output is active []
+
+
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[216]
+File: chap3/sol3.1.eps Graphic file (type eps)
+ <chap3/sol3.1.eps>
+File: chap3/sol3.2.eps Graphic file (type eps)
+ <chap3/sol3.2.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[217]
+File: chap3/fig3.3.eps Graphic file (type eps)
+ <chap3/fig3.3.eps>
+File: chap3/fig3.4.eps Graphic file (type eps)
+ <chap3/fig3.4.eps>
+Underfull \vbox (badness 1910) has occurred while \output is active []
+
+
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[218]
+File: chap3/S3-EE-03-038.eps Graphic file (type eps)
+ <chap3/S3-EE-03-038.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[219]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[220]
+File: chap3/S3-EE-03-039.eps Graphic file (type eps)
+ <chap3/S3-EE-03-039.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[221]
+File: chap3/S3-EE-03-040.eps Graphic file (type eps)
+ <chap3/S3-EE-03-040.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[222]
+File: chap3/fig3.8.eps Graphic file (type eps)
+ <chap3/fig3.8.eps>
+Underfull \vbox (badness 6961) has occurred while \output is active []
+
+
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[223]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[224]
+File: chap3/S3-EE-03-041.eps Graphic file (type eps)
+ <chap3/S3-EE-03-041.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[225]
+File: chap3/S3-EE-03-IN003.eps Graphic file (type eps)
+ <chap3/S3-EE-03-IN003.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[226]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[227]
+File: chap3/S3-EE-03-IN004.eps Graphic file (type eps)
+ <chap3/S3-EE-03-IN004.eps>
+File: chap3/S3-EE-03-IN005.eps Graphic file (type eps)
+ <chap3/S3-EE-03-IN005.eps>
+Underfull \vbox (badness 2460) has occurred while \output is active []
+
+
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[228]
+File: chap3/S3-EE-03-IN006.eps Graphic file (type eps)
+ <chap3/S3-EE-03-IN006.eps>
+File: chap3/S3-EE-03-IN007.eps Graphic file (type eps)
+ <chap3/S3-EE-03-IN007.eps>
+Underfull \vbox (badness 4193) has occurred while \output is active []
+
+
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[229]
+File: chap3/S3-EE-03-IN008.eps Graphic file (type eps)
+ <chap3/S3-EE-03-IN008.eps>
+File: chap3/S3-EE-03-IN009.eps Graphic file (type eps)
+ <chap3/S3-EE-03-IN009.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[230]
+File: chap3/S3-EE-03-IN010.eps Graphic file (type eps)
+ <chap3/S3-EE-03-IN010.eps>
+Underfull \vbox (badness 7238) has occurred while \output is active []
+
+
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[231]
+File: chap3/S3-EE-03-IN011.eps Graphic file (type eps)
+ <chap3/S3-EE-03-IN011.eps>
+File: chap3/S3-EE-03-IN012.eps Graphic file (type eps)
+ <chap3/S3-EE-03-IN012.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[232]
+File: chap3/S3-EE-03-IN013.eps Graphic file (type eps)
+ <chap3/S3-EE-03-IN013.eps>
+File: chap3/S3-EE-03-IN014.eps Graphic file (type eps)
+ <chap3/S3-EE-03-IN014.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[233]
+File: chap3/exp3.9.eps Graphic file (type eps)
+ <chap3/exp3.9.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[234]
+File: chap3/sol3.9.eps Graphic file (type eps)
+ <chap3/sol3.9.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[235]
+File: chap3/exp3.10.eps Graphic file (type eps)
+ <chap3/exp3.10.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[236]
+File: chap3/sol3.10.eps Graphic file (type eps)
+ <chap3/sol3.10.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[237]
+File: chap3/S3-EE-03-042.eps Graphic file (type eps)
+ <chap3/S3-EE-03-042.eps>
+Underfull \vbox (badness 1087) has occurred while \output is active []
+
+
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[238]
+File: chap3/S3-EE-03-IN015.eps Graphic file (type eps)
+ <chap3/S3-EE-03-IN015.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[239]
+File: chap3/S3-EE-03-IN016.eps Graphic file (type eps)
+ <chap3/S3-EE-03-IN016.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[240]
+File: chap3/fig3.11.eps Graphic file (type eps)
+ <chap3/fig3.11.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[241]
+File: chap3/S3-EE-03-045.eps Graphic file (type eps)
+ <chap3/S3-EE-03-045.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[242]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[243]
+File: chap3/S3-EE-03-046.eps Graphic file (type eps)
+ <chap3/S3-EE-03-046.eps>
+Overfull \hbox (1.39838pt too wide) in paragraph at lines 962--963
+ [][][][][][][] 
+ []
+
+File: chap3/S3-EE-03-047.eps Graphic file (type eps)
+<chap3/S3-EE-03-047.eps>
+File: chap3/S3-EE-03-048.eps Graphic file (type eps)
+ <chap3/S3-EE-03-048.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[244]
+File: chap3/S3-EE-03-049.eps Graphic file (type eps)
+ <chap3/S3-EE-03-049.eps>
+File: chap3/S3-EE-03-050.eps Graphic file (type eps)
+ <chap3/S3-EE-03-050.eps>
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[245]
+File: chap3/S3-EE-03-IN023.eps Graphic file (type eps)
+ <chap3/S3-EE-03-IN023.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[246]
+File: chap3/S3-EE-03-IN024.eps Graphic file (type eps)
+ <chap3/S3-EE-03-IN024.eps>
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[247]
+File: chap3/S3-EE-03-IN025.eps Graphic file (type eps)
+ <chap3/S3-EE-03-IN025.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[248]
+File: chap3/S3-EE-03-IN026.eps Graphic file (type eps)
+ <chap3/S3-EE-03-IN026.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[249]
+File: chap3/S3-EE-03-IN027.eps Graphic file (type eps)
+ <chap3/S3-EE-03-IN027.eps>
+Underfull \vbox (badness 3302) has occurred while \output is active []
+
+
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[250]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[251]
+File: chap3/S3-EE-03-IN028.eps Graphic file (type eps)
+ <chap3/S3-EE-03-IN028.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[252]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[253]
+File: chap3/S3-EE-03-IN029.eps Graphic file (type eps)
+ <chap3/S3-EE-03-IN029.eps>
+Underfull \vbox (badness 1546) has occurred while \output is active []
+
+
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[254]
+File: chap3/S3-EE-03-IN030.eps Graphic file (type eps)
+ <chap3/S3-EE-03-IN030.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[255]
+File: chap3/S3-EE-03-IN031.eps Graphic file (type eps)
+ <chap3/S3-EE-03-IN031.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[256]
+File: chap3/S3-EE-03-IN032.eps Graphic file (type eps)
+ <chap3/S3-EE-03-IN032.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[257]
+File: chap3/fig3.18.eps Graphic file (type eps)
+ <chap3/fig3.18.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[258]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[259]) (./chapter5.tex
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[260]
+Chapter 5.
+[261
+
+]
+File: chap4/S3-EE-06-001.eps Graphic file (type eps)
+ <chap4/S3-EE-06-001.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[262]
+File: chap4/S3-EE-06-002.eps Graphic file (type eps)
+ <chap4/S3-EE-06-002.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[263]
+File: chap4/fig4.3.eps Graphic file (type eps)
+ <chap4/fig4.3.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[264]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[265]
+File: chap4/S3-EE-06-003.eps Graphic file (type eps)
+ <chap4/S3-EE-06-003.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[266]
+File: chap4/S3-EE-06-005.eps Graphic file (type eps)
+ <chap4/S3-EE-06-005.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[267]
+Overfull \hbox (0.43967pt too wide) in paragraph at lines 276--277
+\OT1/txr/m/n/10.95 gain ver-sus the fre-quency. As shown, the gain is ap-prox-i
+-mately con-stant at $\OML/txmi/m/it/10.95 A\OT1/txr/m/n/10.95 (= 10[][]100 [])
+$
+ []
+
+
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[268]
+File: chap4/S3-EE-06-007.eps Graphic file (type eps)
+ <chap4/S3-EE-06-007.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[269]
+File: chap4/S3-EE-06-008.eps Graphic file (type eps)
+ <chap4/S3-EE-06-008.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[270]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[271]
+Underfull \vbox (badness 3219) has occurred while \output is active []
+
+
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[272]
+Overfull \hbox (3.58824pt too wide) in paragraph at lines 451--452
+[][][][][][][] []\OT1/txr/m/n/10.95 An Op-amp has a dif-fer-en-tial gain of 500
+ and a CMRR of 80dB. If the common-
+ []
+
+
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[273]
+File: chap4/sol4.6.eps Graphic file (type eps)
+ <chap4/sol4.6.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[274]
+File: chap4/S3-EE-06-011.eps Graphic file (type eps)
+ <chap4/S3-EE-06-011.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[275]
+File: chap4/S3-EE-06-012.eps Graphic file (type eps)
+ <chap4/S3-EE-06-012.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[276]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[277]
+File: chap4/S3-EE-06-013.eps Graphic file (type eps)
+ <chap4/S3-EE-06-013.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[278]
+File: chap4/S3-EE-06-IN001.eps Graphic file (type eps)
+ <chap4/S3-EE-06-IN001.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[279]
+File: chap4/S3-EE-06-IN002.eps Graphic file (type eps)
+ <chap4/S3-EE-06-IN002.eps>
+File: chap4/S3-EE-06-IN003.eps Graphic file (type eps)
+ <chap4/S3-EE-06-IN003.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[280]
+File: chap4/S3-EE-06-IN004.eps Graphic file (type eps)
+ <chap4/S3-EE-06-IN004.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[281]
+File: chap4/S3-EE-06-IN005.eps Graphic file (type eps)
+ <chap4/S3-EE-06-IN005.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[282]
+File: chap4/S3-EE-06-IN006.eps Graphic file (type eps)
+ <chap4/S3-EE-06-IN006.eps>
+File: chap4/S3-EE-06-015.eps Graphic file (type eps)
+ <chap4/S3-EE-06-015.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[283]
+File: chap4/S3-EE-06-016.eps Graphic file (type eps)
+ <chap4/S3-EE-06-016.eps>
+File: chap4/S3-EE-06-017a.eps Graphic file (type eps)
+ <chap4/S3-EE-06-017a.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[284]
+Underfull \vbox (badness 2343) has occurred while \output is active []
+
+
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[285]
+File: chap4/S3-EE-06-017b.eps Graphic file (type eps)
+ <chap4/S3-EE-06-017b.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[286]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[287]
+File: chap4/exp4.12.eps Graphic file (type eps)
+ <chap4/exp4.12.eps>
+File: chap4/S3-EE-06-IN007.eps Graphic file (type eps)
+ <chap4/S3-EE-06-IN007.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[288]
+File: chap4/S3-EE-06-IN008.eps Graphic file (type eps)
+ <chap4/S3-EE-06-IN008.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[289]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[290]
+File: chap4/S3-EE-06-018.eps Graphic file (type eps)
+ <chap4/S3-EE-06-018.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[291]
+File: chap4/S3-EE-06-019.eps Graphic file (type eps)
+ <chap4/S3-EE-06-019.eps>
+File: chap4/S3-EE-06-IN009.eps Graphic file (type eps)
+ <chap4/S3-EE-06-IN009.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[292]
+File: chap4/S3-EE-06-IN010.eps Graphic file (type eps)
+ <chap4/S3-EE-06-IN010.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[293]
+File: chap4/S3-EE-06-021.eps Graphic file (type eps)
+ <chap4/S3-EE-06-021.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[294]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[295]
+File: chap4/S3-EE-06-023.eps Graphic file (type eps)
+ <chap4/S3-EE-06-023.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[296]
+File: chap4/S3-EE-06-IN011.eps Graphic file (type eps)
+ <chap4/S3-EE-06-IN011.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[297]
+File: chap4/S3-EE-06-IN012.eps Graphic file (type eps)
+ <chap4/S3-EE-06-IN012.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[298]
+File: chap4/S3-EE-06-IN013.eps Graphic file (type eps)
+ <chap4/S3-EE-06-IN013.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[299]
+File: chap4/S3-EE-06-IN014.eps Graphic file (type eps)
+ <chap4/S3-EE-06-IN014.eps>
+Underfull \vbox (badness 2486) has occurred while \output is active []
+
+
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[300]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[301]
+File: chap4/S3-EE-06-IN015.eps Graphic file (type eps)
+ <chap4/S3-EE-06-IN015.eps>
+File: chap4/S3-EE-06-024.eps Graphic file (type eps)
+ <chap4/S3-EE-06-024.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[302]
+File: chap4/fig4.14b.eps Graphic file (type eps)
+ <chap4/fig4.14b.eps>
+File: chap4/fig4.14c.eps Graphic file (type eps)
+ <chap4/fig4.14c.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[303]
+File: chap4/fig4.15.eps Graphic file (type eps)
+ <chap4/fig4.15.eps>
+Underfull \vbox (badness 2384) has occurred while \output is active []
+
+
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[304]
+File: chap4/S3-EE-06-025.eps Graphic file (type eps)
+ <chap4/S3-EE-06-025.eps>
+File: chap4/S3-EE-06-026.eps Graphic file (type eps)
+ <chap4/S3-EE-06-026.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[305]
+Underfull \vbox (badness 1675) has occurred while \output is active []
+
+
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[306]
+File: chap4/S3-EE-06-027.eps Graphic file (type eps)
+ <chap4/S3-EE-06-027.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[307]
+File: chap4/S3-EE-06-028.eps Graphic file (type eps)
+ <chap4/S3-EE-06-028.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[308]
+File: chap4/exp4.25a.eps Graphic file (type eps)
+ <chap4/exp4.25a.eps>
+File: chap4/exp4.25b.eps Graphic file (type eps)
+ <chap4/exp4.25b.eps>
+File: chap4/sol4.25a.eps Graphic file (type eps)
+ <chap4/sol4.25a.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[309]
+File: chap4/sol4.25b.eps Graphic file (type eps)
+ <chap4/sol4.25b.eps>
+File: chap4/sol4.25c.eps Graphic file (type eps)
+ <chap4/sol4.25c.eps>
+Overfull \hbox (6.14537pt too wide) in paragraph at lines 1755--1764
+[][] 
+ []
+
+File: chap4/sol4.25d.eps Graphic file (type eps)
+<chap4/sol4.25d.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[310]
+File: chap4/sol4.26a.eps Graphic file (type eps)
+ <chap4/sol4.26a.eps>
+File: chap4/sol4.26b.eps Graphic file (type eps)
+ <chap4/sol4.26b.eps>
+File: chap4/sol4.26d.eps Graphic file (type eps)
+ <chap4/sol4.26d.eps>
+File: chap4/sol4.26c.eps Graphic file (type eps)
+
+<chap4/sol4.26c.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[311]
+File: chap4/exp4.27.eps Graphic file (type eps)
+ <chap4/exp4.27.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[312]
+File: chap4/exp4.28.eps Graphic file (type eps)
+ <chap4/exp4.28.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[313]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[314]
+File: chap4/exp4.29.eps Graphic file (type eps)
+ <chap4/exp4.29.eps>
+File: chap4/sol4.29a.eps Graphic file (type eps)
+ <chap4/sol4.29a.eps>
+Underfull \vbox (badness 7869) has occurred while \output is active []
+
+
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[315]
+File: chap4/sol4.29b.eps Graphic file (type eps)
+ <chap4/sol4.29b.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[316]
+File: chap4/sol4.27.eps Graphic file (type eps)
+ <chap4/sol4.27.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[317]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[318]
+File: addfig/exr5.1.eps Graphic file (type eps)
+ <addfig/exr5.1.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[319]
+File: addfig/exr5.2.eps Graphic file (type eps)
+ <addfig/exr5.2.eps>
+File: addfig/exr5.3.eps Graphic file (type eps)
+ <addfig/exr5.3.eps>
+Underfull \vbox (badness 1082) has occurred while \output is active []
+
+
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[320]
+File: addfig/exr5.4.eps Graphic file (type eps)
+ <addfig/exr5.4.eps>
+File: addfig/exr5.5.eps Graphic file (type eps)
+ <addfig/exr5.5.eps>) (./chapter6.tex
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[321]
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[322
+
+]
+Chapter 6.
+File: chap6/addfig1.eps Graphic file (type eps)
+<chap6/addfig1.eps> [323]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[324]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[325]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[326]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[327]
+File: chap6/fig1.eps Graphic file (type eps)
+ <chap6/fig1.eps>
+File: chap6/fig2.eps Graphic file (type eps)
+ <chap6/fig2.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[328]
+File: chap6/fig3.eps Graphic file (type eps)
+ <chap6/fig3.eps>
+File: chap6/fig4.eps Graphic file (type eps)
+ <chap6/fig4.eps>
+File: chap6/fig5.eps Graphic file (type eps)
+ <chap6/fig5.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[329]
+File: chap6/fig6.eps Graphic file (type eps)
+ <chap6/fig6.eps>
+File: chap6/fig7.eps Graphic file (type eps)
+ <chap6/fig7.eps>
+File: chap6/fig8.eps Graphic file (type eps)
+ <chap6/fig8.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[330]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[331]
+File: chap6/fig9.eps Graphic file (type eps)
+ <chap6/fig9.eps>
+File: chap6/fig10.eps Graphic file (type eps)
+ <chap6/fig10.eps>
+File: chap6/fig11.eps Graphic file (type eps)
+ <chap6/fig11.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[332]
+File: chap6/fig12.eps Graphic file (type eps)
+ <chap6/fig12.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[333]
+File: chap6/fig13.eps Graphic file (type eps)
+ <chap6/fig13.eps>
+File: chap6/fig14.eps Graphic file (type eps)
+ <chap6/fig14.eps>
+File: chap6/fig15.eps Graphic file (type eps)
+ <chap6/fig15.eps>
+File: chap6/fig16.eps Graphic file (type eps)
+ <chap6/fig16.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[334]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[335]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[336]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[337]
+File: chap6/fig17.eps Graphic file (type eps)
+ <chap6/fig17.eps>
+File: chap6/fig18.eps Graphic file (type eps)
+ <chap6/fig18.eps>
+File: chap6/fig19.eps Graphic file (type eps)
+ <chap6/fig19.eps>
+File: chap6/fig20.eps Graphic file (type eps)
+ <chap6/fig20.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[338]
+File: chap6/fig21.eps Graphic file (type eps)
+ <chap6/fig21.eps>
+File: chap6/fig22.eps Graphic file (type eps)
+ <chap6/fig22.eps>
+File: chap6/fig23.eps Graphic file (type eps)
+ <chap6/fig23.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[339]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[340]
+File: chap6/fig24.eps Graphic file (type eps)
+ <chap6/fig24.eps>
+Overfull \hbox (27.37506pt too wide) in paragraph at lines 868--870
+[] 
+ []
+
+File: chap6/fig25.eps Graphic file (type eps)
+<chap6/fig25.eps>
+File: chap6/fig26.eps Graphic file (type eps)
+ <chap6/fig26.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[341]
+File: chap6/fig27.eps Graphic file (type eps)
+ <chap6/fig27.eps>
+File: chap6/fig28.eps Graphic file (type eps)
+ <chap6/fig28.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[342]
+File: chap6/fig29.eps Graphic file (type eps)
+ <chap6/fig29.eps>
+File: chap6/fig30.eps Graphic file (type eps)
+ <chap6/fig30.eps>
+File: chap6/fig31.eps Graphic file (type eps)
+ <chap6/fig31.eps>
+File: chap6/fig32.eps Graphic file (type eps)
+ <chap6/fig32.eps>
+File: chap6/fig33.eps Graphic file (type eps)
+
+<chap6/fig33.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[343]
+File: chap6/fig34.eps Graphic file (type eps)
+ <chap6/fig34.eps>
+File: chap6/fig35.eps Graphic file (type eps)
+ <chap6/fig35.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[344]
+File: chap6/fig36.eps Graphic file (type eps)
+ <chap6/fig36.eps>
+File: chap6/fig37.eps Graphic file (type eps)
+ <chap6/fig37.eps>
+File: chap6/fig38.eps Graphic file (type eps)
+ <chap6/fig38.eps>
+File: chap6/fig39.eps Graphic file (type eps)
+ <chap6/fig39.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[345]
+File: chap6/fig40.eps Graphic file (type eps)
+ <chap6/fig40.eps>
+File: chap6/fig41.eps Graphic file (type eps)
+ <chap6/fig41.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[346]
+File: chap6/fig42.eps Graphic file (type eps)
+ <chap6/fig42.eps>
+File: chap6/fig43.eps Graphic file (type eps)
+ <chap6/fig43.eps>
+File: chap6/fig44.eps Graphic file (type eps)
+ <chap6/fig44.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[347]
+File: chap6/fig45.eps Graphic file (type eps)
+ <chap6/fig45.eps>
+File: chap6/fig46.eps Graphic file (type eps)
+ <chap6/fig46.eps>
+File: chap6/fig47.eps Graphic file (type eps)
+ <chap6/fig47.eps>
+File: chap6/fig48.eps Graphic file (type eps)
+ <chap6/fig48.eps>
+File: chap6/fig49.eps Graphic file (type eps)
+
+<chap6/fig49.eps>
+Underfull \vbox (badness 1117) has occurred while \output is active []
+
+
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[348]
+File: chap6/fig50.eps Graphic file (type eps)
+ <chap6/fig50.eps>
+File: chap6/fig51.eps Graphic file (type eps)
+ <chap6/fig51.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[349]
+File: chap6/fig52.eps Graphic file (type eps)
+ <chap6/fig52.eps>
+File: chap6/fig53.eps Graphic file (type eps)
+ <chap6/fig53.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[350]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[351]
+Underfull \hbox (badness 2035) in paragraph at lines 1504--1505
+[][][][][][][] []\OT1/txr/m/n/10.95 Per-form the fol-low-ing dec-i-mal sub-trac
+-tion us-ing (a) $9$'s com-ple-ment
+ []
+
+File: chap6/fig54.eps Graphic file (type eps)
+<chap6/fig54.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[352]
+File: chap6/fig55.eps Graphic file (type eps)
+ <chap6/fig55.eps>
+File: chap6/fig56.eps Graphic file (type eps)
+ <chap6/fig56.eps>
+File: chap6/fig57.eps Graphic file (type eps)
+ <chap6/fig57.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[353]
+File: chap6/fig57_1.eps Graphic file (type eps)
+ <chap6/fig57_1.eps>
+File: chap6/fig57_2.eps Graphic file (type eps)
+ <chap6/fig57_2.eps>
+Underfull \vbox (badness 4752) has occurred while \output is active []
+
+
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[354]
+File: chap6/fig57_3.eps Graphic file (type eps)
+ <chap6/fig57_3.eps>
+File: chap6/fig57_4.eps Graphic file (type eps)
+ <chap6/fig57_4.eps>
+Underfull \vbox (badness 1014) has occurred while \output is active []
+
+
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[355]
+File: chap6/fig57_5.eps Graphic file (type eps)
+ <chap6/fig57_5.eps>
+File: chap6/fig57_6.eps Graphic file (type eps)
+ <chap6/fig57_6.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[356]
+File: chap6/fig61.eps Graphic file (type eps)
+ <chap6/fig61.eps>
+File: chap6/fig62.eps Graphic file (type eps)
+ <chap6/fig62.eps>
+File: chap6/fig62a.eps Graphic file (type eps)
+ <chap6/fig62a.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[357]
+File: chap6/fig63.eps Graphic file (type eps)
+ <chap6/fig63.eps>
+File: chap6/fig63a.eps Graphic file (type eps)
+ <chap6/fig63a.eps>
+File: chap6/fig64.eps Graphic file (type eps)
+ <chap6/fig64.eps>
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[358]
+File: chap6/fig65.eps Graphic file (type eps)
+ <chap6/fig65.eps>
+File: chap6/fig66.eps Graphic file (type eps)
+ <chap6/fig66.eps>
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[359]
+File: chap6/fig67.eps Graphic file (type eps)
+ <chap6/fig67.eps>
+File: chap6/fig68.eps Graphic file (type eps)
+ <chap6/fig68.eps>
+File: chap6/fig68a.eps Graphic file (type eps)
+ <chap6/fig68a.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[360]
+File: chap6/fig69.eps Graphic file (type eps)
+ <chap6/fig69.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[361]
+File: chap6/fig70.eps Graphic file (type eps)
+ <chap6/fig70.eps>
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[362]
+File: chap6/fig71.eps Graphic file (type eps)
+ <chap6/fig71.eps>
+File: chap6/fig72.eps Graphic file (type eps)
+ <chap6/fig72.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[363]
+File: chap6/fig73.eps Graphic file (type eps)
+ <chap6/fig73.eps>
+File: chap6/fig74.eps Graphic file (type eps)
+ <chap6/fig74.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[364]
+File: chap6/fig75.eps Graphic file (type eps)
+ <chap6/fig75.eps>
+File: chap6/fig76.eps Graphic file (type eps)
+ <chap6/fig76.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[365]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[366]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[367]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[368]
+File: chap6/fig77_6.2.eps Graphic file (type eps)
+ <chap6/fig77_6.2.eps>
+Overfull \hbox (19.04779pt too wide) in paragraph at lines 2194--2198
+[][] 
+ []
+
+
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[369]
+File: chap6/fig78_6.4.eps Graphic file (type eps)
+ <chap6/fig78_6.4.eps>
+File: chap6/fig79_6.5.eps Graphic file (type eps)
+ <chap6/fig79_6.5.eps>
+Underfull \vbox (badness 1215) has occurred while \output is active []
+
+
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[370]
+File: chap6/fig80_6.6.eps Graphic file (type eps)
+ <chap6/fig80_6.6.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[371]
+File: chap6/fig81_6.7ab.eps Graphic file (type eps)
+ <chap6/fig81_6.7ab.eps>
+File: chap6/fig81_6.7cd.eps Graphic file (type eps)
+ <chap6/fig81_6.7cd.eps>
+File: chap6/fig82_6.8.eps Graphic file (type eps)
+ <chap6/fig82_6.8.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[372]
+File: chap6/fig83_6.9.eps Graphic file (type eps)
+ <chap6/fig83_6.9.eps>
+Underfull \vbox (badness 3386) has occurred while \output is active []
+
+
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[373]
+File: chap6/fig84_6.10.eps Graphic file (type eps)
+ <chap6/fig84_6.10.eps>
+Underfull \vbox (badness 7649) has occurred while \output is active []
+
+
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[374]
+File: chap6/fig85_6.11ab.eps Graphic file (type eps)
+ <chap6/fig85_6.11ab.eps>
+File: chap6/fig85_6.11cd.eps Graphic file (type eps)
+ <chap6/fig85_6.11cd.eps>
+Underfull \vbox (badness 7595) has occurred while \output is active []
+
+
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[375]
+File: chap6/fig86_6.12a.eps Graphic file (type eps)
+ <chap6/fig86_6.12a.eps>
+File: chap6/fig87_6.13.eps Graphic file (type eps)
+ <chap6/fig87_6.13.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[376]
+Underfull \vbox (badness 4391) has occurred while \output is active []
+
+
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[377]
+File: chap6/fig89_6.15a.eps Graphic file (type eps)
+ <chap6/fig89_6.15a.eps>
+File: chap6/fig90_6.16a.eps Graphic file (type eps)
+ <chap6/fig90_6.16a.eps>
+File: chap6/fig91_6.17a.eps Graphic file (type eps)
+ <chap6/fig91_6.17a.eps>
+File: chap6/fig92_6.18.eps Graphic file (type eps)
+
+<chap6/fig92_6.18.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[378]
+File: chap6/fig93_6.20.eps Graphic file (type eps)
+ <chap6/fig93_6.20.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[379]
+File: chap6/fig94_6.22.eps Graphic file (type eps)
+ <chap6/fig94_6.22.eps>
+Underfull \vbox (badness 2913) has occurred while \output is active []
+
+
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[380]
+File: chap6/fig95_6.23.eps Graphic file (type eps)
+ <chap6/fig95_6.23.eps>
+File: chap6/fig96_6.24a.eps Graphic file (type eps)
+ <chap6/fig96_6.24a.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[381]
+File: chap6/fig97_6.25.eps Graphic file (type eps)
+ <chap6/fig97_6.25.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[382]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[383]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[384]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[385]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[386]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[387]
+Overfull \hbox (0.83516pt too wide) in paragraph at lines 2924--2943
+[]\OT1/txr/m/n/10.95 Eqns. [] and [] can be eas-ily proved us-ing a truth-table
+ ap-proach as shown in Fig. 6.26[]. 
+ []
+
+
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[388]
+File: chap6/fig98.eps Graphic file (type eps)
+ <chap6/fig98.eps>
+File: chap6/fig99.eps Graphic file (type eps)
+ <chap6/fig99.eps>
+File: chap6/fig100.eps Graphic file (type eps)
+ <chap6/fig100.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[389]
+File: chap6/fig101.eps Graphic file (type eps)
+ <chap6/fig101.eps>
+File: chap6/fig102.eps Graphic file (type eps)
+ <chap6/fig102.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[390]
+File: chap6/fig103.eps Graphic file (type eps)
+ <chap6/fig103.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[391]
+File: chap6/fig104.eps Graphic file (type eps)
+ <chap6/fig104.eps>
+File: chap6/fig105.eps Graphic file (type eps)
+ <chap6/fig105.eps>
+File: chap6/fig106.eps Graphic file (type eps)
+ <chap6/fig106.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[392]
+File: chap6/fig107.eps Graphic file (type eps)
+ <chap6/fig107.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[393]
+File: chap6/fig108.eps Graphic file (type eps)
+ <chap6/fig108.eps>
+File: chap6/fig109.eps Graphic file (type eps)
+ <chap6/fig109.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[394]
+File: chap6/fig110.eps Graphic file (type eps)
+ <chap6/fig110.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[395]
+File: chap6/fig111.eps Graphic file (type eps)
+ <chap6/fig111.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[396]
+File: chap6/fig112.eps Graphic file (type eps)
+ <chap6/fig112.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[397]
+File: chap6/fig113.eps Graphic file (type eps)
+ <chap6/fig113.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[398]
+File: chap6/fig113a.eps Graphic file (type eps)
+ <chap6/fig113a.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[399]
+File: chap6/fig114.eps Graphic file (type eps)
+ <chap6/fig114.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[400]
+File: chap6/fig115.eps Graphic file (type eps)
+ <chap6/fig115.eps>
+Underfull \vbox (badness 1062) has occurred while \output is active []
+
+
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[401]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[402]
+File: chap6/fig116.eps Graphic file (type eps)
+ <chap6/fig116.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[403]
+File: chap6/fig117.eps Graphic file (type eps)
+ <chap6/fig117.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[404]
+File: chap6/fig118.eps Graphic file (type eps)
+ <chap6/fig118.eps>
+File: chap6/fig119.eps Graphic file (type eps)
+ <chap6/fig119.eps>
+File: chap6/fig120.eps Graphic file (type eps)
+ <chap6/fig120.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[405]
+File: chap6/fig121.eps Graphic file (type eps)
+ <chap6/fig121.eps>
+File: chap6/fig122.eps Graphic file (type eps)
+ <chap6/fig122.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[406]
+File: chap6/fig123.eps Graphic file (type eps)
+ <chap6/fig123.eps>
+File: chap6/fig124.eps Graphic file (type eps)
+ <chap6/fig124.eps>
+File: chap6/fig125.eps Graphic file (type eps)
+ <chap6/fig125.eps>
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[407]
+File: chap6/fig126.eps Graphic file (type eps)
+ <chap6/fig126.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[408]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[409]
+Overfull \vbox (2.15158pt too high) has occurred while \output is active []
+
+
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[410]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[411]
+File: chap6/fig127_6.28.eps Graphic file (type eps)
+ <chap6/fig127_6.28.eps>
+File: chap6/fig128_6.29.eps Graphic file (type eps)
+ <chap6/fig128_6.29.eps>
+File: chap6/fig129_6.30.eps Graphic file (type eps)
+ <chap6/fig129_6.30.eps>
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[412]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[413]
+Underfull \vbox (badness 4859) has occurred while \output is active []
+
+
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[414]
+File: chap6/fig130_6.33.eps Graphic file (type eps)
+ <chap6/fig130_6.33.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[415]
+File: chap6/fig131_6.34.eps Graphic file (type eps)
+ <chap6/fig131_6.34.eps>
+File: chap6/fig132.eps Graphic file (type eps)
+ <chap6/fig132.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[416]
+File: chap6/fig133.eps Graphic file (type eps)
+ <chap6/fig133.eps>
+File: chap6/fig134.eps Graphic file (type eps)
+ <chap6/fig134.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[417]
+File: chap6/fig135.eps Graphic file (type eps)
+ <chap6/fig135.eps>
+File: chap6/fig136.eps Graphic file (type eps)
+ <chap6/fig136.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[418]
+File: chap6/fig137.eps Graphic file (type eps)
+ <chap6/fig137.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[419]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[420]
+File: chap6/fig137a.eps Graphic file (type eps)
+ <chap6/fig137a.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[421]
+File: chap6/fig138.eps Graphic file (type eps)
+ <chap6/fig138.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[422]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[423]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[424]
+File: chap6/fig139.eps Graphic file (type eps)
+ <chap6/fig139.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[425]
+File: chap6/fig140.eps Graphic file (type eps)
+ <chap6/fig140.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[426]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[427]
+File: chap6/fig141.eps Graphic file (type eps)
+ <chap6/fig141.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[428]
+File: chap6/fig142.eps Graphic file (type eps)
+ <chap6/fig142.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[429]
+File: chap6/exr6.6.eps Graphic file (type eps)
+ <chap6/exr6.6.eps>) (./chapter7.tex
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[430]
+Chapter 7.
+File: chap7/fig7.1.eps Graphic file (type eps)
+<chap7/fig7.1.eps> [431
+
+]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[432]
+File: chap7/fig7.2.eps Graphic file (type eps)
+ <chap7/fig7.2.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[433]
+Underfull \hbox (badness 10000) in paragraph at lines 114--115
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 125--126
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 130--131
+
+ []
+
+
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[434]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[435]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[436]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[437]
+File: chap7/fig7.3.eps Graphic file (type eps)
+ <chap7/fig7.3.eps>
+Underfull \vbox (badness 1264) has occurred while \output is active []
+
+
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[438]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[439]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[440]
+File: chap7/fig7.4.eps Graphic file (type eps)
+ <chap7/fig7.4.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[441
+
+]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[442
+
+]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[443]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[444]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[445]
+File: chap7/fig7.7.eps Graphic file (type eps)
+ <chap7/fig7.7.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[446]
+File: chap7/fig7.8.eps Graphic file (type eps)
+ <chap7/fig7.8.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[447]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[448]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[449]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[450]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[451]
+File: chap7/fig7.9.eps Graphic file (type eps)
+ <chap7/fig7.9.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[452]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[453]
+Overfull \hbox (412.56497pt too wide) detected at line 962
+ [] 
+ []
+
+File: chap7/tab7.1a.eps Graphic file (type eps)
+<chap7/tab7.1a.eps>
+File: chap7/tab7.1b.eps Graphic file (type eps)
+ <chap7/tab7.1b.eps>
+Underfull \hbox (badness 10000) in alignment at lines 961--989
+[] []
+ []
+
+) (./chapter8.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[454]
+Chapter 8.
+[455
+
+]
+File: chap8/fig8.1.eps Graphic file (type eps)
+ <chap8/fig8.1.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[456]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[457]
+File: chap8/fig8.2.eps Graphic file (type eps)
+ <chap8/fig8.2.eps>
+File: chap8/fig8.3.eps Graphic file (type eps)
+ <chap8/fig8.3.eps>
+File: chap8/fig8.4.eps Graphic file (type eps)
+ <chap8/fig8.4.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[458]
+File: chap8/fig8.5.eps Graphic file (type eps)
+ <chap8/fig8.5.eps>
+Underfull \vbox (badness 4621) has occurred while \output is active []
+
+
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[459]
+File: chap8/fig8.6.eps Graphic file (type eps)
+ <chap8/fig8.6.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[460]
+File: chap8/fig8.7.eps Graphic file (type eps)
+ <chap8/fig8.7.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[461]
+Underfull \hbox (badness 10000) in paragraph at lines 212--213
+
+ []
+
+
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[462]
+File: chap8/fig8.8.eps Graphic file (type eps)
+ <chap8/fig8.8.eps>
+File: chap8/fig8.9.eps Graphic file (type eps)
+ <chap8/fig8.9.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[463]
+File: chap8/fig8.10.eps Graphic file (type eps)
+ <chap8/fig8.10.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[464]
+File: chap8/fig8.11.eps Graphic file (type eps)
+ <chap8/fig8.11.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[465]
+File: chap8/fig8.12.eps Graphic file (type eps)
+ <chap8/fig8.12.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[466]
+File: chap8/fig8.13.eps Graphic file (type eps)
+ <chap8/fig8.13.eps>
+Underfull \hbox (badness 10000) in paragraph at lines 396--397
+
+ []
+
+
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[467]
+File: chap8/fig8.14.eps Graphic file (type eps)
+ <chap8/fig8.14.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[468]
+File: chap8/fig8.15.eps Graphic file (type eps)
+ <chap8/fig8.15.eps>
+File: chap8/fig8.16.eps Graphic file (type eps)
+ <chap8/fig8.16.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[469]
+File: chap8/fig8.17.eps Graphic file (type eps)
+ <chap8/fig8.17.eps>
+File: chap8/fig8.18.eps Graphic file (type eps)
+ <chap8/fig8.18.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[470]
+File: chap8/fig8.19.eps Graphic file (type eps)
+ <chap8/fig8.19.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[471]
+File: chap8/fig8.20.eps Graphic file (type eps)
+ <chap8/fig8.20.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[472]
+File: chap8/fig8.21.eps Graphic file (type eps)
+ <chap8/fig8.21.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[473]
+File: chap8/fig8.22.eps Graphic file (type eps)
+ <chap8/fig8.22.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[474]
+File: chap8/fig8.23a.eps Graphic file (type eps)
+ <chap8/fig8.23a.eps>
+File: chap8/fig8.23b.eps Graphic file (type eps)
+ <chap8/fig8.23b.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[475]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[476]
+File: chap8/fig8.24.eps Graphic file (type eps)
+ <chap8/fig8.24.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[477]) (./chapter9.tex
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[478]
+Chapter 9.
+File: chap9/S3-EE-07-002.eps Graphic file (type eps)
+<chap9/S3-EE-07-002.eps> [479
+
+]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[480]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[481]
+Underfull \hbox (badness 10000) in paragraph at lines 111--112
+
+ []
+
+
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[482]
+Underfull \hbox (badness 10000) in paragraph at lines 160--161
+
+ []
+
+File: chap9/S3-EE-07-003.eps Graphic file (type eps)
+<chap9/S3-EE-07-003.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[483]
+Overfull \vbox (5.56905pt too high) has occurred while \output is active []
+
+
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[484]
+File: chap9/S3-EE-07-004.eps Graphic file (type eps)
+ <chap9/S3-EE-07-004.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[485]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[486]
+Underfull \hbox (badness 10000) in paragraph at lines 303--304
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 307--308
+
+ []
+
+
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[487]
+File: chap9/S3-EE-07-005abc.eps Graphic file (type eps)
+ <chap9/S3-EE-07-005abc.eps>
+Overfull \vbox (8.91127pt too high) has occurred while \output is active []
+
+
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[488]
+File: chap9/S3-EE-07-006.eps Graphic file (type eps)
+ <chap9/S3-EE-07-006.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[489]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[490]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[491]
+Underfull \hbox (badness 1142) in paragraph at lines 497--498
+[]\OT1/txr/m/n/10.95 Since, the trans-mit-ted power that con-tains the in-for-m
+a-tion is the side-band power,
+ []
+
+
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[492]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[493]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[494]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[495]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[496]
+Underfull \vbox (badness 2469) has occurred while \output is active []
+
+
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[497]
+File: chap9/S3-EE-07-IN001.eps Graphic file (type eps)
+ <chap9/S3-EE-07-IN001.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[498]
+File: chap9/fig8.6.eps Graphic file (type eps)
+ <chap9/fig8.6.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[499]
+File: chap9/fig8.7a.eps Graphic file (type eps)
+ <chap9/fig8.7a.eps>
+File: chap9/fig8.7b.eps Graphic file (type eps)
+ <chap9/fig8.7b.eps>
+File: chap9/fig8.7c.eps Graphic file (type eps)
+ <chap9/fig8.7c.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[500]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[501]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[502]
+File: chap9/S3-EE-07-007.eps Graphic file (type eps)
+ <chap9/S3-EE-07-007.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[503]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[504]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[505]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[506]
+File: chap9/fig8.9.eps Graphic file (type eps)
+ <chap9/fig8.9.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[507]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[508]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[509]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[510]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[511]
+Underfull \hbox (badness 2529) in paragraph at lines 1293--1293
+[]|\OT1/txr/m/n/10.95 In AM, am-pli-tude of the car-rier
+ []
+
+
+Underfull \hbox (badness 4886) in paragraph at lines 1295--1296
+[]|\OT1/txr/m/n/10.95 Modulation in-dex $(\OML/txmi/m/it/10.95 m[]\OT1/txr/m/n/
+10.95 )$ is much
+ []
+
+
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[512]) (./chapter10.tex
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[513]
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[514
+
+]
+Chapter 10.
+[515]
+Underfull \vbox (badness 2617) has occurred while \output is active []
+
+
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[516]
+File: chap10/fig10.1.eps Graphic file (type eps)
+ <chap10/fig10.1.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[517]
+File: chap10/fig10.2.eps Graphic file (type eps)
+ <chap10/fig10.2.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[518]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[519]
+File: chap10/fig10.3.eps Graphic file (type eps)
+ <chap10/fig10.3.eps>
+File: chap10/fig10.4.eps Graphic file (type eps)
+ <chap10/fig10.4.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[520]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[521]
+File: chap10/fig10.5.eps Graphic file (type eps)
+ <chap10/fig10.5.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[522]
+File: chap10/fig10.6.eps Graphic file (type eps)
+ <chap10/fig10.6.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[523]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[524]
+File: chap10/fig10.7.eps Graphic file (type eps)
+ <chap10/fig10.7.eps>
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[525]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[526]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[527]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[528]) (./mainfile.ind [529
+
+] [530]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[531]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[532]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[533]
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[534])
+Overfull \hbox (0.54692pt too wide) has occurred while \output is active
+[][][]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[535] (./mainfile.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 16340 strings out of 493634
+ 243840 string characters out of 3143421
+ 338156 words of memory out of 3000000
+ 18765 multiletter control sequences out of 15000+200000
+ 73133 words of font info for 231 fonts, out of 3000000 for 9000
+ 831 hyphenation exceptions out of 8191
+ 38i,18n,42p,826b,567s stack positions out of 5000i,500n,10000p,200000b,50000s
+
+Output written on mainfile.dvi (551 pages, 1772076 bytes).

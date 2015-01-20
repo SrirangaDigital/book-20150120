@@ -1,0 +1,11 @@
+%MakeIndex style file mystyle.ist
+%preamble "\\addcontentsline{toc}{chapter}{Index}\\begin{theindex}\n"
+postamble "\n\n\\end{theindex}\n\\label{indexend}\n"
+heading_prefix "{\\large\\bfseries\\hfil "
+heading_suffix "\\qquad\\hfil}\\nopagebreak\n"
+headings_flag   1
+item_0 "\n\\item\\footnotesize\\raggedright "
+item_1 "\n\\subitem\\footnotesize\\raggedright "
+item_2 "\n\\subsubitem\\footnotesize\\raggedright "
+%encap_prefix "{\\begin{multicols}{2} "
+%encap_suffix "\\end{multicols}{2}} "

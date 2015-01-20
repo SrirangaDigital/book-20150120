@@ -1,0 +1,588 @@
+\begin{theindex}
+{\large\bfseries\hfil Symbols\qquad\hfil}\nopagebreak
+
+\item\footnotesize\raggedright 8051 Micro Controller, 446
+    \subitem architecture of, 447
+\subitem\footnotesize\raggedright arithmetic and logic unit, 449
+\subitem\footnotesize\raggedright CPU registers, 449
+\subitem\footnotesize\raggedright features of, 447
+\subitem\footnotesize\raggedright flag, 451
+\subitem\footnotesize\raggedright instruction decoder, 449
+\subitem\footnotesize\raggedright memory, 452
+\subitem\footnotesize\raggedright processor, 449
+\subitem\footnotesize\raggedright program counter, 451
+\subitem\footnotesize\raggedright register banks, 452
+\item\footnotesize\raggedright 8085 Microprocessor, 437
+    \subitem accumulator, 442
+\subitem\footnotesize\raggedright architecture of, 440
+\subitem\footnotesize\raggedright features of, 439
+\subitem\footnotesize\raggedright flag register, 442
+\subitem\footnotesize\raggedright general purpose registers, 442
+\subitem\footnotesize\raggedright program counter, 443
+\subitem\footnotesize\raggedright register array, 442
+\subitem\footnotesize\raggedright special purpose registers, 442
+\subitem\footnotesize\raggedright temporary registers, 443
+
+  \indexspace
+{\large\bfseries\hfil A\qquad\hfil}\nopagebreak
+
+\item\footnotesize\raggedright Accumulator, 442
+\item\footnotesize\raggedright Amplitude modulation, 483
+    \subitem demodulation of, 499
+\subitem\footnotesize\raggedright frequency spectrum of, 487
+\subitem\footnotesize\raggedright limitations of, 510
+\subitem\footnotesize\raggedright maximum power in, 492
+\subitem\footnotesize\raggedright modulation index, 485, 493
+\subitem\footnotesize\raggedright modulation index of, 486
+\subitem\footnotesize\raggedright power of, 490
+\subitem\footnotesize\raggedright transmission efficiency of, 492
+\subitem\footnotesize\raggedright wave equation, 485
+\item\footnotesize\raggedright Analog Computer, 323
+\item\footnotesize\raggedright AND gate, 370
+    \subitem using NAND, 389
+\subitem\footnotesize\raggedright using NOR, 392
+\item\footnotesize\raggedright Angle modulation, 501
+    \subitem methods of, 502
+\item\footnotesize\raggedright Applications of Op-amp, 294
+    \subitem differentiator, 308
+\subitem\footnotesize\raggedright integrator, 307
+\subitem\footnotesize\raggedright subtractor, 302
+\subitem\footnotesize\raggedright summer, 296
+\subitem\footnotesize\raggedright voltage follower, 294
+\item\footnotesize\raggedright Arithmetic and Logic Unit, 434
+\item\footnotesize\raggedright Assembly language, 436
+\item\footnotesize\raggedright Auxiliary Carry Flag, 443
+\item\footnotesize\raggedright Avalanche Breakdown, 36
+
+  \indexspace
+{\large\bfseries\hfil B\qquad\hfil}\nopagebreak
+
+\item\footnotesize\raggedright Base bias, 224
+    \subitem design of, 238
+\item\footnotesize\raggedright Base stations, 521
+\item\footnotesize\raggedright Bellows, 458
+\item\footnotesize\raggedright Biasing, 213
+\item\footnotesize\raggedright Biasing circuits, 224
+    \subitem base bias, 224
+\subitem\footnotesize\raggedright fixed current bias, 225
+\subitem\footnotesize\raggedright requirements of, 224
+\subitem\footnotesize\raggedright thermal stability, 258
+\subitem\footnotesize\raggedright voltage divider bias, 241
+\item\footnotesize\raggedright Bimetals, 459
+\item\footnotesize\raggedright Binary adder, 417
+\item\footnotesize\raggedright Binary addition, 340
+\item\footnotesize\raggedright Binary coded decimal numbers, 366
+\item\footnotesize\raggedright Binary number system, 326
+\item\footnotesize\raggedright Binary subtraction, 347
+\item\footnotesize\raggedright Bipolar Junction Transistor, 167
+    \subitem construction, 167
+\item\footnotesize\raggedright Boolean Algebra, 368
+\item\footnotesize\raggedright Boolean laws, 382
+\item\footnotesize\raggedright Bourdon tube, 459
+\item\footnotesize\raggedright Break down, 2
+\item\footnotesize\raggedright Breakdown, 35
+\item\footnotesize\raggedright Breakdown diodes, 37
+\item\footnotesize\raggedright Bridge rectifier, 81
+    \subitem capacitor filter, 97
+\subitem\footnotesize\raggedright equivalent circuit, 82
+\subitem\footnotesize\raggedright parameters, 84
+\subitem\footnotesize\raggedright peak inverse voltage, 85
+\subitem\footnotesize\raggedright waveforms, 82
+
+  \indexspace
+{\large\bfseries\hfil C\qquad\hfil}\nopagebreak
+
+\item\footnotesize\raggedright Carry Flag, 443
+\item\footnotesize\raggedright Cellular telephone, 520
+\item\footnotesize\raggedright Channel, 480
+\item\footnotesize\raggedright Characteristics
+    \subitem fan-in, 419
+\subitem\footnotesize\raggedright fan-out, 419
+\subitem\footnotesize\raggedright noise margins, 419
+\subitem\footnotesize\raggedright power dissipation, 419
+\subitem\footnotesize\raggedright propagation delay, 419
+\subitem\footnotesize\raggedright speed, 419
+\item\footnotesize\raggedright Characteristics of logic gates, 418
+\item\footnotesize\raggedright Clamping circuits, 154
+    \subitem component selection, 159
+\subitem\footnotesize\raggedright negative voltage clamping, 156
+\subitem\footnotesize\raggedright output slope, 158
+\subitem\footnotesize\raggedright positive voltage clamping, 157
+\item\footnotesize\raggedright Clipping, 131
+    \subitem negative series clipper, 131
+\subitem\footnotesize\raggedright negative shunt clipper, 141
+\subitem\footnotesize\raggedright positive clipper, 133
+\subitem\footnotesize\raggedright series, 131
+\subitem\footnotesize\raggedright series noise clipping, 137
+\subitem\footnotesize\raggedright shunt, 138
+\subitem\footnotesize\raggedright shunt noise clipper, 148
+\subitem\footnotesize\raggedright zener diode, 151
+\item\footnotesize\raggedright Clock wave form, 427
+\item\footnotesize\raggedright Clocked $RS$ Flip-flop, 427
+\item\footnotesize\raggedright Common-base configuration, 186
+    \subitem current gain characteristics, 200
+\subitem\footnotesize\raggedright input characteristics, 196
+\subitem\footnotesize\raggedright output characteristics, 198
+\item\footnotesize\raggedright Common-collector configuration, 186
+    \subitem current gain characteristics, 210
+\subitem\footnotesize\raggedright input characteristics, 207
+\subitem\footnotesize\raggedright output characteristics, 208
+\item\footnotesize\raggedright Common-emitter configuration, 185
+    \subitem current gain characteristic, 207
+\subitem\footnotesize\raggedright input characteristics, 203
+\subitem\footnotesize\raggedright output characteristics, 204
+\subitem\footnotesize\raggedright voltage gain, 189
+\item\footnotesize\raggedright Common-mode rejection ratio, 273
+\item\footnotesize\raggedright Communication systems, 479
+    \subitem basic terminologies, 515
+\subitem\footnotesize\raggedright classification of, 481
+\subitem\footnotesize\raggedright elements of, 479
+\subitem\footnotesize\raggedright optical fibre, 524
+\item\footnotesize\raggedright Computer Languages, 436
+\item\footnotesize\raggedright Control Unit, 434
+\item\footnotesize\raggedright Current gain, 175, 187
+\subitem\footnotesize\raggedright ce, 187
+\item\footnotesize\raggedright Current gain characteristics, 200
+
+  \indexspace
+{\large\bfseries\hfil D\qquad\hfil}\nopagebreak
+
+\item\footnotesize\raggedright $dc$ Power Supply, 109
+    \subitem load effect, 110
+\subitem\footnotesize\raggedright source effect, 110
+\item\footnotesize\raggedright DC load line, 213
+    \subitem procedure for drawing, 214
+\item\footnotesize\raggedright De Morgan's Theorems, 387
+\item\footnotesize\raggedright Decimal number system, 324
+\item\footnotesize\raggedright Decimal to binary conversion, 328
+\item\footnotesize\raggedright Decoder, 444
+\item\footnotesize\raggedright Demodulation, 499
+\item\footnotesize\raggedright Depletion layer capacitance, 31
+\item\footnotesize\raggedright Depletion regions, 168
+\item\footnotesize\raggedright Diaphram, 460
+\item\footnotesize\raggedright Diffusion capacitance, 32
+\item\footnotesize\raggedright Digital computer, 324
+\item\footnotesize\raggedright Diode, 1
+    \subitem ac equivalent circuit, 33
+\subitem\footnotesize\raggedright applications, 45
+\subitem\footnotesize\raggedright approximate characteristics, 17
+\subitem\footnotesize\raggedright breakdown, 35
+\subitem\footnotesize\raggedright capacitive effects, 31
+\subitem\footnotesize\raggedright clamping circuits, 154
+\subitem\footnotesize\raggedright classification, 2
+\subitem\footnotesize\raggedright comparison, 12
+\subitem\footnotesize\raggedright dc load line, 27
+\subitem\footnotesize\raggedright depletion layer capacitance, 31
+\subitem\footnotesize\raggedright diffusion capacitance, 32
+\subitem\footnotesize\raggedright dynamic resistance, 13
+\subitem\footnotesize\raggedright equivalent circuit, 24
+\subitem\footnotesize\raggedright germanium, 8
+\subitem\footnotesize\raggedright high-current, 3
+\subitem\footnotesize\raggedright ideal diode, 16
+\subitem\footnotesize\raggedright low-current, 3
+\subitem\footnotesize\raggedright medium current, 3
+\subitem\footnotesize\raggedright parameters, 12
+\subitem\footnotesize\raggedright piecewise-linear characteristics, 22
+\subitem\footnotesize\raggedright $Q$-point, 29
+\subitem\footnotesize\raggedright reverse-recovery time, 34
+\subitem\footnotesize\raggedright silicon, 4
+
+  \indexspace
+{\large\bfseries\hfil E\qquad\hfil}\nopagebreak
+
+\item\footnotesize\raggedright Electrical Transducers, 471
+\item\footnotesize\raggedright Emitter current bias, 241
+\item\footnotesize\raggedright EX-NOR gate, 381
+    \subitem using NAND, 391
+\subitem\footnotesize\raggedright using NOR, 394
+\item\footnotesize\raggedright EX-OR gate, 380
+    \subitem using NAND, 390
+\subitem\footnotesize\raggedright using NOR, 393
+
+  \indexspace
+{\large\bfseries\hfil F\qquad\hfil}\nopagebreak
+
+\item\footnotesize\raggedright Fan-in, 419
+\item\footnotesize\raggedright Fan-out, 419
+\item\footnotesize\raggedright Fixed current Bias, 224
+\item\footnotesize\raggedright Flag, 442
+\item\footnotesize\raggedright Flag register, 442
+\item\footnotesize\raggedright Flip-flop, 421
+    \subitem $r{\rm -}s$ flip-flop, 422
+\item\footnotesize\raggedright FM Detection, 507
+\item\footnotesize\raggedright Forward characteristics, 4, 8
+\item\footnotesize\raggedright Forward current, 1
+\item\footnotesize\raggedright Forward transfer characteristics, 200
+\item\footnotesize\raggedright Forward voltage drop, 12
+\item\footnotesize\raggedright Frequency modulation, 503
+    \subitem advantages of, 511
+\subitem\footnotesize\raggedright bandwidth of, 507
+\subitem\footnotesize\raggedright demodulation of, 507
+\subitem\footnotesize\raggedright disadvantages of, 511
+\subitem\footnotesize\raggedright frequency spectrum, 507
+\subitem\footnotesize\raggedright modulation index, 506
+\item\footnotesize\raggedright Frequency ranges, 482
+\item\footnotesize\raggedright Full-adder, 413
+\item\footnotesize\raggedright Full-wave rectifier, 62
+    \subitem dc load current, 65
+\subitem\footnotesize\raggedright dc load voltage, 65
+\subitem\footnotesize\raggedright diode current, 101
+\subitem\footnotesize\raggedright efficiency, 68
+\subitem\footnotesize\raggedright parameters, 72
+\subitem\footnotesize\raggedright peak inverse voltage, 71
+\subitem\footnotesize\raggedright regulation, 67
+\subitem\footnotesize\raggedright ripple factor, 70
+\subitem\footnotesize\raggedright rms load current, 66
+\subitem\footnotesize\raggedright rms load voltage, 66
+\subitem\footnotesize\raggedright with capacitor filter, 95
+
+  \indexspace
+{\large\bfseries\hfil H\qquad\hfil}\nopagebreak
+
+\item\footnotesize\raggedright Half-adder, 411
+\item\footnotesize\raggedright Half-wave rectifier, 47, 56
+\subitem\footnotesize\raggedright capacitor filter, 90
+\subitem\footnotesize\raggedright dc load current, 47
+\subitem\footnotesize\raggedright dc load voltage, 49
+\subitem\footnotesize\raggedright parameter, 58
+\subitem\footnotesize\raggedright peak inverse voltage, 57
+\subitem\footnotesize\raggedright rectification efficiency, 53
+\subitem\footnotesize\raggedright regulation, 52
+\subitem\footnotesize\raggedright rms load current, 49
+\subitem\footnotesize\raggedright rms load voltage, 50
+\item\footnotesize\raggedright Hexadecimal number system, 335
+    \subitem addition of, 344
+\item\footnotesize\raggedright Hexadecimal-binary-decimal equivalence, 
+		336
+\item\footnotesize\raggedright High level language, 437
+\item\footnotesize\raggedright Hydropneumatic Transducers, 460
+
+  \indexspace
+{\large\bfseries\hfil I\qquad\hfil}\nopagebreak
+
+\item\footnotesize\raggedright Ideal diode, 17
+\item\footnotesize\raggedright Ideal Op-amp, 264
+    \subitem properties of, 264
+\item\footnotesize\raggedright Inductive transducers, 468
+\item\footnotesize\raggedright Instruction register, 444
+\item\footnotesize\raggedright Integrated Services Digital Network (ISDN), 
+		523
+\item\footnotesize\raggedright Inverting amplifier, 277
+    \subitem input resistance of, 291
+
+  \indexspace
+{\large\bfseries\hfil K\qquad\hfil}\nopagebreak
+
+\item\footnotesize\raggedright Kirchhoff's voltage law, 18
+
+  \indexspace
+{\large\bfseries\hfil L\qquad\hfil}\nopagebreak
+
+\item\footnotesize\raggedright Large Scale Integration, 433
+\item\footnotesize\raggedright Latch, 420
+\item\footnotesize\raggedright Linear Variable Differential Transformer (LVDT), 
+		468
+\item\footnotesize\raggedright Load effect, 110
+\item\footnotesize\raggedright Logic gate, 368
+    \subitem AND operation, 369
+\subitem\footnotesize\raggedright characteristics of, 418
+\subitem\footnotesize\raggedright De Morgan's theorems, 387
+\subitem\footnotesize\raggedright EX-NOR operation, 381
+\subitem\footnotesize\raggedright EX-OR operation, 380
+\subitem\footnotesize\raggedright NAND operation, 379
+\subitem\footnotesize\raggedright NOR operation, 379
+\subitem\footnotesize\raggedright NOT operation, 376
+\subitem\footnotesize\raggedright OR operation, 373
+\subitem\footnotesize\raggedright symbols, 378
+\subitem\footnotesize\raggedright truth-tables, 378
+\subitem\footnotesize\raggedright universal, 388
+\item\footnotesize\raggedright Long distance communication, 481
+
+  \indexspace
+{\large\bfseries\hfil M\qquad\hfil}\nopagebreak
+
+\item\footnotesize\raggedright Machine language, 436
+\item\footnotesize\raggedright Manometer, 460
+\item\footnotesize\raggedright Maximum forward current, 13
+\item\footnotesize\raggedright Mechanical Transducers, 458
+\item\footnotesize\raggedright Medium Scale Integration, 433
+\item\footnotesize\raggedright Memory, 435
+\item\footnotesize\raggedright Micro Controller, 445
+    \subitem 8051, 446
+\subitem\footnotesize\raggedright architecture of, 447
+\subitem\footnotesize\raggedright arithmetic and logic unit, 449
+\subitem\footnotesize\raggedright CPU registers, 449
+\subitem\footnotesize\raggedright features of, 447
+\subitem\footnotesize\raggedright flag, 451
+\subitem\footnotesize\raggedright instruction decoder, 449
+\subitem\footnotesize\raggedright memory, 452
+\subitem\footnotesize\raggedright processor, 449
+\subitem\footnotesize\raggedright program counter, 451
+\subitem\footnotesize\raggedright register banks, 452
+\item\footnotesize\raggedright Microprocessor, 431
+    \subitem 8085, 437
+\subitem\footnotesize\raggedright accumulator, 442
+\subitem\footnotesize\raggedright applications of, 444, 453
+\subitem\footnotesize\raggedright architecture of, 440
+\subitem\footnotesize\raggedright features of, 439
+\subitem\footnotesize\raggedright flag register, 442
+\subitem\footnotesize\raggedright general purpose registers, 442
+\subitem\footnotesize\raggedright program counter, 443
+\subitem\footnotesize\raggedright register array, 442
+\subitem\footnotesize\raggedright segments, 434
+\subitem\footnotesize\raggedright special purpose registers, 442
+\subitem\footnotesize\raggedright temporary registers, 443
+\subitem\footnotesize\raggedright word length of, 432
+\subitem\footnotesize\raggedright working of, 435
+\item\footnotesize\raggedright Mobile station, 521
+\item\footnotesize\raggedright Mobile telephone, 520
+\item\footnotesize\raggedright Modem, 516
+\item\footnotesize\raggedright Modulation, 480
+    \subitem amplitude modulation, 483
+\subitem\footnotesize\raggedright comparison between, 512
+\subitem\footnotesize\raggedright need for, 481
+\item\footnotesize\raggedright Modulation index, 485
+
+  \indexspace
+{\large\bfseries\hfil N\qquad\hfil}\nopagebreak
+
+\item\footnotesize\raggedright NAND gate, 379
+    \subitem using NOR, 393
+\item\footnotesize\raggedright Negative series clipper, 131
+\item\footnotesize\raggedright Negative shunt clipper, 141
+\item\footnotesize\raggedright Negative voltage clamping, 156
+\item\footnotesize\raggedright Noise, 480
+\item\footnotesize\raggedright Noise margin, 419
+\item\footnotesize\raggedright Non-inverting amplifier, 286
+\item\footnotesize\raggedright NOR gate, 377
+    \subitem using NAND, 390
+\item\footnotesize\raggedright NOT gate, 376, 379
+\subitem\footnotesize\raggedright using NAND, 388
+\subitem\footnotesize\raggedright using NOR, 391
+\item\footnotesize\raggedright $npn$ transistor, 167
+    \subitem barrier voltages, 168
+\subitem\footnotesize\raggedright current directions, 173
+\subitem\footnotesize\raggedright depletion regions, 168
+\subitem\footnotesize\raggedright operation of, 169
+\subitem\footnotesize\raggedright terminal voltages, 173
+
+  \indexspace
+{\large\bfseries\hfil O\qquad\hfil}\nopagebreak
+
+\item\footnotesize\raggedright Octal number system, 331
+    \subitem addition of, 341
+\item\footnotesize\raggedright Octal-binary equivalents, 333
+\item\footnotesize\raggedright Op-amp ($\mu$A-741), 265
+    \subitem parameters, 266
+\subitem\footnotesize\raggedright pin diagram of, 265
+\item\footnotesize\raggedright Op-amp circuits, 277
+    \subitem inverting amplifier, 277
+\subitem\footnotesize\raggedright non-inverting amplifier, 286
+\item\footnotesize\raggedright Op-amp differentiator, 308
+\item\footnotesize\raggedright Op-amp integrator, 307
+\item\footnotesize\raggedright Op-amp subtractor, 302, 304
+\item\footnotesize\raggedright Operational amplifier, 261
+    \subitem applications of, 294
+\subitem\footnotesize\raggedright basic Op-amp circuits, 277
+\subitem\footnotesize\raggedright block diagram of, 265
+\subitem\footnotesize\raggedright circuit symbol of, 262
+\subitem\footnotesize\raggedright CMRR, 273
+\subitem\footnotesize\raggedright differentiator, 308
+\subitem\footnotesize\raggedright equivalent circuit of, 267
+\subitem\footnotesize\raggedright frequency response of, 268
+\subitem\footnotesize\raggedright ideal op-amp, 264
+\subitem\footnotesize\raggedright input resistance of, 291
+\subitem\footnotesize\raggedright integrator, 307
+\subitem\footnotesize\raggedright inverting amplifier, 277
+\subitem\footnotesize\raggedright negative feedback, 268
+\subitem\footnotesize\raggedright non-inverting amplifier, 286
+\subitem\footnotesize\raggedright op-amp ($\mu$A-741), 265
+\subitem\footnotesize\raggedright operation of, 263
+\subitem\footnotesize\raggedright practical op-amp, 264
+\subitem\footnotesize\raggedright properties of, 264
+\subitem\footnotesize\raggedright slew-rate of, 270
+\subitem\footnotesize\raggedright subtractor, 302
+\subitem\footnotesize\raggedright summer, 296
+\subitem\footnotesize\raggedright virtual short, 277
+\subitem\footnotesize\raggedright voltage follower, 294
+\item\footnotesize\raggedright Optical communication system, 524
+    \subitem advantages of, 527
+\subitem\footnotesize\raggedright applications of, 528
+\subitem\footnotesize\raggedright block diagram of, 525
+\item\footnotesize\raggedright Optical fibre, 524
+\item\footnotesize\raggedright OR gate, 373
+    \subitem using NAND, 389
+\subitem\footnotesize\raggedright using NOR, 392
+
+  \indexspace
+{\large\bfseries\hfil P\qquad\hfil}\nopagebreak
+
+\item\footnotesize\raggedright Parity Flag, 443
+\item\footnotesize\raggedright Peak inverse voltage, 57
+\item\footnotesize\raggedright Peltier Effect, 473
+\item\footnotesize\raggedright Peripherals, 435
+\item\footnotesize\raggedright Phase-locked loop, 507
+\item\footnotesize\raggedright Photo Electric Transducers, 477
+\item\footnotesize\raggedright Piezo-Electric Transducer, 474
+\item\footnotesize\raggedright $p{\rm-}n$ junction, 1
+\item\footnotesize\raggedright $pnp$ transistor, 168
+    \subitem barrier voltages, 170
+\subitem\footnotesize\raggedright construction, 168
+\subitem\footnotesize\raggedright current directions, 173
+\subitem\footnotesize\raggedright depletion regions, 170
+\subitem\footnotesize\raggedright operation of, 170
+\subitem\footnotesize\raggedright terminal voltages, 174
+\item\footnotesize\raggedright Positive clipper, 133
+\item\footnotesize\raggedright Positive shunt clipper, 138, 140
+\item\footnotesize\raggedright Positive voltage clamping, 157
+\item\footnotesize\raggedright Practical Op-amp, 264
+    \subitem properties of, 264
+\item\footnotesize\raggedright Program counter, 443
+\item\footnotesize\raggedright Propagation delay, 419
+\item\footnotesize\raggedright Proving Rings, 459
+\item\footnotesize\raggedright Punch-through, 200
+
+  \indexspace
+{\large\bfseries\hfil Q\qquad\hfil}\nopagebreak
+
+\item\footnotesize\raggedright $Q$-point, 29, 218
+\subitem\footnotesize\raggedright selection of, 221
+
+  \indexspace
+{\large\bfseries\hfil R\qquad\hfil}\nopagebreak
+
+\item\footnotesize\raggedright Receiver, 480
+\item\footnotesize\raggedright Rectification, 45
+\item\footnotesize\raggedright Rectification efficiency, 53
+\item\footnotesize\raggedright Rectifier, 45
+    \subitem bridge rectifier, 81
+\subitem\footnotesize\raggedright filters, 90
+\subitem\footnotesize\raggedright full-wave rectifier, 62
+\subitem\footnotesize\raggedright half-wave rectifier, 47
+\subitem\footnotesize\raggedright parameter, 102
+\subitem\footnotesize\raggedright voltage ragulator, 117
+\item\footnotesize\raggedright Register Array, 434
+\item\footnotesize\raggedright Regulation, 52
+\item\footnotesize\raggedright Resistance thermometer, 462
+\item\footnotesize\raggedright Resistive displacement transducers, 466
+\item\footnotesize\raggedright Resistive transducer, 462
+\item\footnotesize\raggedright Reverse breakdown, 5
+\item\footnotesize\raggedright Reverse breakdown voltage, 13
+\item\footnotesize\raggedright Reverse characteristics, 5, 9
+\item\footnotesize\raggedright Reverse current, 2
+\item\footnotesize\raggedright Reverse saturation current, 13, 176
+\item\footnotesize\raggedright Reverse-recovery time, 34
+\item\footnotesize\raggedright Ripple factor, 56, 70
+\subitem\footnotesize\raggedright half wave rectifier, 56
+\subitem\footnotesize\raggedright with capacitor filter, 91, 98
+\item\footnotesize\raggedright $R{\rm -}S$ Flip-Flop, 422
+    \subitem clocked, 427
+\subitem\footnotesize\raggedright using NAND gates, 422
+\subitem\footnotesize\raggedright using NOR gates, 425
+
+  \indexspace
+{\large\bfseries\hfil S\qquad\hfil}\nopagebreak
+
+\item\footnotesize\raggedright Seeback Effect, 472
+\item\footnotesize\raggedright Sensor, 456
+\item\footnotesize\raggedright Sequential circuit, 420
+\item\footnotesize\raggedright Series noise clipper, 137
+\item\footnotesize\raggedright Shunt noise clipper, 148
+\item\footnotesize\raggedright Sign Flag, 442
+\item\footnotesize\raggedright Slew-rate, 270
+\item\footnotesize\raggedright Small Scale Integration, 433
+\item\footnotesize\raggedright Source effect, 110
+\item\footnotesize\raggedright Spring, 458
+\item\footnotesize\raggedright Stack pointer, 443
+\item\footnotesize\raggedright Strain gage, 460
+\item\footnotesize\raggedright Summing amplifier, 296
+\item\footnotesize\raggedright System bus, 435
+
+  \indexspace
+{\large\bfseries\hfil T\qquad\hfil}\nopagebreak
+
+\item\footnotesize\raggedright Telephone set, 518
+\item\footnotesize\raggedright Telephone system, 516
+\item\footnotesize\raggedright Telephone systems, 517
+    \subitem topology of, 517
+\subitem\footnotesize\raggedright working of, 517
+\item\footnotesize\raggedright Thermal stability, 258
+\item\footnotesize\raggedright Thermistor, 464
+\item\footnotesize\raggedright Thermocouple, 459, 471
+\item\footnotesize\raggedright Thermoelectric Transducers, 471
+\item\footnotesize\raggedright Thomson Effect, 474
+\item\footnotesize\raggedright Timing and Control Unit, 444
+\item\footnotesize\raggedright Transducer
+    \subitem classification of, 456
+\subitem\footnotesize\raggedright inductive transducers, 468
+\subitem\footnotesize\raggedright mechanical transducers, 458
+\subitem\footnotesize\raggedright passive electrical, 461
+\subitem\footnotesize\raggedright properties of, 457
+\subitem\footnotesize\raggedright resistive displacement, 466
+\item\footnotesize\raggedright Transducers, 455
+\item\footnotesize\raggedright Transistor, 167
+    \subitem base bias, 224
+\subitem\footnotesize\raggedright biased in the active region, 218
+\subitem\footnotesize\raggedright biasing, 213
+\subitem\footnotesize\raggedright biasing circuits, 224
+\subitem\footnotesize\raggedright breakdown, 199
+\subitem\footnotesize\raggedright characteristics, 196
+\subitem\footnotesize\raggedright construction, 167
+\subitem\footnotesize\raggedright current gains, 175
+\subitem\footnotesize\raggedright dc load line, 213
+\subitem\footnotesize\raggedright fixed current bias, 225
+\subitem\footnotesize\raggedright $npn$ transistor, 167
+\subitem\footnotesize\raggedright $pnp$ transistor, 168
+\subitem\footnotesize\raggedright punch-through, 200
+\subitem\footnotesize\raggedright $q$-point, 218
+\subitem\footnotesize\raggedright reverse saturation current, 176
+\subitem\footnotesize\raggedright transistor configurations, 185
+\subitem\footnotesize\raggedright voltage divider bias, 241
+\subitem\footnotesize\raggedright voltage gain, 189
+\item\footnotesize\raggedright Transistor characteristics, 196
+    \subitem cb configuration, 196
+\subitem\footnotesize\raggedright cc, 207
+\subitem\footnotesize\raggedright ce, 203
+\item\footnotesize\raggedright Transistor configurations, 185
+    \subitem cb configuration, 186
+\subitem\footnotesize\raggedright cc configuratoin, 186
+\subitem\footnotesize\raggedright ce configuration, 185
+\subitem\footnotesize\raggedright comparison, 210
+\item\footnotesize\raggedright Transmitter, 480
+
+  \indexspace
+{\large\bfseries\hfil U\qquad\hfil}\nopagebreak
+
+\item\footnotesize\raggedright Universal bias, 241
+\item\footnotesize\raggedright Universal gates, 388
+
+  \indexspace
+{\large\bfseries\hfil V\qquad\hfil}\nopagebreak
+
+\item\footnotesize\raggedright Very Large Scale Integration, 433
+\item\footnotesize\raggedright Virtual short, 276
+\item\footnotesize\raggedright Voltage divider bias, 241
+    \subitem accurate analysis of, 244
+\subitem\footnotesize\raggedright analysis of, 242
+\subitem\footnotesize\raggedright design of, 252
+\item\footnotesize\raggedright Voltage follower, 294
+    \subitem application of, 295
+\subitem\footnotesize\raggedright properties of, 295
+\item\footnotesize\raggedright Voltage gain, 189
+\item\footnotesize\raggedright Voltage Regulator, 112
+
+  \indexspace
+{\large\bfseries\hfil Z\qquad\hfil}\nopagebreak
+
+\item\footnotesize\raggedright Zener Breakdown, 36
+\item\footnotesize\raggedright Zener diode, 37, 113
+\subitem\footnotesize\raggedright applications, 41
+\subitem\footnotesize\raggedright characteristics, 38
+\subitem\footnotesize\raggedright equivalent circuit, 40
+\subitem\footnotesize\raggedright parameters, 38
+\subitem\footnotesize\raggedright shunt clipper, 151
+\subitem\footnotesize\raggedright voltage regulator, 113
+\item\footnotesize\raggedright Zero Flag, 442
+
+\end{theindex}
+\label{indexend}

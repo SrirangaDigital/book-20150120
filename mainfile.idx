@@ -1,0 +1,509 @@
+\indexentry{Diode}{1}
+\indexentry{pn@$p{\rm-}n$ junction}{1}
+\indexentry{Forward current}{1}
+\indexentry{Reverse current}{2}
+\indexentry{Break down}{2}
+\indexentry{Diode!classification}{2}
+\indexentry{Diode!low-current}{3}
+\indexentry{Diode!medium current}{3}
+\indexentry{Diode!high-current}{3}
+\indexentry{Diode!silicon}{4}
+\indexentry{Forward characteristics}{4}
+\indexentry{Reverse characteristics}{5}
+\indexentry{Reverse breakdown}{5}
+\indexentry{Diode!germanium}{8}
+\indexentry{Forward characteristics}{8}
+\indexentry{Reverse characteristics}{9}
+\indexentry{Diode!comparison}{12}
+\indexentry{Diode!parameters}{12}
+\indexentry{Forward voltage drop}{12}
+\indexentry{Maximum forward current}{13}
+\indexentry{Reverse saturation current}{13}
+\indexentry{Reverse breakdown voltage}{13}
+\indexentry{Diode!dynamic resistance}{13}
+\indexentry{Diode!ideal diode}{16}
+\indexentry{Ideal diode}{17}
+\indexentry{Diode!approximate characteristics}{17}
+\indexentry{Kirchhoff's voltage law}{18}
+\indexentry{Diode!piecewise-linear characteristics}{22}
+\indexentry{Diode!equivalent circuit}{24}
+\indexentry{Diode!dc load line}{27}
+\indexentry{Q@$Q$-point}{29}
+\indexentry{Diode!Q@$Q$-point}{29}
+\indexentry{Diode!capacitive effects}{31}
+\indexentry{Depletion layer capacitance}{31}
+\indexentry{Diode!depletion layer capacitance}{31}
+\indexentry{Diode!diffusion capacitance}{32}
+\indexentry{Diffusion capacitance}{32}
+\indexentry{Diode!ac equivalent circuit}{33}
+\indexentry{Diode!reverse-recovery time}{34}
+\indexentry{Reverse-recovery time}{34}
+\indexentry{Breakdown}{35}
+\indexentry{Diode!breakdown}{35}
+\indexentry{Avalanche Breakdown}{36}
+\indexentry{Zener Breakdown}{36}
+\indexentry{Breakdown diodes}{37}
+\indexentry{Zener diode}{37}
+\indexentry{Zener diode!characteristics}{38}
+\indexentry{Zener diode!parameters}{38}
+\indexentry{Zener diode!equivalent circuit}{40}
+\indexentry{Zener diode!applications}{41}
+\indexentry{Diode!applications}{45}
+\indexentry{Rectification}{45}
+\indexentry{Rectifier}{45}
+\indexentry{Rectifier!half-wave rectifier}{47}
+\indexentry{Half-wave rectifier}{47}
+\indexentry{Half-wave rectifier!dc load current}{47}
+\indexentry{Half-wave rectifier!dc load voltage}{49}
+\indexentry{Half-wave rectifier!rms load current}{49}
+\indexentry{Half-wave rectifier!rms load voltage}{50}
+\indexentry{Regulation}{52}
+\indexentry{Half-wave rectifier!regulation}{52}
+\indexentry{Rectification efficiency}{53}
+\indexentry{Half-wave rectifier!rectification efficiency}{53}
+\indexentry{Ripple factor}{56}
+\indexentry{Half-wave rectifier}{56}
+\indexentry{Ripple factor!half wave rectifier}{56}
+\indexentry{Peak inverse voltage}{57}
+\indexentry{Half-wave rectifier!peak inverse voltage}{57}
+\indexentry{Half-wave rectifier!parameter}{58}
+\indexentry{Full-wave rectifier}{62}
+\indexentry{Rectifier!full-wave rectifier}{62}
+\indexentry{Full-wave rectifier!dc load current}{65}
+\indexentry{Full-wave rectifier!dc load voltage}{65}
+\indexentry{Full-wave rectifier!rms load current}{66}
+\indexentry{Full-wave rectifier!rms load voltage}{66}
+\indexentry{Full-wave rectifier!regulation}{67}
+\indexentry{Full-wave rectifier!efficiency}{68}
+\indexentry{Full-wave rectifier!ripple factor}{70}
+\indexentry{Ripple factor}{70}
+\indexentry{Full-wave rectifier!peak inverse voltage}{71}
+\indexentry{Full-wave rectifier!parameters}{72}
+\indexentry{Bridge rectifier}{81}
+\indexentry{Rectifier!bridge rectifier}{81}
+\indexentry{Bridge rectifier!waveforms}{82}
+\indexentry{Bridge rectifier!equivalent circuit}{82}
+\indexentry{Bridge rectifier!parameters}{84}
+\indexentry{Bridge rectifier!peak inverse voltage}{85}
+\indexentry{Rectifier!filters}{90}
+\indexentry{Half-wave rectifier!capacitor filter}{90}
+\indexentry{Ripple factor!with capacitor filter}{91}
+\indexentry{Full-wave rectifier!with capacitor filter}{95}
+\indexentry{Bridge rectifier!capacitor filter}{97}
+\indexentry{Ripple factor!with capacitor filter}{98}
+\indexentry{Full-wave rectifier!diode current}{101}
+\indexentry{Rectifier!parameter}{102}
+\indexentry{dc@$dc$ Power Supply}{109}
+\indexentry{dc@$dc$ Power Supply!source effect}{110}
+\indexentry{Load effect}{110}
+\indexentry{Source effect}{110}
+\indexentry{dc@$dc$ Power Supply!load effect}{110}
+\indexentry{Voltage Regulator}{112}
+\indexentry{Zener diode}{113}
+\indexentry{Zener diode!voltage regulator}{113}
+\indexentry{Rectifier!voltage ragulator}{117}
+\indexentry{Clipping}{131}
+\indexentry{Clipping!series}{131}
+\indexentry{Negative series clipper}{131}
+\indexentry{Clipping!negative series clipper}{131}
+\indexentry{Positive clipper}{133}
+\indexentry{Clipping!positive clipper}{133}
+\indexentry{Series noise clipper}{137}
+\indexentry{Clipping!series noise clipping}{137}
+\indexentry{Clipping!shunt}{138}
+\indexentry{Positive shunt clipper}{138}
+\indexentry{Positive shunt clipper}{140}
+\indexentry{Clipping!negative shunt clipper}{141}
+\indexentry{Negative shunt clipper}{141}
+\indexentry{Clipping!shunt noise clipper}{148}
+\indexentry{Shunt noise clipper}{148}
+\indexentry{Clipping!zener diode}{151}
+\indexentry{Zener diode!shunt clipper}{151}
+\indexentry{Clamping circuits}{154}
+\indexentry{Diode!clamping circuits}{154}
+\indexentry{Negative voltage clamping}{156}
+\indexentry{Clamping circuits!negative voltage clamping}{156}
+\indexentry{Positive voltage clamping}{157}
+\indexentry{Clamping circuits!positive voltage clamping}{157}
+\indexentry{Clamping circuits!output slope}{158}
+\indexentry{Clamping circuits!component selection}{159}
+\indexentry{Transistor}{167}
+\indexentry{Transistor!construction}{167}
+\indexentry{Bipolar Junction Transistor!construction}{167}
+\indexentry{Bipolar Junction Transistor}{167}
+\indexentry{npn@$npn$ transistor}{167}
+\indexentry{Transistor!npn@$npn$ transistor}{167}
+\indexentry{pnp@$pnp$ transistor!construction}{168}
+\indexentry{pnp@$pnp$ transistor}{168}
+\indexentry{Transistor!pnp@$pnp$ transistor}{168}
+\indexentry{Depletion regions}{168}
+\indexentry{npn@$npn$ transistor!barrier voltages}{168}
+\indexentry{npn@$npn$ transistor!depletion regions}{168}
+\indexentry{npn@$npn$ transistor!operation of}{169}
+\indexentry{pnp@$pnp$ transistor!operation of}{170}
+\indexentry{pnp@$pnp$ transistor!depletion regions}{170}
+\indexentry{pnp@$pnp$ transistor!barrier voltages}{170}
+\indexentry{npn@$npn$ transistor!current directions}{173}
+\indexentry{pnp@$pnp$ transistor!current directions}{173}
+\indexentry{npn@$npn$ transistor!terminal voltages}{173}
+\indexentry{pnp@$pnp$ transistor!terminal voltages}{174}
+\indexentry{Transistor!current gains}{175}
+\indexentry{Current gain}{175}
+\indexentry{Transistor!reverse saturation current}{176}
+\indexentry{Reverse saturation current}{176}
+\indexentry{Transistor configurations}{185}
+\indexentry{Transistor!transistor configurations}{185}
+\indexentry{Common-emitter configuration}{185}
+\indexentry{Transistor configurations!ce configuration}{185}
+\indexentry{Common-base configuration}{186}
+\indexentry{Transistor configurations!cb configuration}{186}
+\indexentry{Common-collector configuration}{186}
+\indexentry{Transistor configurations!cc configuratoin}{186}
+\indexentry{Current gain}{187}
+\indexentry{Current gain!ce}{187}
+\indexentry{Voltage gain}{189}
+\indexentry{Transistor!voltage gain}{189}
+\indexentry{Common-emitter configuration!voltage gain}{189}
+\indexentry{Transistor characteristics}{196}
+\indexentry{Transistor!characteristics}{196}
+\indexentry{Common-base configuration!input characteristics}{196}
+\indexentry{Transistor characteristics!cb configuration}{196}
+\indexentry{Common-base configuration!output characteristics}{198}
+\indexentry{Transistor!breakdown}{199}
+\indexentry{Transistor!punch-through}{200}
+\indexentry{Punch-through}{200}
+\indexentry{Common-base configuration!current gain characteristics}{200}
+\indexentry{Current gain characteristics}{200}
+\indexentry{Forward transfer characteristics}{200}
+\indexentry{Common-emitter configuration!input characteristics}{203}
+\indexentry{Transistor characteristics!ce}{203}
+\indexentry{Common-emitter configuration!output characteristics}{204}
+\indexentry{Common-emitter configuration!current gain characteristic}{207}
+\indexentry{Common-collector configuration!input characteristics}{207}
+\indexentry{Transistor characteristics!cc}{207}
+\indexentry{Common-collector configuration!output characteristics}{208}
+\indexentry{Common-collector configuration!current gain characteristics}{210}
+\indexentry{Transistor configurations!comparison}{210}
+\indexentry{Transistor!biasing}{213}
+\indexentry{Biasing}{213}
+\indexentry{DC load line}{213}
+\indexentry{Transistor!dc load line}{213}
+\indexentry{DC load line!procedure for drawing}{214}
+\indexentry{Q@$Q$-point}{218}
+\indexentry{Transistor!q@$q$-point}{218}
+\indexentry{Transistor!biased in the active region}{218}
+\indexentry{Q@$Q$-point!selection of}{221}
+\indexentry{Biasing circuits}{224}
+\indexentry{Transistor!biasing circuits}{224}
+\indexentry{Biasing circuits!requirements of}{224}
+\indexentry{Biasing circuits!base bias}{224}
+\indexentry{Transistor!base bias}{224}
+\indexentry{Fixed current Bias}{224}
+\indexentry{Base bias}{224}
+\indexentry{Transistor!fixed current bias}{225}
+\indexentry{Biasing circuits!fixed current bias}{225}
+\indexentry{Base bias!design of}{238}
+\indexentry{Biasing circuits!voltage divider bias}{241}
+\indexentry{Transistor!voltage divider bias}{241}
+\indexentry{Voltage divider bias}{241}
+\indexentry{Emitter current bias}{241}
+\indexentry{Universal bias}{241}
+\indexentry{Voltage divider bias!analysis of}{242}
+\indexentry{Voltage divider bias!accurate analysis of}{244}
+\indexentry{Voltage divider bias!design of}{252}
+\indexentry{Thermal stability}{258}
+\indexentry{Biasing circuits!thermal stability}{258}
+\indexentry{Operational amplifier}{261}
+\indexentry{Operational amplifier!circuit symbol of}{262}
+\indexentry{Operational amplifier!operation of}{263}
+\indexentry{Operational amplifier!properties of}{264}
+\indexentry{Ideal Op-amp!properties of}{264}
+\indexentry{Ideal Op-amp}{264}
+\indexentry{Operational amplifier!ideal op-amp}{264}
+\indexentry{Operational amplifier!properties of}{264}
+\indexentry{Practical Op-amp!properties of}{264}
+\indexentry{Practical Op-amp}{264}
+\indexentry{Operational amplifier!practical op-amp}{264}
+\indexentry{Operational amplifier!block diagram of}{265}
+\indexentry{Op-amp ($\mu$A-741)}{265}
+\indexentry{Operational amplifier!op-amp ($\mu$A-741)}{265}
+\indexentry{Op-amp ($\mu$A-741)!pin diagram of}{265}
+\indexentry{Op-amp ($\mu$A-741)!parameters}{266}
+\indexentry{Operational amplifier!equivalent circuit of}{267}
+\indexentry{Operational amplifier!negative feedback}{268}
+\indexentry{Operational amplifier!frequency response of}{268}
+\indexentry{Slew-rate}{270}
+\indexentry{Operational amplifier!slew-rate of}{270}
+\indexentry{Common-mode rejection ratio}{273}
+\indexentry{Operational amplifier!CMRR}{273}
+\indexentry{Virtual short}{276}
+\indexentry{Operational amplifier!virtual short}{277}
+\indexentry{Op-amp circuits}{277}
+\indexentry{Operational amplifier!basic Op-amp circuits}{277}
+\indexentry{Inverting amplifier}{277}
+\indexentry{Op-amp circuits!inverting amplifier}{277}
+\indexentry{Operational amplifier!inverting amplifier}{277}
+\indexentry{Non-inverting amplifier}{286}
+\indexentry{Op-amp circuits!non-inverting amplifier}{286}
+\indexentry{Operational amplifier!non-inverting amplifier}{286}
+\indexentry{Operational amplifier!input resistance of}{291}
+\indexentry{Inverting amplifier!input resistance of}{291}
+\indexentry{Applications of Op-amp}{294}
+\indexentry{Operational amplifier!applications of}{294}
+\indexentry{Voltage follower}{294}
+\indexentry{Operational amplifier!voltage follower}{294}
+\indexentry{Applications of Op-amp!voltage follower}{294}
+\indexentry{Voltage follower!properties of}{295}
+\indexentry{Voltage follower!application of}{295}
+\indexentry{Summing amplifier}{296}
+\indexentry{Operational amplifier!summer}{296}
+\indexentry{Applications of Op-amp!summer}{296}
+\indexentry{Op-amp subtractor}{302}
+\indexentry{Operational amplifier!subtractor}{302}
+\indexentry{Applications of Op-amp!subtractor}{302}
+\indexentry{Op-amp subtractor}{304}
+\indexentry{Operational amplifier!integrator}{307}
+\indexentry{Applications of Op-amp!integrator}{307}
+\indexentry{Op-amp integrator}{307}
+\indexentry{Op-amp differentiator}{308}
+\indexentry{Operational amplifier!differentiator}{308}
+\indexentry{Applications of Op-amp!differentiator}{308}
+\indexentry{Analog Computer}{323}
+\indexentry{Digital computer}{324}
+\indexentry{Decimal number system}{324}
+\indexentry{Binary number system}{326}
+\indexentry{Decimal to binary conversion}{328}
+\indexentry{Octal number system}{331}
+\indexentry{Octal-binary equivalents}{333}
+\indexentry{Hexadecimal number system}{335}
+\indexentry{Hexadecimal-binary-decimal equivalence}{336}
+\indexentry{Binary addition}{340}
+\indexentry{Octal number system!addition of}{341}
+\indexentry{Hexadecimal number system!addition of}{344}
+\indexentry{Binary subtraction}{347}
+\indexentry{Binary coded decimal numbers}{366}
+\indexentry{Boolean Algebra}{368}
+\indexentry{Logic gate}{368}
+\indexentry{Logic gate!AND operation}{369}
+\indexentry{AND gate}{370}
+\indexentry{Logic gate!OR operation}{373}
+\indexentry{OR gate}{373}
+\indexentry{Logic gate!NOT operation}{376}
+\indexentry{NOT gate}{376}
+\indexentry{NOR gate}{377}
+\indexentry{Logic gate!symbols}{378}
+\indexentry{Logic gate!truth-tables}{378}
+\indexentry{Logic gate!NAND operation}{379}
+\indexentry{NAND gate}{379}
+\indexentry{Logic gate!NOR operation}{379}
+\indexentry{NOT gate}{379}
+\indexentry{Logic gate!EX-OR operation}{380}
+\indexentry{EX-OR gate}{380}
+\indexentry{Logic gate!EX-NOR operation}{381}
+\indexentry{EX-NOR gate}{381}
+\indexentry{Boolean laws}{382}
+\indexentry{De Morgan's Theorems}{387}
+\indexentry{Logic gate!De Morgan's theorems}{387}
+\indexentry{Universal gates}{388}
+\indexentry{Logic gate!universal}{388}
+\indexentry{NOT gate!using NAND}{388}
+\indexentry{AND gate!using NAND}{389}
+\indexentry{OR gate!using NAND}{389}
+\indexentry{NOR gate!using NAND}{390}
+\indexentry{EX-OR gate!using NAND}{390}
+\indexentry{EX-NOR gate!using NAND}{391}
+\indexentry{NOT gate!using NOR}{391}
+\indexentry{AND gate!using NOR}{392}
+\indexentry{OR gate!using NOR}{392}
+\indexentry{NAND gate!using NOR}{393}
+\indexentry{EX-OR gate!using NOR}{393}
+\indexentry{EX-NOR gate!using NOR}{394}
+\indexentry{Half-adder}{411}
+\indexentry{Full-adder}{413}
+\indexentry{Binary adder}{417}
+\indexentry{Characteristics of logic gates}{418}
+\indexentry{Logic gate!characteristics of}{418}
+\indexentry{Fan-in}{419}
+\indexentry{Characteristics!fan-in}{419}
+\indexentry{Fan-out}{419}
+\indexentry{Characteristics!fan-out}{419}
+\indexentry{Propagation delay}{419}
+\indexentry{Characteristics!propagation delay}{419}
+\indexentry{Noise margin}{419}
+\indexentry{Characteristics!noise margins}{419}
+\indexentry{Characteristics!speed}{419}
+\indexentry{Characteristics!power dissipation}{419}
+\indexentry{Sequential circuit}{420}
+\indexentry{Latch}{420}
+\indexentry{Flip-flop}{421}
+\indexentry{RS@$R{\rm -}S$ Flip-Flop}{422}
+\indexentry{Flip-flop!rs@$r{\rm -}s$ flip-flop}{422}
+\indexentry{RS@$R{\rm -}S$ Flip-Flop!using NAND gates}{422}
+\indexentry{RS@$R{\rm -}S$ Flip-Flop!using NOR gates}{425}
+\indexentry{Clock wave form}{427}
+\indexentry{Clocked $RS$ Flip-flop}{427}
+\indexentry{RS@$R{\rm -}S$ Flip-Flop!clocked}{427}
+\indexentry{Microprocessor}{431}
+\indexentry{Microprocessor!word length of}{432}
+\indexentry{Small Scale Integration}{433}
+\indexentry{Medium Scale Integration}{433}
+\indexentry{Large Scale Integration}{433}
+\indexentry{Very Large Scale Integration}{433}
+\indexentry{Microprocessor!segments}{434}
+\indexentry{Arithmetic and Logic Unit}{434}
+\indexentry{Register Array}{434}
+\indexentry{Control Unit}{434}
+\indexentry{Memory}{435}
+\indexentry{Peripherals}{435}
+\indexentry{System bus}{435}
+\indexentry{Microprocessor!working of}{435}
+\indexentry{Computer Languages}{436}
+\indexentry{Machine language}{436}
+\indexentry{Assembly language}{436}
+\indexentry{High level language}{437}
+\indexentry{8085 Microprocessor}{437}
+\indexentry{Microprocessor!8085}{437}
+\indexentry{Microprocessor!features of}{439}
+\indexentry{8085 Microprocessor!features of}{439}
+\indexentry{Microprocessor!architecture of}{440}
+\indexentry{8085 Microprocessor!architecture of}{440}
+\indexentry{Microprocessor!register array}{442}
+\indexentry{8085 Microprocessor!register array}{442}
+\indexentry{Microprocessor!general purpose registers}{442}
+\indexentry{8085 Microprocessor!general purpose registers}{442}
+\indexentry{Microprocessor!special purpose registers}{442}
+\indexentry{8085 Microprocessor!special purpose registers}{442}
+\indexentry{Microprocessor!accumulator}{442}
+\indexentry{8085 Microprocessor!accumulator}{442}
+\indexentry{Accumulator}{442}
+\indexentry{Microprocessor!flag register}{442}
+\indexentry{8085 Microprocessor!flag register}{442}
+\indexentry{Flag register}{442}
+\indexentry{Sign Flag}{442}
+\indexentry{Zero Flag}{442}
+\indexentry{Flag}{442}
+\indexentry{Auxiliary Carry Flag}{443}
+\indexentry{Parity Flag}{443}
+\indexentry{Carry Flag}{443}
+\indexentry{Microprocessor!temporary registers}{443}
+\indexentry{8085 Microprocessor!temporary registers}{443}
+\indexentry{Program counter}{443}
+\indexentry{Microprocessor!program counter}{443}
+\indexentry{8085 Microprocessor!program counter}{443}
+\indexentry{Stack pointer}{443}
+\indexentry{Timing and Control Unit}{444}
+\indexentry{Instruction register}{444}
+\indexentry{Decoder}{444}
+\indexentry{Microprocessor!applications of}{444}
+\indexentry{Micro Controller}{445}
+\indexentry{8051 Micro Controller}{446}
+\indexentry{Micro Controller!8051}{446}
+\indexentry{Micro Controller!features of}{447}
+\indexentry{8051 Micro Controller!features of}{447}
+\indexentry{Micro Controller!architecture of}{447}
+\indexentry{8051 Micro Controller!architecture of}{447}
+\indexentry{Micro Controller!processor}{449}
+\indexentry{8051 Micro Controller!processor}{449}
+\indexentry{Micro Controller!arithmetic and logic unit}{449}
+\indexentry{8051 Micro Controller!arithmetic and logic unit}{449}
+\indexentry{Micro Controller!instruction decoder}{449}
+\indexentry{8051 Micro Controller!instruction decoder}{449}
+\indexentry{Micro Controller!CPU registers}{449}
+\indexentry{8051 Micro Controller!CPU registers}{449}
+\indexentry{Micro Controller!flag}{451}
+\indexentry{8051 Micro Controller!flag}{451}
+\indexentry{Micro Controller!program counter}{451}
+\indexentry{8051 Micro Controller!program counter}{451}
+\indexentry{Micro Controller!memory}{452}
+\indexentry{8051 Micro Controller!memory}{452}
+\indexentry{Micro Controller!register banks}{452}
+\indexentry{8051 Micro Controller!register banks}{452}
+\indexentry{Microprocessor!applications of}{453}
+\indexentry{Transducers}{455}
+\indexentry{Sensor}{456}
+\indexentry{Transducer!classification of}{456}
+\indexentry{Transducer!properties of}{457}
+\indexentry{Mechanical Transducers}{458}
+\indexentry{Transducer!mechanical transducers}{458}
+\indexentry{Spring}{458}
+\indexentry{Bellows}{458}
+\indexentry{Bourdon tube}{459}
+\indexentry{Proving Rings}{459}
+\indexentry{Thermocouple}{459}
+\indexentry{Bimetals}{459}
+\indexentry{Diaphram}{460}
+\indexentry{Manometer}{460}
+\indexentry{Hydropneumatic Transducers}{460}
+\indexentry{Strain gage}{460}
+\indexentry{Transducer!passive electrical}{461}
+\indexentry{Resistive transducer}{462}
+\indexentry{Resistance thermometer}{462}
+\indexentry{Thermistor}{464}
+\indexentry{Resistive displacement transducers}{466}
+\indexentry{Transducer!resistive displacement}{466}
+\indexentry{Transducer!inductive transducers}{468}
+\indexentry{Inductive transducers}{468}
+\indexentry{Linear Variable Differential Transformer (LVDT)}{468}
+\indexentry{Electrical Transducers}{471}
+\indexentry{Thermoelectric Transducers}{471}
+\indexentry{Thermocouple}{471}
+\indexentry{Seeback Effect}{472}
+\indexentry{Peltier Effect}{473}
+\indexentry{Thomson Effect}{474}
+\indexentry{Piezo-Electric Transducer}{474}
+\indexentry{Photo Electric Transducers}{477}
+\indexentry{Communication systems!elements of}{479}
+\indexentry{Communication systems}{479}
+\indexentry{Transmitter}{480}
+\indexentry{Channel}{480}
+\indexentry{Noise}{480}
+\indexentry{Receiver}{480}
+\indexentry{Modulation}{480}
+\indexentry{Communication systems!classification of}{481}
+\indexentry{Modulation!need for}{481}
+\indexentry{Long distance communication}{481}
+\indexentry{Frequency ranges}{482}
+\indexentry{Amplitude modulation}{483}
+\indexentry{Modulation!amplitude modulation}{483}
+\indexentry{Amplitude modulation!modulation index}{485}
+\indexentry{Modulation index}{485}
+\indexentry{Amplitude modulation!wave equation}{485}
+\indexentry{Amplitude modulation!modulation index of}{486}
+\indexentry{Amplitude modulation!frequency spectrum of}{487}
+\indexentry{Amplitude modulation!power of}{490}
+\indexentry{Amplitude modulation!maximum power in}{492}
+\indexentry{Amplitude modulation!transmission efficiency of}{492}
+\indexentry{Amplitude modulation!modulation index}{493}
+\indexentry{Amplitude modulation!demodulation of}{499}
+\indexentry{Demodulation}{499}
+\indexentry{Angle modulation}{501}
+\indexentry{Angle modulation!methods of}{502}
+\indexentry{Frequency modulation}{503}
+\indexentry{Frequency modulation!modulation index}{506}
+\indexentry{Frequency modulation!frequency spectrum}{507}
+\indexentry{Frequency modulation!bandwidth of}{507}
+\indexentry{FM Detection}{507}
+\indexentry{Phase-locked loop}{507}
+\indexentry{Frequency modulation!demodulation of}{507}
+\indexentry{Amplitude modulation!limitations of}{510}
+\indexentry{Frequency modulation!advantages of}{511}
+\indexentry{Frequency modulation!disadvantages of}{511}
+\indexentry{Modulation!comparison between}{512}
+\indexentry{Communication systems!basic terminologies}{515}
+\indexentry{Telephone system}{516}
+\indexentry{Modem}{516}
+\indexentry{Telephone systems}{517}
+\indexentry{Telephone systems!working of}{517}
+\indexentry{Telephone systems!topology of}{517}
+\indexentry{Telephone set}{518}
+\indexentry{Cellular telephone}{520}
+\indexentry{Mobile telephone}{520}
+\indexentry{Mobile station}{521}
+\indexentry{Base stations}{521}
+\indexentry{Integrated Services Digital Network (ISDN)}{523}
+\indexentry{Communication systems!optical fibre}{524}
+\indexentry{Optical fibre}{524}
+\indexentry{Optical communication system}{524}
+\indexentry{Optical communication system!block diagram of}{525}
+\indexentry{Optical communication system!advantages of}{527}
+\indexentry{Optical communication system!applications of}{528}

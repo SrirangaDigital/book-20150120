@@ -1,0 +1,7 @@
+This is makeindex, version 2.15 [TeX Live 2011] (kpathsea + Thai support).
+Scanning style file ./mystyle.ist.......done (7 attributes redefined, 0 ignored).
+Scanning input file mainfile.idx....done (509 entries accepted, 0 rejected).
+Sorting entries.......done (4948 comparisons).
+Generating output file mainfile.ind....done (588 lines written, 0 warnings).
+Output written in mainfile.ind.
+Transcript written in mainfile.ilg.

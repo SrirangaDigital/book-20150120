@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:ns0="http://www.iki.fi/pav/software/textext/"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.47 r22583"
+   sodipodi:docname="fig57_2.svg">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="227.68466"
+     inkscape:cy="697.89352"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1024"
+     inkscape:window-height="689"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Mstart"
+       style="overflow:visible">
+      <path
+         id="path3619"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none"
+         transform="scale(0.4) translate(10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Mend"
+       style="overflow:visible;">
+      <path
+         id="path3622"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none;"
+         transform="scale(0.4) rotate(180) translate(10,0)" />
+    </marker>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:LMRoman12;-inkscape-font-specification:LMRoman12"
+       x="95.714287"
+       y="291.64789"
+       id="text2816"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan2818"
+         x="95.714287"
+         y="291.64789">1 1 1 0</tspan><tspan
+         sodipodi:role="line"
+         x="95.714287"
+         y="306.64789"
+         id="tspan2820">1 1 0 1</tspan></text>
+    <path
+       style="color:#000000;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 89.642857,309.50504 45.000003,0"
+       id="path2822" />
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:LMRoman12;-inkscape-font-specification:LMRoman12"
+       x="104.82143"
+       y="342.57648"
+       id="text2824"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan2826"
+         x="104.82143"
+         y="342.57648">0 1 1 0</tspan><tspan
+         sodipodi:role="line"
+         x="104.82143"
+         y="357.57648"
+         id="tspan2828"
+         dx="-20.846453 0 0 0 -0.50507629">+   0 0 1 0</tspan></text>
+    <path
+       style="color:#000000;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 94.805659,361.86218 50.015771,0"
+       id="path2830"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:LMRoman12;-inkscape-font-specification:LMRoman12"
+       x="94.821388"
+       y="373.64835"
+       id="text2832"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan2834"
+         x="94.821388"
+         y="373.64835"
+         dx="-4.0406098 8.586297"> 1 0 0 0</tspan></text>
+    <path
+       id="path4258"
+       d="m 146.4083,288.48583 23.99112,0"
+       style="color:#000000;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-start:url(#Arrow1Mstart);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:nodetypes="cc" />
+    <path
+       sodipodi:nodetypes="cc"
+       style="color:#000000;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-start:url(#Arrow1Mstart);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 146.4083,302.84297 23.99112,0"
+       id="path4446" />
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:LMRoman12;-inkscape-font-specification:LMRoman12"
+       x="177.85715"
+       y="290.93362"
+       id="text4448"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4450"
+         x="177.85715"
+         y="290.93362">retain</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4452"
+       y="306.57648"
+       x="177.85715"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:LMRoman12;-inkscape-font-specification:LMRoman12"
+       xml:space="preserve"><tspan
+         y="306.57648"
+         x="177.85715"
+         id="tspan4454"
+         sodipodi:role="line">replace by 1's complement</tspan></text>
+    <g
+       ns0:text="$-$"
+       ns0:preamble="/home/sriranga/Desktop/MCT/package.tex"
+       transform="matrix(1.2,0,0,1.2,-184.58962,144.51051)"
+       id="g2865">
+      <defs
+         id="defs2867">
+        <g
+           id="g2869">
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="symbol2871">
+            <path
+               style="stroke:none"
+               d=""
+               id="path2873" />
+          </symbol>
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="symbol2875">
+            <path
+               style="stroke:none"
+               d="m 5.71875,-2.28125 0,-0.5625 -5.09375,0 0,0.5625 5.09375,0 z m 0,0"
+               id="path2877" />
+          </symbol>
+        </g>
+      </defs>
+      <g
+         id="g2879">
+        <g
+           style="fill:#000000;fill-opacity:1"
+           id="g2881">
+          <g
+             id="use2883"
+             transform="translate(223.43201,134.765)">
+            <path
+               style="stroke:none"
+               d="m 5.71875,-2.28125 0,-0.5625 -5.09375,0 0,0.5625 5.09375,0 z m 0,0"
+               id="path2891" />
+          </g>
+        </g>
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:LMRoman12;-inkscape-font-specification:LMRoman12"
+       x="81.234581"
+       y="403.56125"
+       id="text2897"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan2899"
+         x="81.234581"
+         y="403.56125">No carry</tspan></text>
+    <g
+       id="g2956"
+       transform="matrix(1.2,0,0,1.2,62.263293,140.17437)"
+       ns0:preamble="/home/sriranga/Desktop/MCT/package.tex"
+       ns0:text="$\\equiv$">
+      <defs
+         id="defs2958">
+        <g
+           id="g2960">
+          <symbol
+             id="textext-4e2383cd-0"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path2963"
+               d=""
+               style="stroke:none" />
+          </symbol>
+          <symbol
+             id="textext-4e2383cd-1"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path2966"
+               d="m 5.71875,-3.984375 0,-0.546875 -5.09375,0 0,0.546875 5.09375,0 z m 0,1.703125 0,-0.5625 -5.09375,0 0,0.5625 5.09375,0 z m 0,1.6875 0,-0.546875 -5.09375,0 0,0.546875 5.09375,0 z m 0,0"
+               style="stroke:none" />
+          </symbol>
+        </g>
+      </defs>
+      <g
+         id="textext-4e2383cd-2">
+        <g
+           id="g2969"
+           style="fill:#000000;fill-opacity:1">
+          <use
+             id="use2971"
+             y="134.765"
+             x="223.43201"
+             xlink:href="#textext-4e2383cd-1"
+             width="744.09448"
+             height="1052.3622" />
+        </g>
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:LMRoman12;-inkscape-font-specification:LMRoman12"
+       x="359.61429"
+       y="286.66656"
+       id="text3022"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3024"
+         x="359.61429"
+         y="286.66656">6</tspan><tspan
+         sodipodi:role="line"
+         x="359.61429"
+         y="301.66656"
+         id="tspan3026"
+         dx="-6.0609155">13</tspan></text>
+    <path
+       style="color:#000000;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 342.94679,305.85945 29.29442,0"
+       id="path3028" />
+    <g
+       id="g3030"
+       transform="matrix(1.2,0,0,1.2,75.748016,139.96482)"
+       ns0:preamble="/home/sriranga/Desktop/MCT/package.tex"
+       ns0:text="$-$">
+      <defs
+         id="defs3032">
+        <g
+           id="g3034">
+          <symbol
+             id="symbol3036"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path3038"
+               d=""
+               style="stroke:none" />
+          </symbol>
+          <symbol
+             id="symbol3040"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path3042"
+               d="m 5.71875,-2.28125 0,-0.5625 -5.09375,0 0,0.5625 5.09375,0 z m 0,0"
+               style="stroke:none" />
+          </symbol>
+        </g>
+      </defs>
+      <g
+         id="g3044">
+        <g
+           id="g3046"
+           style="fill:#000000;fill-opacity:1">
+          <g
+             transform="translate(223.43201,134.765)"
+             id="g3048">
+            <path
+               id="path3050"
+               d="m 5.71875,-2.28125 0,-0.5625 -5.09375,0 0,0.5625 5.09375,0 z m 0,0"
+               style="stroke:none" />
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       ns0:text="$-$"
+       ns0:preamble="/home/sriranga/Desktop/MCT/package.tex"
+       transform="matrix(1.2,0,0,1.2,75.748016,155.96482)"
+       id="g3052">
+      <defs
+         id="defs3054">
+        <g
+           id="g3056">
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="symbol3058">
+            <path
+               style="stroke:none"
+               d=""
+               id="path3060" />
+          </symbol>
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="symbol3062">
+            <path
+               style="stroke:none"
+               d="m 5.71875,-2.28125 0,-0.5625 -5.09375,0 0,0.5625 5.09375,0 z m 0,0"
+               id="path3064" />
+          </symbol>
+        </g>
+      </defs>
+      <g
+         id="g3066">
+        <g
+           style="fill:#000000;fill-opacity:1"
+           id="g3068">
+          <g
+             id="g3070"
+             transform="translate(223.43201,134.765)">
+            <path
+               style="stroke:none"
+               d="m 5.71875,-2.28125 0,-0.5625 -5.09375,0 0,0.5625 5.09375,0 z m 0,0"
+               id="path3072" />
+          </g>
+        </g>
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:LMRoman12;-inkscape-font-specification:LMRoman12"
+       x="359.10922"
+       y="318.99146"
+       id="text3074"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3076"
+         x="359.10922"
+         y="318.99146">7</tspan></text>
+    <path
+       id="path3078"
+       d="m 88.328334,374.41792 0,17.42513"
+       style="color:#000000;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-start:url(#Arrow1Mstart);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:nodetypes="cc" />
+  </g>
+</svg>

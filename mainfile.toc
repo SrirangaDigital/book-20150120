@@ -1,0 +1,327 @@
+\contentsline {chapter}{Preface}{i}
+\contentsline {chapter}{\numberline {1}$p$-$n$ Junction Diode}{1}
+\contentsline {section}{\numberline {1.1}{\relax \mathversion {bold}$p$-$n$} junction}{1}
+\contentsline {section}{\numberline {1.2}Conditions under which a {\relax \mathversion {bold}$p$-$n$} junction diode can be destroyed}{2}
+\contentsline {section}{\numberline {1.3}Classification of diodes based on currents}{2}
+\contentsline {section}{\numberline {1.4}Description and ratings of a low-current diode}{3}
+\contentsline {section}{\numberline {1.5}Description and ratings of a medium-current diode}{3}
+\contentsline {section}{\numberline {1.6}Description and ratings of high-current diode}{3}
+\contentsline {section}{\numberline {1.7}Forward and reverse characteristics of a Silicon diode}{4}
+\contentsline {section}{\numberline {1.8}Forward and reverse characteristic of a Germanium diode}{8}
+\contentsline {section}{\numberline {1.9}Comparison between Silicon and Germanium diodes}{12}
+\contentsline {section}{\numberline {1.10}Important diode parameters}{12}
+\contentsline {section}{\numberline {1.11}Dynamic resistance of diode and its graphical determination}{13}
+\contentsline {section}{\numberline {1.12}Characteristics of an ideal diode}{16}
+\contentsline {section}{\numberline {1.13}Kirchhoff's Voltage Law}{18}
+\contentsline {section}{\numberline {1.14}Piecewise-linear characteristics of diode}{22}
+\contentsline {section}{\numberline {1.15}$dc$ equivalent circuit of diode}{24}
+\contentsline {section}{\numberline {1.16}DC load line}{27}
+\contentsline {section}{\numberline {1.17}Need for graphical analysis or DC load line}{28}
+\contentsline {section}{\numberline {1.18}Meaning of Q-point}{29}
+\contentsline {section}{\numberline {1.19}Capacitive effects in $p$-$n$ junction}{31}
+\contentsline {subsection}{\numberline {1.19.1}Depletion layer capacitance}{31}
+\contentsline {subsection}{\numberline {1.19.2}Diffusion capacitance}{32}
+\contentsline {section}{\numberline {1.20}$ac$ equivalent circuit of a diode, under reverse and forward biased conditions}{33}
+\contentsline {section}{\numberline {1.21}Reverse-recovery time in a diode}{34}
+\contentsline {section}{\numberline {1.22}Junction Breakdown in diodes}{35}
+\contentsline {subsection}{\numberline {1.22.1}Avalanche Breakdown}{36}
+\contentsline {subsection}{\numberline {1.22.2}Zener Breakdown}{36}
+\contentsline {section}{\numberline {1.23}Zener Diode and Its $V$-$I$ Characteristics}{37}
+\contentsline {section}{\numberline {1.24}Zener diode parameters}{38}
+\contentsline {section}{\numberline {1.25}Equivalent Circuit of Zener Diode}{40}
+\contentsline {section}{\numberline {1.26}Applications of Zener Diode}{41}
+\contentsline {chapter}{\numberline {2}Semiconductor Diode Applications}{45}
+\contentsline {section}{\numberline {2.1}Need for rectification}{45}
+\contentsline {subsection}{\numberline {2.1.1}Rectifier}{45}
+\contentsline {section}{\numberline {2.2}Half-wave rectifer}{46}
+\contentsline {section}{\numberline {2.3}Expressions for (a) Average\tmspace +\thinmuskip {.1667em}/\tmspace +\thinmuskip {.1667em}DC load current and load voltage\newline (b) RMS load current and load voltage}{47}
+\contentsline {section}{\numberline {2.4}Percentage regulation}{52}
+\contentsline {subsection}{\numberline {2.4.1}Expression for percentage regulation of half wave rectifier}{52}
+\contentsline {section}{\numberline {2.5}Rectification efficiency}{53}
+\contentsline {subsection}{\numberline {2.5.1}Expression for rectification efficiency of half wave rectifier}{53}
+\contentsline {section}{\numberline {2.6}Ripple factor}{56}
+\contentsline {subsection}{\numberline {2.6.1}Ripple factor of half wave rectifier}{56}
+\contentsline {section}{\numberline {2.7}Peak inverse voltage}{57}
+\contentsline {subsection}{\numberline {2.7.1}Peak inverse voltage of half wave rectifier}{57}
+\contentsline {section}{\numberline {2.8}Summary of results for half-wave rectifier}{58}
+\contentsline {section}{\numberline {2.9}Full-wave rectifier using two diodes and a centre-tapped transformer}{62}
+\contentsline {section}{\numberline {2.10}Expressions for (a) DC load current and load voltage (b) RMS load current and load voltage of full wave rectifier}{64}
+\contentsline {section}{\numberline {2.11}Expression for percentage regulation of full-wave rectifier}{67}
+\contentsline {section}{\numberline {2.12}Expression for efficiency of rectification of full-wave rectifier}{68}
+\contentsline {section}{\numberline {2.13}Ripple factor of full-wave rectifier}{70}
+\contentsline {section}{\numberline {2.14}Peak inverse voltage in full-wave rectifier}{71}
+\contentsline {section}{\numberline {2.15}Summary of results for Full-wave rectifier using two diodes}{72}
+\contentsline {section}{\numberline {2.16}Full-wave bridge rectifier}{81}
+\contentsline {section}{\numberline {2.17}Peak inverse voltage for full-wave bridge rectifier}{85}
+\contentsline {subsection}{\numberline {2.17.1}Comparative study of rectifier circuits}{89}
+\contentsline {section}{\numberline {2.18}Filters for rectifier circuits}{90}
+\contentsline {section}{\numberline {2.19}Half-wave rectifier with capacitor filter}{90}
+\contentsline {section}{\numberline {2.20}Expressions for ripple factor and $dc$ output voltage in half wave rectifier with capacitor filter}{91}
+\contentsline {section}{\numberline {2.21}Full-wave rectifier with capacitor filter}{95}
+\contentsline {section}{\numberline {2.22}Full-wave bridge rectifier with capacitor filter}{97}
+\contentsline {section}{\numberline {2.23}Expressions for ripple factor and $dc$ output voltage, in a full wave rectifier with capacitor filter}{98}
+\contentsline {section}{\numberline {2.24}Expression for diode current for a full-wave rectifier circuit with capacitor filter}{101}
+\contentsline {section}{\numberline {2.25}\relax \mathversion {bold}$dc$ Power Supply}{109}
+\contentsline {section}{\numberline {2.26}Line Regulation and Load Regulation as Applied to $dc$ Power Supplies}{110}
+\contentsline {section}{\numberline {2.27}Voltage Regulator}{112}
+\contentsline {section}{\numberline {2.28}Zener Diode Voltage Regulator}{113}
+\contentsline {subsection}{\numberline {2.28.1}Zener diode voltage regulator under no load}{113}
+\contentsline {subsection}{\numberline {2.28.2}Loaded Zener diode voltage regulator}{117}
+\contentsline {section}{\numberline {2.29}Clipping Circuits}{131}
+\contentsline {section}{\numberline {2.30}Series Clipper}{131}
+\contentsline {subsection}{\numberline {2.30.1}Negative series clipper}{131}
+\contentsline {subsection}{\numberline {2.30.2}Positive clipper}{133}
+\contentsline {subsection}{\numberline {2.30.3}Series noise clipper}{137}
+\contentsline {section}{\numberline {2.31}Shunt Clipping Circuits}{138}
+\contentsline {subsection}{\numberline {2.31.1}Positive shunt clipper}{138}
+\contentsline {subsection}{\numberline {2.31.2}Design equations of positive shunt clipper}{140}
+\contentsline {subsection}{\numberline {2.31.3}Negative shunt clipper}{141}
+\contentsline {subsection}{\numberline {2.31.4}Design equations of negative shunt clipper}{143}
+\contentsline {subsection}{\numberline {2.31.5}Shunt noise clipper}{148}
+\contentsline {subsection}{\numberline {2.31.6}Application of shunt clipper}{148}
+\contentsline {section}{\numberline {2.32}Biased shunt clipper}{148}
+\contentsline {section}{\numberline {2.33}Zener Diode Shunt Clipper}{151}
+\contentsline {section}{\numberline {2.34}Clamping Circuits}{154}
+\contentsline {subsection}{\numberline {2.34.1}Negative voltage clamping circuit}{156}
+\contentsline {subsection}{\numberline {2.34.2}Positive voltage clamping circuit}{157}
+\contentsline {subsection}{\numberline {2.34.3}Output slope}{158}
+\contentsline {subsection}{\numberline {2.34.4}Component selection}{159}
+\contentsline {chapter}{\numberline {3}Bipolar Junction Transistor}{167}
+\contentsline {section}{\numberline {3.1}Transistor construction}{167}
+\contentsline {section}{\numberline {3.2}Barrier voltages in unbiased $npn$ transistor}{168}
+\contentsline {section}{\numberline {3.3}Operation of $npn$ transistor}{169}
+\contentsline {section}{\numberline {3.4}Operation of $pnp$ transistor}{170}
+\contentsline {section}{\numberline {3.5}Directions of $I_{E}$, $I_{C}$ and $I_{B}$ in $npn$ and $pnp$ transistors}{172}
+\contentsline {section}{\numberline {3.6}Terminal voltages in an $npn$ transistor}{173}
+\contentsline {section}{\numberline {3.7}Terminal voltages in a $pnp$ transistor}{174}
+\contentsline {section}{\numberline {3.8}Transistor current gains}{175}
+\contentsline {subsection}{\numberline {3.8.1}Emitter to collector current gain}{175}
+\contentsline {subsection}{\numberline {3.8.2}Base to collector current gain}{176}
+\contentsline {section}{\numberline {3.9}Reverse saturation current, $I_{CB0}$}{176}
+\contentsline {section}{\numberline {3.10}To express $I_{C}$ in terms of $I_{B}$ and $\alpha _{\dc }$}{177}
+\contentsline {section}{\numberline {3.11}Relation between $\alpha _{\dc }$ and $\beta _{\dc }$}{177}
+\contentsline {section}{\numberline {3.12}$\beta _{\dc }$ in terms of $\alpha _{\dc }$}{178}
+\contentsline {section}{\numberline {3.13}Transistor configurations}{185}
+\contentsline {subsection}{\numberline {3.13.1}Common-emitter configuration}{185}
+\contentsline {subsection}{\numberline {3.13.2}Common-base configuration}{186}
+\contentsline {subsection}{\numberline {3.13.3}Common-collector configuration}{186}
+\contentsline {section}{\numberline {3.14}BJT current amplification}{187}
+\contentsline {subsection}{\numberline {3.14.1}Common-emitter ac current gain $(\tmspace +\thinmuskip {.1667em}\beta _{\ac }\tmspace +\thinmuskip {.1667em})$}{187}
+\contentsline {section}{\numberline {3.15}Voltage amplification in BJT}{188}
+\contentsline {section}{\numberline {3.16}Transistor characteristics}{196}
+\contentsline {section}{\numberline {3.17}Common-Base input characteristics}{196}
+\contentsline {section}{\numberline {3.18}Common-Base output characteristics}{198}
+\contentsline {subsection}{\numberline {3.18.1}Suitability of operating regions for the intended application of transistor}{199}
+\contentsline {subsection}{\numberline {3.18.2}Breakdown in transistor}{199}
+\contentsline {section}{\numberline {3.19}Current gain characteristics of common-base configuration}{200}
+\contentsline {section}{\numberline {3.20}Common-Emitter input characteristics}{203}
+\contentsline {section}{\numberline {3.21}Common-Emitter output characteristics}{204}
+\contentsline {section}{\numberline {3.22}Current gain characteristics of Common-Emitter configuration}{206}
+\contentsline {section}{\numberline {3.23}Common-Collector input characteristics}{207}
+\contentsline {section}{\numberline {3.24}Common-Collector output characteristics}{208}
+\contentsline {section}{\numberline {3.25}Common-Collector current gain characteristics}{209}
+\contentsline {section}{\numberline {3.26}Performance comparison of transistor configurations}{210}
+\contentsline {chapter}{\numberline {4}Transistor Biasing}{213}
+\contentsline {section}{\numberline {4.1}Need for biasing}{213}
+\contentsline {subsection}{\numberline {4.1.1}DC load line}{213}
+\contentsline {subsection}{\numberline {4.1.2}Procedure for drawing the DC load line on the transistor CE output characteristics}{214}
+\contentsline {section}{\numberline {4.2}DC Bias point or $Q$ point}{218}
+\contentsline {subsection}{\numberline {4.2.1}Variation of $I_{B}$, $I_{C}$ and $V_{CE}$ with the application of input signal}{218}
+\contentsline {subsection}{\numberline {4.2.2}Selection of $Q$-point}{221}
+\contentsline {section}{\numberline {4.3}Biasing circuits}{224}
+\contentsline {subsection}{\numberline {4.3.1}Requirements of a Biasing circuit}{224}
+\contentsline {section}{\numberline {4.4}Base bias or Fixed current Bias}{224}
+\contentsline {section}{\numberline {4.5}Design of Base-bias circuit}{238}
+\contentsline {section}{\numberline {4.6}Voltage divider bias circuit}{241}
+\contentsline {section}{\numberline {4.7}Analysis of voltage divider bias circuit}{242}
+\contentsline {subsection}{\numberline {4.7.1}Approximate analysis of voltage divider bias circuit}{242}
+\contentsline {section}{\numberline {4.8}Accurate analysis of voltage divider bias circuit}{244}
+\contentsline {section}{\numberline {4.9}Design of voltage divider bias circuit}{252}
+\contentsline {section}{\numberline {4.10}Thermal stability of bias circuits}{258}
+\contentsline {section}{\numberline {4.11}Thermal stability of $Q$ point in Base-Bias}{258}
+\contentsline {section}{\numberline {4.12}Thermal stability of $Q$ point in voltage divider bias circuit}{259}
+\contentsline {chapter}{\numberline {5}Operational Amplifier}{261}
+\contentsline {section}{\numberline {5.1}Operational Amplifier}{261}
+\contentsline {subsection}{\numberline {5.1.1}Circuit symbol of Op-amp}{262}
+\contentsline {subsection}{\numberline {5.1.2}Operation of an Op-amp}{263}
+\contentsline {subsection}{\numberline {5.1.3}Properties of an ideal Op-amp}{264}
+\contentsline {subsection}{\numberline {5.1.4}Properties of a practical Op-amp}{264}
+\contentsline {section}{\numberline {5.2}Block diagram of a typical OP-amp}{265}
+\contentsline {subsection}{\numberline {5.2.1}Integrated circuit Op-amp ($\mu $A741)}{265}
+\contentsline {subsection}{\numberline {5.2.2}Typical values of various Op-amp parameters for $\mu A741$ IC}{266}
+\contentsline {subsection}{\numberline {5.2.3}Equivalent circuit of an Op-amp}{267}
+\contentsline {section}{\numberline {5.3}Necessity of negative feedback in an Op-amp amplifier}{267}
+\contentsline {section}{\numberline {5.4}Typical frequency response of an Op-amp and the effect of negative feedback on bandwidth of the Op-amp}{268}
+\contentsline {section}{\numberline {5.5}Slew-rate of an Op-amp and its significance}{270}
+\contentsline {section}{\numberline {5.6}Common-mode rejection ratio or CMRR of an Op-amp and its significance}{273}
+\contentsline {section}{\numberline {5.7}Concept of virtual short in an Op-amp}{276}
+\contentsline {section}{\numberline {5.8}Basic Op-amp circuits}{277}
+\contentsline {section}{\numberline {5.9}Op-amp inverting amplifier}{277}
+\contentsline {section}{\numberline {5.10}Op-amp non-inverting amplifier}{286}
+\contentsline {section}{\numberline {5.11}Expression for input resistance of Op-amp inverting amplifier}{291}
+\contentsline {section}{\numberline {5.12}Linear Applications of Op-amp}{294}
+\contentsline {section}{\numberline {5.13}Voltage follower}{294}
+\contentsline {section}{\numberline {5.14}Important properties of Op-amp voltage follower}{295}
+\contentsline {section}{\numberline {5.15}Op-amp summer or summing amplifier}{296}
+\contentsline {section}{\numberline {5.16}Op-amp subtractor}{302}
+\contentsline {section}{\numberline {5.17}Alternate circuit for subtractor}{304}
+\contentsline {section}{\numberline {5.18}Op-amp as an integrator}{307}
+\contentsline {section}{\numberline {5.19}Op-amp as differentiator}{308}
+\contentsline {chapter}{\numberline {6}Digital Electronic Circuits}{323}
+\contentsline {section}{\numberline {6.1}Computer}{323}
+\contentsline {subsection}{\numberline {6.1.1}Analog Computer}{323}
+\contentsline {subsection}{\numberline {6.1.2}Digital Computer}{324}
+\contentsline {section}{\numberline {6.2}Decimal number system}{324}
+\contentsline {section}{\numberline {6.3}Binary number system}{326}
+\contentsline {section}{\numberline {6.4}Decimal to binary conversion}{328}
+\contentsline {section}{\numberline {6.5}Octal number system with an example}{331}
+\contentsline {section}{\numberline {6.6}Table of octal-binary equivalents}{333}
+\contentsline {section}{\numberline {6.7}Hexadecimal number system}{335}
+\contentsline {section}{\numberline {6.8}Binary addition}{340}
+\contentsline {section}{\numberline {6.9}Addition of octal numbers}{341}
+\contentsline {section}{\numberline {6.10}Addition of hexadecimal numbers}{344}
+\contentsline {section}{\numberline {6.11}Binary subtraction}{347}
+\contentsline {section}{\numberline {6.12}Binary coded decimal numbers}{366}
+\contentsline {section}{\numberline {6.13}Boolean Algebra}{368}
+\contentsline {section}{\numberline {6.14}Logic Gates}{368}
+\contentsline {section}{\numberline {6.15}The logical AND operation}{369}
+\contentsline {section}{\numberline {6.16}Construction of AND gate using diodes}{370}
+\contentsline {section}{\numberline {6.17}The logical OR operation}{373}
+\contentsline {section}{\numberline {6.18}Construction of OR gate using diodes}{374}
+\contentsline {section}{\numberline {6.19}The logical NOT operation}{376}
+\contentsline {section}{\numberline {6.20}Construction of NOT gate}{376}
+\contentsline {section}{\numberline {6.21}Symbols, logic and truth-tables of the basic gates}{378}
+\contentsline {section}{\numberline {6.22}The NAND operation}{379}
+\contentsline {section}{\numberline {6.23}The NOR operation}{379}
+\contentsline {section}{\numberline {6.24}Exclusive-OR (EX-OR) gate}{380}
+\contentsline {subsection}{\numberline {6.24.1}Implementation of EX-OR gate using Basic gates}{381}
+\contentsline {section}{\numberline {6.25}Exclusive-NOR (EX-NOR) gate}{381}
+\contentsline {subsection}{\numberline {6.25.1}Implementation of EX-NOR gate using Basic gates}{382}
+\contentsline {section}{\numberline {6.26}Basic Boolean Laws}{382}
+\contentsline {section}{\numberline {6.27}De Morgan's Theorems}{387}
+\contentsline {section}{\numberline {6.28}Universal gates}{388}
+\contentsline {section}{\numberline {6.29}Half-adder}{411}
+\contentsline {section}{\numberline {6.30}Full-adder}{412}
+\contentsline {section}{\numberline {6.31}Implementation of full-adder using half-adders}{415}
+\contentsline {section}{\numberline {6.32}Parallel Binary Adder}{416}
+\contentsline {section}{\numberline {6.33}Characteristics of Logic gates}{418}
+\contentsline {section}{\numberline {6.34}Classification of Digital Circuits}{419}
+\contentsline {section}{\numberline {6.35}Latch}{420}
+\contentsline {section}{\numberline {6.36}Flip-Flop}{421}
+\contentsline {subsection}{\numberline {6.36.1}$R$-$S$ Flip-Flop using NAND gates (NAND gate latch)}{422}
+\contentsline {subsection}{\numberline {6.36.2}$RS$ Flip-flop using NOR gates (NOR gate Latch)}{425}
+\contentsline {section}{\numberline {6.37}Clock wave form}{427}
+\contentsline {section}{\numberline {6.38}Clocked $RS$ Flip-Flop}{427}
+\contentsline {subsection}{\numberline {6.38.1}Clocked $RS$ Flip-Flop using NOR gates}{427}
+\contentsline {subsection}{\numberline {6.38.2}Clocked $RS$ Flip-Flop using NAND gates}{429}
+\contentsline {chapter}{\numberline {7}Microprocessors and Micro Controllers}{431}
+\contentsline {section}{\numberline {7.1}Microprocessor}{431}
+\contentsline {subsection}{\numberline {7.1.1}Word length of a microprocessor}{432}
+\contentsline {subsection}{\numberline {7.1.2}Grouping of bits}{433}
+\contentsline {section}{\numberline {7.2}Scale of Integration}{433}
+\contentsline {section}{\numberline {7.3}Microprocessor - Based System}{433}
+\contentsline {section}{\numberline {7.4}Microprocessor}{434}
+\contentsline {subsection}{\numberline {7.4.1}Arithmetic\tmspace +\thinmuskip {.1667em}/\tmspace +\thinmuskip {.1667em}Logic Unit (ALU)}{434}
+\contentsline {subsection}{\numberline {7.4.2}Register Array}{434}
+\contentsline {subsection}{\numberline {7.4.3}Control Unit}{434}
+\contentsline {subsection}{\numberline {7.4.4}Memory}{435}
+\contentsline {subsection}{\numberline {7.4.5}I\tmspace +\thinmuskip {.1667em}/\tmspace +\thinmuskip {.1667em}O (Input\tmspace +\thinmuskip {.1667em}/\tmspace +\thinmuskip {.1667em}Output)}{435}
+\contentsline {subsection}{\numberline {7.4.6}System Bus}{435}
+\contentsline {section}{\numberline {7.5}Working of Microprocessor}{435}
+\contentsline {section}{\numberline {7.6}Computer Languages}{436}
+\contentsline {section}{\numberline {7.7}Combinations with \relax \mathversion {bold}$n$-bit binary word}{437}
+\contentsline {section}{\numberline {7.8}The 8085 Microprocessor}{437}
+\contentsline {subsection}{\numberline {7.8.1}Features of 8085 microprocessor}{439}
+\contentsline {section}{\numberline {7.9}Architecture of 8085 microprocessor}{440}
+\contentsline {section}{\numberline {7.10}Applications of Microprocessor}{444}
+\contentsline {section}{\numberline {7.11}Micro Controller}{445}
+\contentsline {section}{\numberline {7.12}The 8051 Micro Controller}{446}
+\contentsline {section}{\numberline {7.13}The Salient Features of 8051 are as follows}{447}
+\contentsline {section}{\numberline {7.14}Architecture of 8051}{447}
+\contentsline {section}{\numberline {7.15}Applications of Micro Controllers}{453}
+\contentsline {section}{\numberline {7.16}Differences between Microprocessor and Micro Controller}{454}
+\contentsline {chapter}{\numberline {8}Transducers}{455}
+\contentsline {section}{\numberline {8.1}Need for Transducers}{455}
+\contentsline {section}{\numberline {8.2}Transducer}{456}
+\contentsline {subsection}{\numberline {8.2.1}Difference between the sensor and the transducer}{456}
+\contentsline {section}{\numberline {8.3}Classification of Transducers}{456}
+\contentsline {section}{\numberline {8.4}Desirable properties of a Good Transducer}{457}
+\contentsline {section}{\numberline {8.5}Mechanical Transducers}{458}
+\contentsline {section}{\numberline {8.6}Strain Gage}{460}
+\contentsline {subsection}{\numberline {8.6.1}Applications of strain gage}{461}
+\contentsline {section}{\numberline {8.7}Passive electrical transducers}{461}
+\contentsline {section}{\numberline {8.8}Resistive Transducers}{462}
+\contentsline {subsection}{\numberline {8.8.1}Resistance Thermometer}{462}
+\contentsline {subsection}{\numberline {8.8.2}Advantages of resistance thermometer}{464}
+\contentsline {subsection}{\numberline {8.8.3}Disadvantages}{464}
+\contentsline {section}{\numberline {8.9}Thermistor}{464}
+\contentsline {subsection}{\numberline {8.9.1}Construction of thermistors}{465}
+\contentsline {subsection}{\numberline {8.9.2}Applications of Thermistors}{466}
+\contentsline {subsection}{\numberline {8.9.3}Advantages of thermistor}{466}
+\contentsline {subsection}{\numberline {8.9.4}Disadvantages of thermistor}{466}
+\contentsline {section}{\numberline {8.10}Resistive displacement transducers}{466}
+\contentsline {section}{\numberline {8.11}Inductive transducers}{468}
+\contentsline {subsection}{\numberline {8.11.1}The Linear Variable Differential Transformer (LVDT)}{468}
+\contentsline {subsection}{\numberline {8.11.2}Applications of LVDT}{471}
+\contentsline {section}{\numberline {8.12}Active Electrical Transducers}{471}
+\contentsline {section}{\numberline {8.13}Thermoelectric Transducers}{471}
+\contentsline {subsection}{\numberline {8.13.1}Seebeck Effect}{472}
+\contentsline {subsection}{\numberline {8.13.2}Peltier Effect}{473}
+\contentsline {subsection}{\numberline {8.13.3}Thomson Effect}{474}
+\contentsline {subsection}{\numberline {8.13.4}Applications of Thermocouple}{474}
+\contentsline {section}{\numberline {8.14}Piezo-Electric Transducer}{474}
+\contentsline {subsection}{\numberline {8.14.1}Advantages of Piezo-electric Transducers}{476}
+\contentsline {subsection}{\numberline {8.14.2}Applications of Piezo-electric Transducers}{477}
+\contentsline {section}{\numberline {8.15}Photo Electric Transducers}{477}
+\contentsline {subsection}{\numberline {8.15.1}Applications of Photo-Electric Transducers}{478}
+\contentsline {chapter}{\numberline {9}Communication Systems : Part - I}{479}
+\contentsline {section}{\numberline {9.1}Communication}{479}
+\contentsline {section}{\numberline {9.2}Elements of communication systems}{479}
+\contentsline {section}{\numberline {9.3}Modulation}{480}
+\contentsline {section}{\numberline {9.4}Classification of communication systems based on the modulation scheme and input signal}{481}
+\contentsline {section}{\numberline {9.5}Need for modulation in communication systems}{481}
+\contentsline {section}{\numberline {9.6}Frequency ranges and their application}{482}
+\contentsline {section}{\numberline {9.7}Amplitude modulation}{483}
+\contentsline {section}{\numberline {9.8}Modulation index of amplitude modulation}{485}
+\contentsline {section}{\numberline {9.9}Expression for the instantaneous voltage of amplitude modulated wave : AM wave equation}{485}
+\contentsline {section}{\numberline {9.10}Expression for modulation index of amplitude modulation}{486}
+\contentsline {subsection}{\numberline {9.10.1}Effect of modulation index on amplitude modulation}{487}
+\contentsline {subsection}{\numberline {9.10.2}Significance of modulation index}{487}
+\contentsline {subsection}{\numberline {9.10.3}Frequency spectrum of AM wave and its bandwidth}{487}
+\contentsline {section}{\numberline {9.11}Expression for the total average power of a sinusoidal AM wave}{490}
+\contentsline {section}{\numberline {9.12}Maximum power in an AM wave}{492}
+\contentsline {section}{\numberline {9.13}Transmission efficiency of AM wave}{492}
+\contentsline {section}{\numberline {9.14}Modulation index in terms of carrier power and total power of the AM wave}{493}
+\contentsline {section}{\numberline {9.15}Modulation index and total power when a carrier is amplitude modulated by several sine waves}{494}
+\contentsline {section}{\numberline {9.16}AM Detection (Demodulation of AM signal)}{499}
+\contentsline {section}{\numberline {9.17}Angle modulation}{501}
+\contentsline {subsection}{\numberline {9.17.1}Two methods of angle modulation}{502}
+\contentsline {subsection}{\numberline {9.17.2}How PM and FM differ from AM?}{502}
+\contentsline {section}{\numberline {9.18}Frequency modulation}{503}
+\contentsline {subsection}{\numberline {9.18.1}Waveforms of frequency modulation}{503}
+\contentsline {subsection}{\numberline {9.18.2}Frequency deviation in frequency modulation}{503}
+\contentsline {subsection}{\numberline {9.18.3}Expression for the maximum frequency deviation of an FM wave}{504}
+\contentsline {subsection}{\numberline {9.18.4}Expression for the FM wave}{505}
+\contentsline {subsection}{\numberline {9.18.5}Modulation index for FM}{506}
+\contentsline {subsection}{\numberline {9.18.6}Frequency spectrum and bandwidth of an FM wave}{507}
+\contentsline {section}{\numberline {9.19}FM Detection}{507}
+\contentsline {section}{\numberline {9.20}Limitations of amplitude modulation}{510}
+\contentsline {section}{\numberline {9.21}Advantages of frequency modulation over amplitude modulation}{511}
+\contentsline {section}{\numberline {9.22}Disadvantages of FM}{511}
+\contentsline {section}{\numberline {9.23}Comparison between AM and FM}{512}
+\contentsline {chapter}{\numberline {10}Communication Systems - Part II}{515}
+\contentsline {section}{\numberline {10.1}Basic terminologies and their definitions}{515}
+\contentsline {subsection}{\numberline {10.1.1}Data transmission modes in communication circuits}{515}
+\contentsline {subsection}{\numberline {10.1.2}Telephone system}{516}
+\contentsline {section}{\numberline {10.2}The telephone systems}{517}
+\contentsline {subsection}{\numberline {10.2.1}Introduction}{517}
+\contentsline {subsection}{\numberline {10.2.2}Working of telephone system}{517}
+\contentsline {subsection}{\numberline {10.2.3}Telephone set (Telephone instrument)}{518}
+\contentsline {section}{\numberline {10.3}Mobile Telephone (Cellular Telephone)}{520}
+\contentsline {subsection}{\numberline {10.3.1}Mobile telephone unit (Cellular Telephone Unit)}{522}
+\contentsline {section}{\numberline {10.4}Integrated Services Digital Network (ISDN)}{523}
+\contentsline {section}{\numberline {10.5}Optical Fibre Communication System}{524}
+\contentsline {subsection}{\numberline {10.5.1}Block diagram of an optical fibre communication system}{525}
+\contentsline {subsection}{\numberline {10.5.2}Advantages of optical fibre cables}{527}
+\contentsline {subsection}{\numberline {10.5.3}Applications of optical fibre communication}{528}
+\contentsline {chapter}{Index}{530}

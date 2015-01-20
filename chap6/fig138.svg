@@ -1,0 +1,875 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:ns0="http://www.iki.fi/pav/software/textext/"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.47 r22583"
+   sodipodi:docname="fig138.svg">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.80227655"
+     inkscape:cx="385.00275"
+     inkscape:cy="467.61875"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1024"
+     inkscape:window-height="689"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:object-nodes="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3127" />
+  </sodipodi:namedview>
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:1.37500012;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:4.125, 4.125;stroke-dashoffset:0"
+       id="rect3642"
+       width="200"
+       height="259.99997"
+       x="278.10431"
+       y="359.16907" />
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:LMRoman12;-inkscape-font-specification:LMRoman12"
+       x="372.7514"
+       y="649.08124"
+       id="text3666"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3668"
+         x="372.7514"
+         y="649.08124">(a)</tspan></text>
+    <g
+       transform="matrix(1.2,0,0,1.2,-139.59861,241.36132)"
+       ns0:text="$S$"
+       ns0:preamble="/home/sriranga/Desktop/Projects/running-project/Prism-Modern-Control-Theory/package.tex"
+       id="g3708">
+      <defs
+         id="defs3710">
+        <g
+           id="g3712">
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="textext-d78f09f8-0">
+            <path
+               style="stroke:none"
+               d=""
+               id="path3715"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="textext-d78f09f8-1">
+            <path
+               style="stroke:none"
+               d="M 4.671875,-4.671875 5.0625,-6.65625 l -0.234375,0 c -0.140625,0.21875 -0.21875,0.265625 -0.4375,0.265625 -0.125,0 -0.234375,-0.03125 -0.46875,-0.109375 -0.21875,-0.09375 -0.53125,-0.140625 -0.84375,-0.140625 -1.03125,0 -1.765625,0.6875 -1.765625,1.671875 0,0.53125 0.140625,0.828125 0.734375,1.453125 0.09375,0.09375 0.21875,0.234375 0.390625,0.421875 0.1875,0.1875 0.328125,0.34375 0.390625,0.421875 0.46875,0.484375 0.59375,0.75 0.59375,1.171875 0,0.75 -0.546875,1.328125 -1.28125,1.328125 -0.828125,0 -1.453125,-0.703125 -1.453125,-1.65625 0,-0.078125 0.015625,-0.15625 0.015625,-0.21875 l -0.1875,-0.03125 -0.34375,2.234375 0.171875,0 c 0.078125,-0.234375 0.1875,-0.328125 0.390625,-0.328125 0.109375,0 0.25,0.03125 0.515625,0.125 0.453125,0.171875 0.71875,0.21875 1.03125,0.21875 1.140625,0 2.015625,-0.859375 2.015625,-1.984375 0,-0.65625 -0.234375,-1.03125 -1.125,-1.953125 C 2.265625,-4.671875 2.1875,-4.8125 2.1875,-5.296875 c 0,-0.625 0.421875,-1.015625 1.09375,-1.015625 0.375,0 0.671875,0.125 0.890625,0.375 0.21875,0.25 0.296875,0.578125 0.3125,1.25 l 0.1875,0.015625 z m 0,0"
+               id="path3718"
+               inkscape:connector-curvature="0" />
+          </symbol>
+        </g>
+      </defs>
+      <g
+         id="textext-d78f09f8-2">
+        <g
+           style="fill:#000000;fill-opacity:1"
+           id="g3721">
+          <use
+             height="1052.3622"
+             width="744.09448"
+             xlink:href="#textext-d78f09f8-1"
+             x="223.43201"
+             y="134.765"
+             id="use3723" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g3839"
+       transform="matrix(1.2,0,0,1.2,-139.59861,420.24442)"
+       ns0:preamble="/home/sriranga/Desktop/Projects/running-project/Prism-Modern-Control-Theory/package.tex"
+       ns0:text="$R$">
+      <defs
+         id="defs3841">
+        <g
+           id="g3843">
+          <symbol
+             id="textext-c8fbce43-0"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path3846"
+               d=""
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             id="textext-c8fbce43-1"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path3849"
+               d="M 5.65625,-0.15625 C 5.21875,-0.1875 5.015625,-0.359375 4.828125,-0.875 l -0.9375,-2.4375 C 4.671875,-3.484375 5,-3.625 5.359375,-3.953125 c 0.328125,-0.28125 0.5,-0.671875 0.5,-1.125 0,-0.921875 -0.734375,-1.4375 -2.078125,-1.4375 l -2.46875,0 0,0.171875 c 0.421875,0.046875 0.46875,0.0625 0.578125,0.140625 0.078125,0.046875 0.140625,0.15625 0.140625,0.265625 0,0.125 -0.0625,0.359375 -0.125,0.640625 l -1.234375,4.40625 C 0.5,-0.3125 0.421875,-0.25 -0.125,-0.15625 l 0,0.15625 2.421875,0 0,-0.15625 C 1.6875,-0.234375 1.625,-0.296875 1.625,-0.625 c 0,-0.09375 0.03125,-0.21875 0.125,-0.578125 L 2.296875,-3.28125 2.953125,-3.234375 4.171875,0 5.65625,0 l 0,-0.15625 z M 3.078125,-5.9375 c 0.046875,-0.203125 0.1875,-0.265625 0.5,-0.265625 0.828125,0 1.234375,0.375 1.234375,1.109375 0,0.984375 -0.640625,1.5 -1.875,1.5 -0.171875,0 -0.28125,-0.015625 -0.515625,-0.0625 l 0.65625,-2.28125 z m 0,0"
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+        </g>
+      </defs>
+      <g
+         id="textext-c8fbce43-2">
+        <g
+           id="g3852"
+           style="fill:#000000;fill-opacity:1">
+          <use
+             id="use3854"
+             y="134.765"
+             x="223.43201"
+             xlink:href="#textext-c8fbce43-1"
+             width="744.09448"
+             height="1052.3622" />
+        </g>
+      </g>
+    </g>
+    <g
+       ns0:text="$\\overline{S}$"
+       ns0:preamble="/home/sriranga/Desktop/Projects/running-project/Prism-Modern-Control-Theory/package.tex"
+       transform="matrix(1.2,0,0,1.2,-15.630782,234.1551)"
+       id="g3990">
+      <defs
+         id="defs3992">
+        <g
+           id="g3994">
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="textext-bf3c1257-0">
+            <path
+               style="stroke:none"
+               d=""
+               id="path3997"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="textext-bf3c1257-1">
+            <path
+               style="stroke:none"
+               d="M 4.671875,-4.671875 5.0625,-6.65625 l -0.234375,0 c -0.140625,0.21875 -0.21875,0.265625 -0.4375,0.265625 -0.125,0 -0.234375,-0.03125 -0.46875,-0.109375 -0.21875,-0.09375 -0.53125,-0.140625 -0.84375,-0.140625 -1.03125,0 -1.765625,0.6875 -1.765625,1.671875 0,0.53125 0.140625,0.828125 0.734375,1.453125 0.09375,0.09375 0.21875,0.234375 0.390625,0.421875 0.1875,0.1875 0.328125,0.34375 0.390625,0.421875 0.46875,0.484375 0.59375,0.75 0.59375,1.171875 0,0.75 -0.546875,1.328125 -1.28125,1.328125 -0.828125,0 -1.453125,-0.703125 -1.453125,-1.65625 0,-0.078125 0.015625,-0.15625 0.015625,-0.21875 l -0.1875,-0.03125 -0.34375,2.234375 0.171875,0 c 0.078125,-0.234375 0.1875,-0.328125 0.390625,-0.328125 0.109375,0 0.25,0.03125 0.515625,0.125 0.453125,0.171875 0.71875,0.21875 1.03125,0.21875 1.140625,0 2.015625,-0.859375 2.015625,-1.984375 0,-0.65625 -0.234375,-1.03125 -1.125,-1.953125 C 2.265625,-4.671875 2.1875,-4.8125 2.1875,-5.296875 c 0,-0.625 0.421875,-1.015625 1.09375,-1.015625 0.375,0 0.671875,0.125 0.890625,0.375 0.21875,0.25 0.296875,0.578125 0.3125,1.25 l 0.1875,0.015625 z m 0,0"
+               id="path4000"
+               inkscape:connector-curvature="0" />
+          </symbol>
+        </g>
+      </defs>
+      <g
+         id="textext-bf3c1257-2">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.55800003;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+           d="m 0.00159375,0.00121875 6.55468725,0"
+           transform="matrix(1,0,0,-1,223.432,126.302)"
+           id="path4003"
+           inkscape:connector-curvature="0" />
+        <g
+           style="fill:#000000;fill-opacity:1"
+           id="g4005">
+          <use
+             height="1052.3622"
+             width="744.09448"
+             xlink:href="#textext-bf3c1257-1"
+             x="223.43201"
+             y="134.765"
+             id="use4007" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g4167"
+       transform="matrix(1.2,0,0,1.2,-14.749402,413.47889)"
+       ns0:preamble="/home/sriranga/Desktop/Projects/running-project/Prism-Modern-Control-Theory/package.tex"
+       ns0:text="$\\overline{R}$">
+      <defs
+         id="defs4169">
+        <g
+           id="g4171">
+          <symbol
+             id="textext-86b7d689-0"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path4174"
+               d=""
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             id="textext-86b7d689-1"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path4177"
+               d="M 5.65625,-0.15625 C 5.21875,-0.1875 5.015625,-0.359375 4.828125,-0.875 l -0.9375,-2.4375 C 4.671875,-3.484375 5,-3.625 5.359375,-3.953125 c 0.328125,-0.28125 0.5,-0.671875 0.5,-1.125 0,-0.921875 -0.734375,-1.4375 -2.078125,-1.4375 l -2.46875,0 0,0.171875 c 0.421875,0.046875 0.46875,0.0625 0.578125,0.140625 0.078125,0.046875 0.140625,0.15625 0.140625,0.265625 0,0.125 -0.0625,0.359375 -0.125,0.640625 l -1.234375,4.40625 C 0.5,-0.3125 0.421875,-0.25 -0.125,-0.15625 l 0,0.15625 2.421875,0 0,-0.15625 C 1.6875,-0.234375 1.625,-0.296875 1.625,-0.625 c 0,-0.09375 0.03125,-0.21875 0.125,-0.578125 L 2.296875,-3.28125 2.953125,-3.234375 4.171875,0 5.65625,0 l 0,-0.15625 z M 3.078125,-5.9375 c 0.046875,-0.203125 0.1875,-0.265625 0.5,-0.265625 0.828125,0 1.234375,0.375 1.234375,1.109375 0,0.984375 -0.640625,1.5 -1.875,1.5 -0.171875,0 -0.28125,-0.015625 -0.515625,-0.0625 l 0.65625,-2.28125 z m 0,0"
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+        </g>
+      </defs>
+      <g
+         id="textext-86b7d689-2">
+        <path
+           id="path4180"
+           transform="matrix(1,0,0,-1,223.432,126.302)"
+           d="m 0.00159375,0.00121875 6.08593725,0"
+           style="fill:none;stroke:#000000;stroke-width:0.55800003;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+        <g
+           id="g4182"
+           style="fill:#000000;fill-opacity:1">
+          <use
+             id="use4184"
+             y="134.765"
+             x="223.43201"
+             xlink:href="#textext-86b7d689-1"
+             width="744.09448"
+             height="1052.3622" />
+        </g>
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:LMRoman12;-inkscape-font-specification:LMRoman12"
+       x="325.69064"
+       y="347.57666"
+       id="text4272"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4274"
+         x="325.69064"
+         y="347.57666">NAND Gate Latch</tspan></text>
+    <g
+       id="g4797"
+       transform="matrix(1.2,0,0,1.2,263.21943,261.61134)"
+       ns0:preamble="/home/sriranga/Desktop/Projects/running-project/Prism-Modern-Control-Theory/package.tex"
+       ns0:text="$Q$">
+      <defs
+         id="defs4799">
+        <g
+           id="g4801">
+          <symbol
+             id="symbol4803"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path4805"
+               d=""
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             id="symbol4807"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path4809"
+               d="M 2.78125,0.15625 C 3.546875,0.109375 3.921875,0.015625 4.484375,-0.296875 5.96875,-1.125 6.96875,-2.734375 6.96875,-4.3125 c 0,-1.34375 -0.953125,-2.328125 -2.28125,-2.328125 -0.796875,0 -1.703125,0.40625 -2.5,1.125 -1,0.9375 -1.59375,2.140625 -1.59375,3.3125 0,0.8125 0.296875,1.5 0.84375,1.90625 0.25,0.21875 0.46875,0.3125 0.921875,0.421875 -0.90625,0.796875 -1,0.875 -1.765625,1.40625 L 0.6875,1.6875 C 1.0625,1.46875 1.453125,1.375 1.828125,1.375 c 0.203125,0 0.5,0.0625 0.9375,0.1875 C 3.375,1.71875 3.90625,1.828125 4.28125,1.828125 c 0.546875,0 1.234375,-0.265625 1.75,-0.65625 0.234375,-0.1875 0.375,-0.328125 0.625,-0.6875 L 6.515625,0.375 c -0.5625,0.578125 -0.96875,0.765625 -1.6875,0.765625 -0.265625,0 -0.46875,-0.03125 -1.234375,-0.21875 C 3.078125,0.796875 2.609375,0.703125 2.546875,0.71875 2.515625,0.734375 2.5,0.734375 2.5,0.734375 l -0.25,0 L 2.78125,0.15625 z M 4.640625,-6.3125 c 0.796875,0 1.28125,0.578125 1.28125,1.53125 0,1.046875 -0.46875,2.515625 -1.109375,3.4375 -0.546875,0.78125 -1.15625,1.171875 -1.890625,1.171875 -0.8125,0 -1.28125,-0.609375 -1.28125,-1.65625 0,-0.9375 0.5,-2.421875 1.09375,-3.296875 0.5625,-0.8125 1.171875,-1.1875 1.90625,-1.1875 z m 0,0"
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+        </g>
+      </defs>
+      <g
+         id="g4811">
+        <g
+           id="g4813"
+           style="fill:#000000;fill-opacity:1">
+          <use
+             id="use4815"
+             y="134.765"
+             x="223.681"
+             xlink:href="#textext-9c754475-1"
+             width="744.09448"
+             height="1052.3622" />
+        </g>
+      </g>
+    </g>
+    <g
+       ns0:text="$\\overline{Q}$"
+       ns0:preamble="/home/sriranga/Desktop/Projects/running-project/Prism-Modern-Control-Theory/package.tex"
+       transform="matrix(1.2,0,0,1.2,264.79369,401.63712)"
+       id="g4817">
+      <defs
+         id="defs4819">
+        <g
+           id="g4821">
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="symbol4823">
+            <path
+               style="stroke:none"
+               d=""
+               id="path4825"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="symbol4827">
+            <path
+               style="stroke:none"
+               d="M 2.78125,0.15625 C 3.546875,0.109375 3.921875,0.015625 4.484375,-0.296875 5.96875,-1.125 6.96875,-2.734375 6.96875,-4.3125 c 0,-1.34375 -0.953125,-2.328125 -2.28125,-2.328125 -0.796875,0 -1.703125,0.40625 -2.5,1.125 -1,0.9375 -1.59375,2.140625 -1.59375,3.3125 0,0.8125 0.296875,1.5 0.84375,1.90625 0.25,0.21875 0.46875,0.3125 0.921875,0.421875 -0.90625,0.796875 -1,0.875 -1.765625,1.40625 L 0.6875,1.6875 C 1.0625,1.46875 1.453125,1.375 1.828125,1.375 c 0.203125,0 0.5,0.0625 0.9375,0.1875 C 3.375,1.71875 3.90625,1.828125 4.28125,1.828125 c 0.546875,0 1.234375,-0.265625 1.75,-0.65625 0.234375,-0.1875 0.375,-0.328125 0.625,-0.6875 L 6.515625,0.375 c -0.5625,0.578125 -0.96875,0.765625 -1.6875,0.765625 -0.265625,0 -0.46875,-0.03125 -1.234375,-0.21875 C 3.078125,0.796875 2.609375,0.703125 2.546875,0.71875 2.515625,0.734375 2.5,0.734375 2.5,0.734375 l -0.25,0 L 2.78125,0.15625 z M 4.640625,-6.3125 c 0.796875,0 1.28125,0.578125 1.28125,1.53125 0,1.046875 -0.46875,2.515625 -1.109375,3.4375 -0.546875,0.78125 -1.15625,1.171875 -1.890625,1.171875 -0.8125,0 -1.28125,-0.609375 -1.28125,-1.65625 0,-0.9375 0.5,-2.421875 1.09375,-3.296875 0.5625,-0.8125 1.171875,-1.1875 1.90625,-1.1875 z m 0,0"
+               id="path4829"
+               inkscape:connector-curvature="0" />
+          </symbol>
+        </g>
+      </defs>
+      <g
+         id="g4831">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.55800003;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+           d="m 0.00159375,0.00121875 7.44921825,0"
+           transform="matrix(1,0,0,-1,223.432,126.302)"
+           id="path4833"
+           inkscape:connector-curvature="0" />
+        <g
+           style="fill:#000000;fill-opacity:1"
+           id="g4835">
+          <use
+             height="1052.3622"
+             width="744.09448"
+             xlink:href="#textext-496ffb06-1"
+             x="223.681"
+             y="134.765"
+             id="use4837" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g61548"
+       transform="matrix(1,0,0,0.99999883,203.1043,-518.19074)"
+       style="fill:#ffffff">
+      <path
+         transform="translate(0,698.03017)"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path61550"
+         d="m 175,269.33069 -20,0 0,-60 20,0"
+         style="fill:#ffffff;stroke:#000000;stroke-width:1.20000076;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0" />
+      <path
+         sodipodi:nodetypes="csc"
+         inkscape:connector-curvature="0"
+         id="path61552"
+         d="m 175,907.36086 c 16.56854,0 30,13.43146 30,30 0,16.56854 -13.43146,30 -30,30"
+         style="fill:#ffffff;stroke:#000000;stroke-width:1.20000076;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0" />
+    </g>
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.20000005;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 358.10429,399.16906 -220,0"
+       id="path3144"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3914"
+       d="m 528.1043,419.16906 -120,0"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.20000005;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    <g
+       style="fill:#ffffff"
+       transform="matrix(1,0,0,0.99999883,203.1043,-378.19067)"
+       id="g3916">
+      <path
+         style="fill:#ffffff;stroke:#000000;stroke-width:1.20000076;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0"
+         d="m 175,269.33069 -20,0 0,-60 20,0"
+         id="path3918"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccc"
+         transform="translate(0,698.03017)" />
+      <path
+         style="fill:#ffffff;stroke:#000000;stroke-width:1.20000076;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0"
+         d="m 175,907.36086 c 16.56854,0 30,13.43146 30,30 0,16.56854 -13.43146,30 -30,30"
+         id="path3920"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="csc" />
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.20000005;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 358.1043,539.16906 -50,0 0,-30 140.00001,-40 0,-50"
+       id="path3922"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path3924"
+       d="m 358.1043,439.16906 -50,0 0,30 140.00001,40 0,50"
+       style="fill:none;stroke:#000000;stroke-width:1.20000005;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.20000005;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 528.1043,559.16906 -120,0"
+       id="path3926"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3928"
+       d="m 358.10429,579.16906 -220,0"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.20000005;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    <path
+       sodipodi:type="arc"
+       id="path3930"
+       style="fill:#000000;stroke:none"
+       sodipodi:cx="330"
+       sodipodi:cy="722.36218"
+       sodipodi:rx="2.5"
+       sodipodi:ry="2.5"
+       d="m 332.5,722.36218 a 2.5,2.5 0 1 1 -5,0 2.5,2.5 0 1 1 5,0 z"
+       transform="translate(118.1043,-303.19312)" />
+    <path
+       sodipodi:type="arc"
+       id="path3932"
+       style="fill:#000000;stroke:none"
+       sodipodi:cx="330"
+       sodipodi:cy="862.36218"
+       sodipodi:rx="2.5"
+       sodipodi:ry="2.5"
+       d="m 332.5,862.36218 a 2.5,2.5 0 1 1 -5,0 2.5,2.5 0 1 1 5,0 z"
+       transform="translate(118.1043,-303.19312)" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3563"
+       sodipodi:cx="222.5"
+       sodipodi:cy="131.83069"
+       sodipodi:rx="2.5"
+       sodipodi:ry="2.5"
+       d="m 225,131.83069 a 2.5,2.5 0 1 1 -5,0 2.5,2.5 0 1 1 5,0 z"
+       transform="translate(18.104298,267.33837)" />
+    <path
+       sodipodi:type="star"
+       style="fill:#ffffff;stroke:#000000;stroke-width:1.34682202;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path27728"
+       sodipodi:sides="3"
+       sodipodi:cx="210"
+       sodipodi:cy="174.33069"
+       sodipodi:r1="40"
+       sodipodi:r2="16.5"
+       sodipodi:arg1="0"
+       sodipodi:arg2="1.0471976"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 250,174.33069 -60,34.64101 0,-69.28203 60,34.64102 z"
+       transform="matrix(0.91666666,0,0,0.86602542,8.9376377,248.19425)"
+       inkscape:transform-center-x="-6.1875007" />
+    <path
+       transform="translate(18.104298,447.33837)"
+       d="m 225,131.83069 a 2.5,2.5 0 1 1 -5,0 2.5,2.5 0 1 1 5,0 z"
+       sodipodi:ry="2.5"
+       sodipodi:rx="2.5"
+       sodipodi:cy="131.83069"
+       sodipodi:cx="222.5"
+       id="path3934"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       sodipodi:type="arc" />
+    <path
+       inkscape:transform-center-x="-6.1875007"
+       transform="matrix(0.91666666,0,0,0.86602542,8.9376377,428.19425)"
+       d="m 250,174.33069 -60,34.64101 0,-69.28203 60,34.64102 z"
+       inkscape:randomized="0"
+       inkscape:rounded="0"
+       inkscape:flatsided="true"
+       sodipodi:arg2="1.0471976"
+       sodipodi:arg1="0"
+       sodipodi:r2="16.5"
+       sodipodi:r1="40"
+       sodipodi:cy="174.33069"
+       sodipodi:cx="210"
+       sodipodi:sides="3"
+       id="path3936"
+       style="fill:#ffffff;stroke:#000000;stroke-width:1.34682202;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       sodipodi:type="star" />
+    <path
+       transform="translate(-81.895702,267.33837)"
+       d="m 225,131.83069 a 2.5,2.5 0 1 1 -5,0 2.5,2.5 0 1 1 5,0 z"
+       sodipodi:ry="2.5"
+       sodipodi:rx="2.5"
+       sodipodi:cy="131.83069"
+       sodipodi:cx="222.5"
+       id="path3938"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       sodipodi:type="arc" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3940"
+       sodipodi:cx="222.5"
+       sodipodi:cy="131.83069"
+       sodipodi:rx="2.5"
+       sodipodi:ry="2.5"
+       d="m 225,131.83069 a 2.5,2.5 0 1 1 -5,0 2.5,2.5 0 1 1 5,0 z"
+       transform="translate(-81.895702,447.33837)" />
+    <path
+       transform="translate(188.1043,287.33837)"
+       d="m 225,131.83069 a 2.5,2.5 0 1 1 -5,0 2.5,2.5 0 1 1 5,0 z"
+       sodipodi:ry="2.5"
+       sodipodi:rx="2.5"
+       sodipodi:cy="131.83069"
+       sodipodi:cx="222.5"
+       id="path3938-8"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       sodipodi:type="arc" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3960"
+       sodipodi:cx="222.5"
+       sodipodi:cy="131.83069"
+       sodipodi:rx="2.5"
+       sodipodi:ry="2.5"
+       d="m 225,131.83069 a 2.5,2.5 0 1 1 -5,0 2.5,2.5 0 1 1 5,0 z"
+       transform="translate(188.1043,427.33837)" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3962"
+       sodipodi:cx="222.5"
+       sodipodi:cy="131.83069"
+       sodipodi:rx="2.5"
+       sodipodi:ry="2.5"
+       d="m 225,131.83069 a 2.5,2.5 0 1 1 -5,0 2.5,2.5 0 1 1 5,0 z"
+       transform="translate(303.1043,287.33837)" />
+    <path
+       transform="translate(303.1043,427.33837)"
+       d="m 225,131.83069 a 2.5,2.5 0 1 1 -5,0 2.5,2.5 0 1 1 5,0 z"
+       sodipodi:ry="2.5"
+       sodipodi:rx="2.5"
+       sodipodi:cy="131.83069"
+       sodipodi:cx="222.5"
+       id="path3964"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       sodipodi:type="arc" />
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:LMRoman12;-inkscape-font-specification:LMRoman12"
+       x="378.69836"
+       y="421.65295"
+       id="text4264"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4266"
+         x="378.69836"
+         y="421.65295">1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:LMRoman12;-inkscape-font-specification:LMRoman12"
+       x="376.68439"
+       y="564.47882"
+       id="text4268"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4270"
+         x="376.68439"
+         y="564.47882">2</tspan></text>
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.19999993;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 500.79228,705.42867 -249.99998,0"
+       id="path3968"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3970"
+       d="m 500.79228,845.42867 -249.99998,0"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.19999993;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:1.20000005;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3966"
+       width="140"
+       height="180"
+       x="305.79224"
+       y="685.42865" />
+    <path
+       transform="translate(280.79228,573.59798)"
+       d="m 225,131.83069 a 2.5,2.5 0 1 1 -5,0 2.5,2.5 0 1 1 5,0 z"
+       sodipodi:ry="2.5"
+       sodipodi:rx="2.5"
+       sodipodi:cy="131.83069"
+       sodipodi:cx="222.5"
+       id="path3972"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       sodipodi:type="arc" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3974"
+       sodipodi:cx="222.5"
+       sodipodi:cy="131.83069"
+       sodipodi:rx="2.5"
+       sodipodi:ry="2.5"
+       d="m 225,131.83069 a 2.5,2.5 0 1 1 -5,0 2.5,2.5 0 1 1 5,0 z"
+       transform="translate(280.79228,713.59798)" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3976"
+       sodipodi:cx="222.5"
+       sodipodi:cy="131.83069"
+       sodipodi:rx="2.5"
+       sodipodi:ry="2.5"
+       d="m 225,131.83069 a 2.5,2.5 0 1 1 -5,0 2.5,2.5 0 1 1 5,0 z"
+       transform="translate(30.792275,573.59798)" />
+    <path
+       transform="translate(30.792275,713.59798)"
+       d="m 225,131.83069 a 2.5,2.5 0 1 1 -5,0 2.5,2.5 0 1 1 5,0 z"
+       sodipodi:ry="2.5"
+       sodipodi:rx="2.5"
+       sodipodi:cy="131.83069"
+       sodipodi:cx="222.5"
+       id="path3978"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       sodipodi:type="arc" />
+    <g
+       ns0:text="$Q$"
+       ns0:preamble="/home/sriranga/Desktop/Projects/running-project/Prism-Modern-Control-Theory/package.tex"
+       transform="matrix(1.2,0,0,1.2,161.0148,548.58781)"
+       id="g4382">
+      <defs
+         id="defs4384">
+        <g
+           id="g4386">
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="textext-9c754475-0">
+            <path
+               style="stroke:none"
+               d=""
+               id="path4389"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             style="overflow:visible"
+             overflow="visible"
+             id="textext-9c754475-1">
+            <path
+               style="stroke:none"
+               d="M 2.78125,0.15625 C 3.546875,0.109375 3.921875,0.015625 4.484375,-0.296875 5.96875,-1.125 6.96875,-2.734375 6.96875,-4.3125 c 0,-1.34375 -0.953125,-2.328125 -2.28125,-2.328125 -0.796875,0 -1.703125,0.40625 -2.5,1.125 -1,0.9375 -1.59375,2.140625 -1.59375,3.3125 0,0.8125 0.296875,1.5 0.84375,1.90625 0.25,0.21875 0.46875,0.3125 0.921875,0.421875 -0.90625,0.796875 -1,0.875 -1.765625,1.40625 L 0.6875,1.6875 C 1.0625,1.46875 1.453125,1.375 1.828125,1.375 c 0.203125,0 0.5,0.0625 0.9375,0.1875 C 3.375,1.71875 3.90625,1.828125 4.28125,1.828125 c 0.546875,0 1.234375,-0.265625 1.75,-0.65625 0.234375,-0.1875 0.375,-0.328125 0.625,-0.6875 L 6.515625,0.375 c -0.5625,0.578125 -0.96875,0.765625 -1.6875,0.765625 -0.265625,0 -0.46875,-0.03125 -1.234375,-0.21875 C 3.078125,0.796875 2.609375,0.703125 2.546875,0.71875 2.515625,0.734375 2.5,0.734375 2.5,0.734375 l -0.25,0 L 2.78125,0.15625 z M 4.640625,-6.3125 c 0.796875,0 1.28125,0.578125 1.28125,1.53125 0,1.046875 -0.46875,2.515625 -1.109375,3.4375 -0.546875,0.78125 -1.15625,1.171875 -1.890625,1.171875 -0.8125,0 -1.28125,-0.609375 -1.28125,-1.65625 0,-0.9375 0.5,-2.421875 1.09375,-3.296875 0.5625,-0.8125 1.171875,-1.1875 1.90625,-1.1875 z m 0,0"
+               id="path4392"
+               inkscape:connector-curvature="0" />
+          </symbol>
+        </g>
+      </defs>
+      <g
+         id="textext-9c754475-2">
+        <g
+           style="fill:#000000;fill-opacity:1"
+           id="g4395">
+          <use
+             height="1052.3622"
+             width="744.09448"
+             xlink:href="#textext-9c754475-1"
+             x="223.681"
+             y="134.765"
+             id="use4397" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g4609"
+       transform="matrix(1.2,0,0,1.2,161.51987,688.75341)"
+       ns0:preamble="/home/sriranga/Desktop/Projects/running-project/Prism-Modern-Control-Theory/package.tex"
+       ns0:text="$\\overline{Q}$">
+      <defs
+         id="defs4611">
+        <g
+           id="g4613">
+          <symbol
+             id="textext-496ffb06-0"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path4616"
+               d=""
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             id="textext-496ffb06-1"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path4619"
+               d="M 2.78125,0.15625 C 3.546875,0.109375 3.921875,0.015625 4.484375,-0.296875 5.96875,-1.125 6.96875,-2.734375 6.96875,-4.3125 c 0,-1.34375 -0.953125,-2.328125 -2.28125,-2.328125 -0.796875,0 -1.703125,0.40625 -2.5,1.125 -1,0.9375 -1.59375,2.140625 -1.59375,3.3125 0,0.8125 0.296875,1.5 0.84375,1.90625 0.25,0.21875 0.46875,0.3125 0.921875,0.421875 -0.90625,0.796875 -1,0.875 -1.765625,1.40625 L 0.6875,1.6875 C 1.0625,1.46875 1.453125,1.375 1.828125,1.375 c 0.203125,0 0.5,0.0625 0.9375,0.1875 C 3.375,1.71875 3.90625,1.828125 4.28125,1.828125 c 0.546875,0 1.234375,-0.265625 1.75,-0.65625 0.234375,-0.1875 0.375,-0.328125 0.625,-0.6875 L 6.515625,0.375 c -0.5625,0.578125 -0.96875,0.765625 -1.6875,0.765625 -0.265625,0 -0.46875,-0.03125 -1.234375,-0.21875 C 3.078125,0.796875 2.609375,0.703125 2.546875,0.71875 2.515625,0.734375 2.5,0.734375 2.5,0.734375 l -0.25,0 L 2.78125,0.15625 z M 4.640625,-6.3125 c 0.796875,0 1.28125,0.578125 1.28125,1.53125 0,1.046875 -0.46875,2.515625 -1.109375,3.4375 -0.546875,0.78125 -1.15625,1.171875 -1.890625,1.171875 -0.8125,0 -1.28125,-0.609375 -1.28125,-1.65625 0,-0.9375 0.5,-2.421875 1.09375,-3.296875 0.5625,-0.8125 1.171875,-1.1875 1.90625,-1.1875 z m 0,0"
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+        </g>
+      </defs>
+      <g
+         id="textext-496ffb06-2">
+        <path
+           id="path4622"
+           transform="matrix(1,0,0,-1,223.432,126.302)"
+           d="m 0.00159375,0.00121875 7.44921825,0"
+           style="fill:none;stroke:#000000;stroke-width:0.55800003;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+        <g
+           id="g4624"
+           style="fill:#000000;fill-opacity:1">
+          <use
+             id="use4626"
+             y="134.765"
+             x="223.681"
+             xlink:href="#textext-496ffb06-1"
+             width="744.09448"
+             height="1052.3622" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g4757"
+       ns0:preamble="/home/sriranga/Desktop/Projects/running-project/Prism-Modern-Control-Theory/package.tex"
+       ns0:text="$S$"
+       transform="matrix(1.2,0,0,1.2,42.837685,547.68283)">
+      <defs
+         id="defs4759">
+        <g
+           id="g4761">
+          <symbol
+             id="symbol4763"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path4765"
+               d=""
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             id="symbol4767"
+             overflow="visible"
+             style="overflow:visible">
+            <path
+               id="path4769"
+               d="M 4.671875,-4.671875 5.0625,-6.65625 l -0.234375,0 c -0.140625,0.21875 -0.21875,0.265625 -0.4375,0.265625 -0.125,0 -0.234375,-0.03125 -0.46875,-0.109375 -0.21875,-0.09375 -0.53125,-0.140625 -0.84375,-0.140625 -1.03125,0 -1.765625,0.6875 -1.765625,1.671875 0,0.53125 0.140625,0.828125 0.734375,1.453125 0.09375,0.09375 0.21875,0.234375 0.390625,0.421875 0.1875,0.1875 0.328125,0.34375 0.390625,0.421875 0.46875,0.484375 0.59375,0.75 0.59375,1.171875 0,0.75 -0.546875,1.328125 -1.28125,1.328125 -0.828125,0 -1.453125,-0.703125 -1.453125,-1.65625 0,-0.078125 0.015625,-0.15625 0.015625,-0.21875 l -0.1875,-0.03125 -0.34375,2.234375 0.171875,0 c 0.078125,-0.234375 0.1875,-0.328125 0.390625,-0.328125 0.109375,0 0.25,0.03125 0.515625,0.125 0.453125,0.171875 0.71875,0.21875 1.03125,0.21875 1.140625,0 2.015625,-0.859375 2.015625,-1.984375 0,-0.65625 -0.234375,-1.03125 -1.125,-1.953125 C 2.265625,-4.671875 2.1875,-4.8125 2.1875,-5.296875 c 0,-0.625 0.421875,-1.015625 1.09375,-1.015625 0.375,0 0.671875,0.125 0.890625,0.375 0.21875,0.25 0.296875,0.578125 0.3125,1.25 l 0.1875,0.015625 z m 0,0"
+               style="stroke:none"
+               inkscape:connector-curvature="0" />
+          </symbol>
+        </g>
+      </defs>
+      <g
+         id="g4771">
+        <g
+           id="g4773"
+           style="fill:#000000;fill-opacity:1">
+          <use
+             id="use4775"
+             y="134.765"
+             x="223.43201"
+             xlink:href="#textext-d78f09f8-1"
+             width="744.09448"
+             height="1052.3622" />
+        </g>
+      </g>
+    </g>
+    <g
+       ns0:text="$R$"
+       ns0:preamble="/home/sriranga/Desktop/Projects/running-project/Prism-Modern-Control-Theory/package.tex"
+       transform="matrix(1.2,0,0,1.2,42.837685,687.65378)"
+       id="g4777">
+      <defs
+         id="defs4779">
+        <g
+           id="g4781">
+          <symbol
+             overflow="visible"
+             id="symbol4783"
+             style="overflow:visible">
+            <path
+               style="stroke:none"
+               d=""
+               id="path4785"
+               inkscape:connector-curvature="0" />
+          </symbol>
+          <symbol
+             overflow="visible"
+             id="symbol4787"
+             style="overflow:visible">
+            <path
+               style="stroke:none"
+               d="M 5.65625,-0.15625 C 5.21875,-0.1875 5.015625,-0.359375 4.828125,-0.875 l -0.9375,-2.4375 C 4.671875,-3.484375 5,-3.625 5.359375,-3.953125 c 0.328125,-0.28125 0.5,-0.671875 0.5,-1.125 0,-0.921875 -0.734375,-1.4375 -2.078125,-1.4375 l -2.46875,0 0,0.171875 c 0.421875,0.046875 0.46875,0.0625 0.578125,0.140625 0.078125,0.046875 0.140625,0.15625 0.140625,0.265625 0,0.125 -0.0625,0.359375 -0.125,0.640625 l -1.234375,4.40625 C 0.5,-0.3125 0.421875,-0.25 -0.125,-0.15625 l 0,0.15625 2.421875,0 0,-0.15625 C 1.6875,-0.234375 1.625,-0.296875 1.625,-0.625 c 0,-0.09375 0.03125,-0.21875 0.125,-0.578125 L 2.296875,-3.28125 2.953125,-3.234375 4.171875,0 5.65625,0 l 0,-0.15625 z M 3.078125,-5.9375 c 0.046875,-0.203125 0.1875,-0.265625 0.5,-0.265625 0.828125,0 1.234375,0.375 1.234375,1.109375 0,0.984375 -0.640625,1.5 -1.875,1.5 -0.171875,0 -0.28125,-0.015625 -0.515625,-0.0625 l 0.65625,-2.28125 z m 0,0"
+               id="path4789"
+               inkscape:connector-curvature="0" />
+          </symbol>
+        </g>
+      </defs>
+      <g
+         id="g4791">
+        <g
+           style="fill:#000000;fill-opacity:1"
+           id="g4793">
+          <use
+             xlink:href="#textext-c8fbce43-1"
+             x="223.43201"
+             y="134.765"
+             id="use4795"
+             width="744.09448"
+             height="1052.3622" />
+        </g>
+      </g>
+    </g>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3980"
+       y="909.34082"
+       x="370.12616"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:LMRoman12;-inkscape-font-specification:LMRoman12"
+       xml:space="preserve"><tspan
+         y="909.34082"
+         x="370.12616"
+         id="tspan3982"
+         sodipodi:role="line">(b)</tspan></text>
+  </g>
+</svg>

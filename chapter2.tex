@@ -117,7 +117,8 @@ I_m \sin \omega\,t & ; ~ 0 \leq \omega t \leq \pi\\
 
 $I_m$ is the peak load current/peak diode current.
 
-Average\,/\,DC load current, $I_{dc}$~:
+\smallskip
+{\bf Average\,/\,DC load current, \boldmath$I_{dc}$~:}
 
 Referring to Fig. 2.1(b), average\,/\,DC load current is given by
 \begin{align}
@@ -370,8 +371,7 @@ P_i = \frac{I^2_m}{4}\, [R_f + R_L] \label{eq2.19}
 Substituting equations \eqref{eq2.17} and \eqref{eq2.19} in equation
 \eqref{eq2.16}, we get
 \begin{align}
-\eta_r & = \frac{\left[\frac{I^2_m R_L}{\pi} \right]}{\frac{I^2_m}{4
-    [R_f+ R_L]}} = \frac{0.406 R_L}{R_f + R_L} \notag\\[4pt]
+\eta_r & = \frac{\left[\frac{I^2_m R_L}{\pi^2} \right]}{\frac{I^2_m[R_{f}+R_{L}]}{4}} = \frac{0.406 R_L}{R_f + R_L} \notag\\[4pt]
 \% ~~ \eta_r & = \frac{40.6}{1+\frac{R_f}{R_L}}  \label{eq2.20}
 \end{align}
 
@@ -618,7 +618,7 @@ Peak inverse voltage, PIV & $V_m$ & $V_m$\\
 \end{table}
 
 \noindent{\textbf{Note:}}
-In all numerical examples, whereever not specified the transformer
+In all numerical examples, wherever not specified the transformer
 turns ratio, $N_1/N_2$, is taken as unity. 
 
 \eject
@@ -790,7 +790,7 @@ a centre tapped transformer.
 \begin{figure}[H]
 \centering
 \includegraphics{chap2/add-fig/S3-EE-02-005.eps}
-\caption{Voltage and current waveforms. (a) Secondary voltage wavefor, (b) \&\ (c) Diode current waveforms, (d) Load current waveform, (e) Load voltage waveform}\label{fig2.5}
+\caption{Voltage and current waveforms. (a) Secondary voltage waveform, (b) \&\ (c) Diode current waveforms, (d) Load current waveform, (e) Load voltage waveform}\label{fig2.5}
 \end{figure}
 
 \eject
@@ -1040,9 +1040,11 @@ $\dfrac{dP_{dc}}{dR_L} = 0$
 \text{then } \quad  R_f - R_L & = 0\\[2pt]
 R_L & = R_f  \tag{C}
 \end{align*}
+\vskip -.4cm
 \end{solution}
 
-\medskip
+\eject
+
 \noindent{\textbf{Note:}}
 
 To obtain maximum value of $P_{dc}$, we have to substitute equation (C) into equation (B)
@@ -1645,7 +1647,7 @@ $V_m/\sqrt{2}$\\[5pt]
 \hline
 \% \text{ regulation} & $\dfrac{2 R_f}{R_L} \times 100$ & 0\\[5pt]
 \hline
-Rectification efficiency, $\eta_r$ & $\dfrac{0.812}{1+ 2 R_f /R_L}$ &
+Rectification efficiency, $\eta_r$ & $\dfrac{0.812}{1+ 2 (R_f /R_L)}$ &
 0.812 or 81.2 \%\\[5pt]
 \hline
 Ripple factor, $\gamma$ & 0.483 & 0.483\\
@@ -1723,7 +1725,7 @@ R_L & = 950\, \Omega
 \begin{itemize}
 \item[(a)] $dc$ output voltage 
 \begin{align*}
-V_{dc} &= \frac{2V_m/\pi}{1 + 2 R_f /R_L}\\
+V_{dc} &= \frac{2V_m/\pi}{1 + (2 R_f /R_L)}\\
 & = \frac{(2/\pi) (100 V)}{1 + 2 (25\, \Omega / 950\, \Omega)}\\
 & = 60.48 \V.
 \end{align*}
@@ -1731,7 +1733,7 @@ V_{dc} &= \frac{2V_m/\pi}{1 + 2 R_f /R_L}\\
 \item[(b)] Ripple factor 
 \begin{align*}
 \gamma &  = \sqrt{(V_{rms} / V_{dc})^2  -1}\\
-V_{rms}& = \frac{V_m \sqrt{2}}{1 + 2 R_f / R_L}\\
+V_{rms}& = \frac{V_m /\sqrt{2}}{1 + (2 R_f / R_L)}\\
 & = \frac{(100 V/\sqrt{2})}{1 + 2 [25\,\Omega /950\,\Omega]}\\
 & = 67.10 \V\\
 \gamma & = \sqrt{(67.10/60.48)^2 -1}\\
@@ -1740,8 +1742,8 @@ V_{rms}& = \frac{V_m \sqrt{2}}{1 + 2 R_f / R_L}\\
  
 \item[(c)] Efficiency of rectification
 \begin{align*}
-\eta_r & = \frac{0.812}{1+2 R_f / R_L}\\
-& = \frac{0.812}{1+2 (215 \,\Omega / 950\, \Omega)}\\
+\eta_r & = \frac{0.812}{1+2 (R_f / R_L)}\\
+& = \frac{0.812}{1+2 (25 \,\Omega / 950\, \Omega)}\\
 & = 0.7714 \text{ or } 77.14 \% 
 \end{align*}
  
@@ -1820,7 +1822,7 @@ f & = 50 \Hz
 \begin{align*}
 V_{dc} & = \frac{\left(\frac{2 V_m}{\pi} \right)}{1 +2 R_f / R_L}
 \\
-& = \frac{2\,(\frac{141.4 \V}{\pi})}{1+0}\\
+& = \frac{2\,(\frac{141.42 \V}{\pi})}{1+0}\\
 & = 90.03 \V.
 \end{align*}
 
@@ -1870,7 +1872,7 @@ PIV across each diode & $V_m$ & 2 $V_m$ & $V_m$ \\
 \hline
 Ripple factor, $\gamma$ & 1.21 & 0.483 & 0.483\\
 \hline
-Rectification efficiency, $\eta_r$ & $\frac{40.6}{1+\frac{R_f}{R_L}}$
+Rectification efficiency, $\eta_r$ & $\frac{40.6}{1+\frac{R_f}{R_L}}\%$
 & $\frac{81.2}{1+\frac{R_f}{R_L}} \%$ &
 $\frac{81.2}{1+\frac{2R_f}{R_L}} \%$ \\[5pt]
 & Ideal: 40.6\% & Ideal: 81.2 \% & Ideal: 81.2 \%\\
@@ -1883,8 +1885,8 @@ $\frac{2V_m/\pi}{1+ (R_f /R_L)}$ & $\frac{2V_m/\pi}{1+ (2R_f /R_L)}$\\[5pt]
 & Ideal: $V_m /\pi$ & Ideal: $2V_m/\pi$ & Ideal: $2 V_m/ \pi$\\
 \hline
 RMS output voltage, $V_{rms}$ & $\frac{V_m/2}{1 + (R_f /R_L)}$ &
-$\frac{V_m\sqrt{2}}{1+ (R_f/R_L)}$ & $\frac{V_m/ \sqrt{2}}{1+ 2 R_f /
-  R_L}$\\[5pt]
+$\frac{V_m\sqrt{2}}{1+ (R_f/R_L)}$ & $\frac{V_m/ \sqrt{2}}{1+ (2 R_f /
+  R_L)}$\\[5pt]
 & Ideal: $V_m/2$ & Ideal: $V_m/\sqrt{2}$ & Ideal: $V_m/\sqrt{2}$\\
 \hline
 DC output current, $I_{dc}$ & $I_m/\pi ~:~ I_m = \frac{V_m}{R_f + R_L}$
@@ -1994,7 +1996,7 @@ into the load, i.e.
 \text{i.e. } ~~ i_c = I_{dc} = C\, \frac{dv_0}{dt} \label{eq2.47}
 \end{equation}
 
-From Fig.~\ref{fig2.13}, \ $\dfrac{dv_0}{dt} =$ Slope of ripple voltage waveform
+From Fig.~\ref{fig2.14}, \ $\dfrac{dv_0}{dt} =$ Slope of ripple voltage waveform
 during discharge.
 $$
 \text{But,\quad Slope } = \tan \theta = \frac{V_{r\,(p-p)}}{t_d}
@@ -2859,7 +2861,7 @@ Fig.~\ref{fig2.23} shows the Zener diode used as voltage regulator under no load
 \begin{figure}[H]
 \centering
 \includegraphics{chap2/fig2.23.eps}
-\caption{Zener diode voltage regulater under no load}\label{fig2.23}
+\caption{Zener diode voltage regulator under no load}\label{fig2.23}
 \end{figure}
 
 $V_{s}$ is the unregulated $dc$ voltage, which may be the output from a full-wave rectifier with capacitor filter. 
@@ -2948,7 +2950,7 @@ V_{s}=24\text{\,V}\\[3pt]
 V_{o}=9\text{\,V}\Rightarrow V_{Z}=9\text{\,V}
 \end{gather*}
 
-Select a Zener diode with $V_{Z}=9V$ and $I_{ZT}=200\mA$ (Typical)
+Select a Zener diode with $V_{Z}=9V$ and $I_{ZT}=20\mA$ (Typical)
 \begin{align*}
 R_{1} &= \frac{V_{s}-V_{Z}}{I_{Z}}=\frac{V_{s}-V_{Z}}{I_{ZT}}\\[3pt]
 &=\frac{24\text{\,V}-9\text{\,V}}{20\text{\,mA}}\\[3pt]
@@ -3079,13 +3081,13 @@ V_{S}=15\text{\,V}\\[3pt]
 V_{o}=6\text{\,V}\Rightarrow V_{Z}=6\text{\,V}
 \end{gather*}
 
-Select a low power Zener doide with
+Select a low power Zener diode with
 $$
 V_{Z}=6\text{\,V},\quad I_{ZT}=20\text{\,mA},\quad P_{D}=400\text{\,mW}
 $$
 we take $I_{Z\min}=5\text{\,mA}$\quad (Typical)
 \begin{align*}
-I_{ZM} &= \frac{P_{D}}{V_{Z}}=\frac{450\text{\,mW}}{6\text{\,V}}\\[4pt]
+I_{ZM} &= \frac{P_{D}}{V_{Z}}=\frac{400\text{\,mW}}{6\text{\,V}}\\[4pt]
 &= 66.67\text{\,mA}\\[4pt]
 R_{1} &= \frac{V_{S}-V_{Z}}{I_{ZM}}=\frac{15\text{\,V}-6\text{\,V}}{66.67\text{\,mA}}\\[4pt]
 &= 135\,\Omega.
@@ -3123,7 +3125,7 @@ V_{S} = 25\,\text{V}\\[3pt]
 V_{o}=10\text{\,V}\Rightarrow V_{Z}=10\text{\,V}
 \end{gather*}
 
-Select a low power Zener doide with
+Select a low power Zener diode with
 $$
 V_{Z}=10\text{\,V},\quad I_{ZT}=20\text{\,mA},\quad P_{D}=400\text{\,mW}
 $$
@@ -3159,7 +3161,7 @@ A 24\,V, 600\,mW, Zener diode is used for providing a 24\,V stabilized supply to
 
 \item[(ii)] the diode current when $R_{L}=2.4\,k\Omega$.
 
-\item[(iii)] the minimum value of $R_{L}$ that can be connected across the regulater.
+\item[(iii)] the minimum value of $R_{L}$ that can be connected across the regulator.
 \end{itemize}
 \end{example}
 
@@ -3239,7 +3241,7 @@ I_{Z} &= 3.33\text{\,mA}<I_{ZM}
 \end{align*}
 The Zener diode operates safely.
 
-For the given values of $V_{S}$, $R_{1}$ and $R_{2}$ the circuit works as a voltage regulater.
+For the given values of $V_{S}$, $R_{1}$ and $R_{2}$ the circuit works as a voltage regulator.
 
 But if $R_{2}$ is removed, all of $I_{1}$ flows into the Zener diode. As a result,
 $$
@@ -3548,7 +3550,7 @@ Source effect
 &= 1.6\text{\,V}\\[4pt]
 R_{L} &= \dfrac{V_{o}}{I_{L}}=\dfrac{6\text{\,V}}{60\text{\,mA}}=100\,\Omega\\[4pt]
 Z_{Z}\,||\,R_{L} &= \dfrac{7\,\Omega\times 100\,\Omega}{7\,\Omega+100\,\Omega}=6.54\,\Omega\\[4pt]
-\Delta V_{o} &= \dfrac{\Delta V_{i}[Z_{L}\,||\,R_{L}]}{R+[Z_{Z}\,||\,R_{L}]}=\dfrac{1.6\V\times 6.54\,\Omega}{150\,\Omega+6.54\,\Omega}=66.84\text{\,mV}\\[4pt]
+\Delta V_{o} &= \dfrac{\Delta V_{S}[Z_{L}\,||\,R_{L}]}{R+[Z_{Z}\,||\,R_{L}]}=\dfrac{1.6\V\times 6.54\,\Omega}{150\,\Omega+6.54\,\Omega}=66.84\text{\,mV}\\[4pt]
 \text{Line regulation} &= \dfrac{(\Delta V_{o}\text{~~ for~~ }10\%\text{~~ change in~~ } V_{S})}{V_{o}}\times 100\,\%\\[4pt]
 &= \dfrac{66.84\text{\,mV}\times 100}{6\V}\\[4pt]
 &= 1.114\,\%\\[4pt]
@@ -3586,7 +3588,7 @@ A halfwave rectifier can be considered as a clipper because it passes only half 
 \subsection{Negative series clipper}\label{sec2.30.1}
 \index{Negative series clipper}
 
-Fig.~\ref{fig2.25} shows the circuit of negative series clipper\index{Clipping!negative series clipper} along with input and output waveforms. Note that the circuit operates with out $R_{L}$. Hence the load current $I_{L}$ is zero.
+Fig.~\ref{fig2.25} shows the circuit of negative series clipper\index{Clipping!negative series clipper} along with input and output waveforms. Note that the circuit operates without $R_{L}$. Hence the load current $I_{L}$ is zero.
 \begin{figure}[H]
 \centering
 \includegraphics{chap2/fig2.25.eps}
@@ -3698,7 +3700,7 @@ The diode forward current, $I_{F}$, flows through $R_{1}$.
 \therefore\quad v_{0} &= I_{F}\,R_{1}\\[3pt]
 R_{1} &= \frac{v_{0}}{I_{F}}=\frac{8.3V}{I_{F}}
 \end{align*}
-Choose, $I_{F}=1\mA$ [which is sufficient to keep the diode in on conduction]
+Choose, $I_{F}=1\mA$ [which is sufficient to keep the diode in conduction]
 $$
 R_{1}=\frac{8.3V}{1\mA}=8.3\,k\Omega
 $$
@@ -3771,7 +3773,7 @@ The positive series clipper along with input and output waveforms is shown below
 \smallskip
 
 \begin{example}\label{exam2.39}
-A $\pm\, 6V$ square wave is applied via a series clipping circuit to a device that cannot survice $+6V$. The device input current is $100\,\mu \text{\,A}$ when the input voltage is negative. Select a suitable clipping circuit and calculate the value of $R_{1}$. Also specify the diode.
+A $\pm\, 6V$ square wave is applied via a series clipping circuit to a device that cannot survive $+6V$. The device input current is $100\,\mu \text{\,A}$ when the input voltage is negative. Select a suitable clipping circuit and calculate the value of $R_{1}$. Also specify the diode.
 \end{example}
 
 \begin{solution}
@@ -4202,7 +4204,7 @@ The input and output voltage wave forms are shown below
 \subsection{Shunt noise clipper}\label{sec2.31.5}
 \index{Clipping!shunt noise clipper}
 
-Fig.~\ref{fig2.34} shows the circuit of shunt noise clipper.\index{Shunt noise clipper} If consists of diodes connected in antiparallel between the output terminals. Shunt noise clipper is used to remove the noise riding on the peaks of an input waveform.
+Fig.~\ref{fig2.34} shows the circuit of shunt noise clipper.\index{Shunt noise clipper} It consists of diodes connected in antiparallel between the output terminals. Shunt noise clipper is used to remove the noise riding on the peaks of an input waveform.
 \begin{figure}[H]
 \centering
 \includegraphics[scale=.97]{chap2/fig2.34.eps}
@@ -4215,7 +4217,7 @@ The signal amplitude must be greater than the diode forward voltage drop, $V_{F}
 
 Pulse width modulation is a type of modulation in communication system, where in the information is made to contain in the width of a pulse waveform. During transmission the noise rides on the peaks of pulse and corrupts the pulse waveform. 
 
-Shund clipper is used to clip-off the noise riding on the peaks of pulse waveform. Since the information is contained in the pulse width, removal of corrupted amplitude does not affect the information.\\[-20pt]
+Shunt clipper is used to clip-off the noise riding on the peaks of pulse waveform. Since the information is contained in the pulse width, removal of corrupted amplitude does not affect the information.\\[-20pt]
 
 \section{Biased shunt clipper}\label{sec2.32}
 

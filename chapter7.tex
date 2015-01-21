@@ -40,7 +40,7 @@ The system shown in Fig.~\ref{fig7.1} can be programmed to perform a task which 
 \subsection{Word length of a microprocessor}\label{sec7.1.1}
 \index{Microprocessor!word length of}
 
-The microprocessor operates on binary digits, 0 and 1, also known as bits. Bit is on abbreviation for the term binary digit.
+The microprocessor operates on binary digits, 0 and 1, also known as bits. Bit is an abbreviation for the term binary digit.
 
 Each microprocessor recognises and processes a group of bits called the word. The microprocessors are classified according to their word length.
 \begin{itemize}
@@ -59,7 +59,8 @@ World length also indicates the number of bits that the processor can process at
 
 Nibble~: A group of 4 bits.
 
-Byte~: A group of 8 bits.
+\noindent
+Byte~~~~~\!: A group of 8 bits.
 \begin{itemize}
 \itemsep=0pt
 \item A byte has two nibbles.
@@ -160,7 +161,7 @@ It interfaces the system with the outside world. I\,/\,O includes two types of d
 \end{itemize}
 I\,/\,O devices are also called as peripherals.\index{Peripherals}
 
-The input device transfers data and instruction in binary form from the out side world to the microprocessor. Examples of input devices are keyboard, mouse, switches etc.
+The input device transfers data and instruction in binary form from the outside world to the microprocessor. Examples of input devices are keyboard, mouse, switches etc.
 
 The output devices transfer data from the microprocessor to the outside world. Examples of output devices are monitor, printer, cathode ray tube (CRT) light emitting diodes (LEDs) etc.
 
@@ -173,7 +174,7 @@ The system bus\index{System bus} is a communication path between the microproces
 
 Now let us understand how the microprocessor executes the programs.
 
-The program to perform a specified task is sequentially stored in the R\,/\,W memory. The data to be used by the programs also stored is the R\,/\,W memory. The program and data are in the binary form. When the execute command is given the following sequence of operations takes place.
+The program to perform a specified task is sequentially stored in the R\,/\,W memory. The data to be used by the programs also stored in the R\,/\,W memory. The program and data are in the binary form. When the execute command is given the following sequence of operations takes place.
 \begin{itemize}
 \itemsep=0pt
 \item The microprocessor fetches the first instruction.
@@ -217,21 +218,21 @@ For Example~:
 \heading{2. Assembly language}
 \index{Assembly language}
 
-Since it is difficult for most people to write programs in sets of 0's and 1's, computer manufacturers have diviced english like words to represent the binary instructions of a microprocessor. Programs written using these english like words is called Assembly Language Programs. The english like words used to represent the binary instructions are called mnemonics.
+Since it is difficult for most people to write programs in sets of 0's and 1's, computer manufacturers have devised english like words to represent the binary instructions of a microprocessor. Programs written using these english like words is called Assembly Language Programs. The english like words used to represent the binary instructions are called mnemonics.
 
 For Example~:
 
-INR A\qquad is a mnemonic in 8085 microprocessor that increments the nubmer in register A by one.
+INR A\qquad is a mnemonic in 8085 microprocessor that increments the number in register A by one.
 
 Machine language and Assembly language are called low level languages since these languages are specific to a microprocessor.
 
 \medskip
-\heading{High level language}
+\heading{3. High level language}
 \index{High level language}
 
 \smallskip
 
-Since Assembly language is specific to a given machine, programs written in assembly language for one machine can not be run on another machine. To overcome this problem, general purpose programs have been diviced. These machine independent languages are called high level languages. Some examples of high level languages are FORTRAN, BASIC, C, C++ etc.
+Since Assembly language is specific to a given machine, programs written in assembly language for one machine can not be run on another machine. To overcome this problem, general purpose programs have been devised. These machine independent languages are called high level languages. Some examples of high level languages are FORTRAN, BASIC, C, C++ etc.
 
 \section{Combinations with \boldmath$n$-bit binary word}\label{sec7.7}
 
@@ -339,19 +340,18 @@ The 8085 microprocessor has the following features.
 \begin{center}
 TRAP, \ RST\;7.5, \ RST\;6.5, \ RST\;5.5 \ and \ INTR.
 \end{center}
-Intterrupts are used to interrupt a program execution.
+Interrupts are used to interrupt a program execution.
 
 \item It has two serial I\,/\,O pins~:
 
 SID (Serial input data) and SOD (Serial output data) for serial transmission of data.
 
-\item It has two control signals $\overline{\rm RD}$ and $\overline{WR}$ and three status signals IO/$\overline{\rm M}$, $S_{1}$ and $S_{0}$ to identity whether the operation is fetch, read or write.
+\item It has two control signals $\overline{\rm RD}$ and $\overline{WR}$ and three status signals IO/$\overline{\rm M}$, $S_{1}$ and $S_{0}$ to identify whether the operation is fetch, read or write.
 
-\item It is capable performing huge data transfer at high speed using DMA (Direct memory access) technique.
+\item It is capable of performing huge data transfer at high speed using DMA (Direct memory access) technique.
 
 \item By interfacing with external memory and I\,/\,O devices an 8085 based micro computer system can be built.
 \end{enumerate}
-
 
 \section{Architecture of 8085 microprocessor}\label{sec7.9}
 \index{Microprocessor!architecture of}\index{8085 Microprocessor!architecture of}
@@ -456,7 +456,7 @@ In an arithmetic operation, when a carry is generated by bit $D_{3}$ and passed 
 \end{description}
 
 \noindent
-{\bf CY - Carry Flag~:}\index{Carry Flag} If an arithmetic operation results is a carry, the carry flag is set. Otherwise reset. The carry flag also serves as a borrow flag for subtraction.
+{\bf CY - Carry Flag~:}\index{Carry Flag} If an arithmetic operation results in a carry, the carry flag is set. Otherwise reset. The carry flag also serves as a borrow flag for subtraction.
 
 Observe from Fig.~\ref{fig7.5} that, bits $D_{5}$, $D_{3}$ and $D_{1}$ of flag register are unused.
 
@@ -464,7 +464,7 @@ Observe from Fig.~\ref{fig7.5} that, bits $D_{5}$, $D_{3}$ and $D_{1}$ of flag r
 \heading{Temporary Registers}
 \index{Microprocessor!temporary registers}\index{8085 Microprocessor!temporary registers}
 
-There are two types temporary registers.
+There are two types of temporary registers.
 \begin{itemize}
 \item[$\bullet$] Temporary data register.
 
@@ -591,7 +591,7 @@ The micro controller can be viewed as computer on a single chip. This essentiall
 \hline
 CPU & RAM & ROM\\
 \hline 
-I\,/\,O & Timer & Serial com port\\
+I\,/\,O & Timer & Serial COM port\\
 \hline
 \end{tabular}
 \end{figure}
@@ -930,7 +930,7 @@ Following are some applications, where uses micro controllers are being used.
 \begin{tabular}{l@{\;\,}l@{\qquad}l@{\;\,}l@{\qquad}l@{\;\,}l}
 $\bullet$ & Inter com & $\bullet$ & VCR & $\bullet$ & Cellular phones\\[4pt]
 $\bullet$ & Video games &$\bullet$ & Camera & $\bullet$ & Fax machines\\[4pt]
-$\bullet$ & Telivision & $\bullet$ & Security systems etc.
+$\bullet$ & Television & $\bullet$ & Security systems etc.
 \end{tabular}
 \end{center}
 
@@ -984,6 +984,6 @@ Since memory and I\,/\,O components are all external, each instruction will need
 \hline
 Microprocessor has less number of registers, hence more operations are memory based. & Micro controller has more number of registers, hence the programs are easier to write.\\
 \hline
-Microprocessors are based on von Neumann model/architecture where program and data are stored in same memory module. & Micro controllers are based on Harvard architecture where program memory and Data memory are separate.\\
+Microprocessors are based on von Neumann model/architecture where program and data are stored in same memory module. & Micro controllers are based on Harvard architecture where program memory and data memory are separate.\\
 \hline
 \end{longtable}}

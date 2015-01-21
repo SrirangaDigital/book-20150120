@@ -60,7 +60,7 @@ An Op-amp is basically a differential or difference amplifier, since it amplifie
 \subsection{Operation of an Op-amp}\label{sec5.1.2}
 \index{Operational amplifier!operation of}
 
-The Op-amp is basically a differential amplifier which amplifies the difference between its two input voltages
+The Op-amp is basically a differential amplifier which amplifies the difference between its two input voltages.
 \begin{equation}
 v_{0}=A \ v_{d}=A(v_{2}-v_{1})\label{eq5.2}
 \end{equation}
@@ -115,7 +115,7 @@ The following are the properties of\index{Operational amplifier!properties of}\i
 \subsection{Properties of a practical Op-amp}\label{sec5.1.4}
 \index{Operational amplifier!properties of}\index{Practical Op-amp!properties of}\index{Practical Op-amp}\index{Operational amplifier!practical op-amp}
 
-Practical or non-ideal Op-amps differ from the ideal one. Typical characteristics of the practical Op-amps are
+Practical or non-ideal Op-amps differ from the ideal one. Typical characteristics of the practical Op-amps are as follows.
 \begin{enumerate}
 \item The open-loop voltage gain is not infinite, but is generally very high in the range of $10^{4}$ to $10^{6}$ or more.
 
@@ -132,11 +132,11 @@ Practical or non-ideal Op-amps differ from the ideal one. Typical characteristic
 
 \section{Block diagram of a typical OP-amp}\label{sec5.2}
 
-\vskip -.65cm
+\vskip -.68cm
 
 \begin{figure}[H]
 \centering
-\includegraphics{chap4/fig4.3.eps}
+\includegraphics[scale=.95]{chap4/fig4.3.eps}
 \caption{Block diagram of a Typical Op-amp}\label{addfig5.3}
 \end{figure}
 
@@ -149,16 +149,16 @@ Input stage is a Dual-input, balanced output differential amplifier. Dual input 
 
 Intermediate stage is Dual-input, unbalanced output amplifier. Unbalanced output means, the output is nonzero when the two inputs are equal. Intermediate stage contains one or more differential amplifiers to achieve higher differential gain.
 
-The level shifing stage, is usually a CC configuration, used to shift the dc level at the output of the intermediate stage down ward to zero with respect to ground. Due to direct coupling, the dc level of input stage gets coupled to the intermediate stage, resulting in the shift of the operating point. Level translator is used to bring the added dc level to zero without which the output voltage may be distorted.
+The level shifing stage, is usually a CC configuration, used to shift the dc level at the output of the intermediate stage downward to zero with respect to ground. Due to direct coupling, the dc level of input stage gets coupled to the intermediate stage, resulting in the shift of the operating point. Level translator is used to bring the added dc level to zero without which the output voltage may be distorted.
 
-The output stage is basically a power amplifier that is used to increase the output current supplying capability of the Op-amp. It decides the output impedance of Op-amp. It is desirable to have very low output impedance.
+The output stage is basically a power amplifier that is used to increase the output current supplying capability of the Op-amp. It decides the output impedance of Op-amp. It is desirable to have very low output impedance.\\[-23pt]
 
 \subsection[Integrated circuit Op-amp ($\mu$A741)]{Integrated circuit Op-amp (\boldmath$\mu$A-741)}\label{sec5.1.5}
 \index{Op-amp ($\mu$A-741)}\index{Operational amplifier!op-amp ($\mu$A-741)}
 
 An integrated circuit (IC) is an electronic circuit (or system) in which all the components such as transistors, resistors etc. are fabricated and interconnected during the manufacturing process on a single piece of Silicon wafer called a chip.
 
-A very popular and widely used IC version of Op-amp is $\mu A741$ which is a 8 pin IC available in dual-in-line package or DIP package. The pin diagram of\index{Op-amp ($\mu$A-741)!pin diagram of} $\mu A741$ is shown in Fig.~\ref{fig5.3}.
+A very popular and widely used IC version of Op-amp is $\mu A741$ which is an 8 pin IC available in dual-in-line package or DIP package. The pin diagram of\index{Op-amp ($\mu$A-741)!pin diagram of} $\mu A741$ is shown in Fig.~\ref{fig5.3}.
 
 Pins 1 and 5 are used to null or balance the offset voltages. Offset voltage is the output voltage that occurs even when both the input voltages are zero.
 
@@ -660,7 +660,7 @@ The input and output voltages are shown below.
 \includegraphics{chap4/S3-EE-06-IN001.eps}
 
 \medskip
-{\em observe that $v_{o}$ and $v_{i}$ are $180^{\circ}$ out of phase.}
+{\em Observe that $v_{o}$ and $v_{i}$ are $180^{\circ}$ out of phase.}
 \end{figure}
 \vskip -.7cm
 \end{solution}
@@ -1073,7 +1073,7 @@ A_{f} &= \frac{-R_{f}}{R_{1}}=\dfrac{-100\,k\Omega}{1\,k\Omega}\\[4pt]
 A_{f} &= \frac{v_{o}}{v_{i}}\\[4pt]
 v_{o} &= A_{f}\,v_{i}\\[4pt]
 &= -100\times 1\text{\,V}\\[4pt]
-&= -100\text{\,V}
+&= -100\text{\,V}\text{~!!!}
 \end{align*}
 The output voltage cannot exceed the DC power supply voltage. Since $v_{o}$ is negative and large it is limited to $V^{\,-}$
 $$
@@ -1097,7 +1097,7 @@ A_{f} &= 1+\frac{R_{f}}{R_{1}}\\[3pt]
 &= 101\\[3pt]
 v_{o} &= A_{f}\,v_{i}\\[3pt]
 &= 101\times 1.5 \text{\,V}\\[3pt]
-&= 151.5\text{\,V}
+&= 151.5\text{\,V}\text{~!!!}
 \end{align*}
 The output voltage cannot exceed the DC power supply voltage. Since, $v_{o}$ is positive and large, it is limited to $V^{+}$
 $$
@@ -1222,7 +1222,7 @@ A voltage follower is a circuit in which the output voltage $v_{o}$ follows the 
 
 The circuit of voltage follower can be derived from the non-inverting amplifier by short circuiting $R_{f}$ and open circuiting $R_{1}$ i.e. by setting $R_{f}=0$ and $R_{1}=\infty$. Fig.~\ref{fig5.13} shows the circuit of an Op-amp voltage follower.
 
-Since the input voltage $v_{i}$ is directly applied to the non-inverting input terminals
+Since the input voltage $v_{i}$ is directly applied to the non-inverting input terminal
 \begin{equation}
 v_{2}=v_{i}\label{eq5.31}
 \end{equation}
@@ -1275,7 +1275,7 @@ Voltage follower is used as buffer to feed a low resistance load from a voltage 
 {\bf Note:}~The feedback factor in Op-amp non-inverting amplifier is given by
 \begin{align*}
 \beta &= \frac{R_{1}}{R_{1}+R_{f}}=\frac{1}{1+\left(\frac{R_{f}}{R_{1}}\right)}\\
-\text{with}\quad R_{f} &=0 \text{~~ and~~ } R_{1}=100,\text{~~ we get}\\
+\text{with}\quad R_{f} &=0 \text{~~ and~~ } R_{1}=\infty,\text{~~ we get}\\
 \beta &= 1\Rightarrow 100\%\text{~~ negative feed back.}
 \end{align*}
 
@@ -1366,7 +1366,7 @@ For the circuit shown determine the output voltage.
 \begin{align*}
 v_{o} &= -\left[\frac{R_{f}}{R_{1}}v_{1}+\frac{R_{f}}{R_{2}}v_{2}+\frac{R_{f}}{R_{3}}v_{3}+\frac{R_{f}}{R_{4}}v_{4}\right]\\[4pt]
 &= -\left[\frac{10\, k\Omega}{10\, k\Omega}(-1V)+\frac{10\, k\Omega}{20\, k\Omega}(2V)+\frac{10\, k\Omega}{30\, k\Omega}(3V)+\frac{10\, k\Omega}{40\, k\Omega}(-2)\right]\\[4pt]
-&= +\,0.5 V
+&= -\,0.5 V
 \end{align*}
 \vskip -.7cm
 \end{solution}
@@ -1376,7 +1376,7 @@ v_{o} &= -\left[\frac{R_{f}}{R_{1}}v_{1}+\frac{R_{f}}{R_{2}}v_{2}+\frac{R_{f}}{R
 \begin{example}\label{exam5.21}
 Design an adder circuit using Op-amp to obtain an output voltage given by
 $$
-v_{1}=-[0.5v_{1}+0.8v_{2}+2v_{3}]
+v_{0}=-[0.5v_{1}+0.8v_{2}+2v_{3}]
 $$
 where $v_{1}$, $v_{2}$ and $v_{3}$ are the inputs.
 \end{example}
@@ -1697,7 +1697,7 @@ i_{1}=C\,\frac{d}{dt}[v_{i}-v_{1}]=C\,\frac{dv_{i}}{d_{t}}\label{eq5.60}
 \end{equation}
 and
 \begin{equation}
-i_{f}=\frac{v_{i}-v_{o}}{R}=\frac{-v_{o}}{R}\label{eq5.61}
+i_{f}=\frac{v_{1}-v_{o}}{R}=\frac{-v_{o}}{R}\label{eq5.61}
 \end{equation}
 
 Using these relations in Eqn.~\eqref{eq5.59} we have
@@ -1733,9 +1733,11 @@ To obtain $v_{0}$ as a function of `$t$', we integrate with out limits.
 \begin{tabular}[t]{c@{\hspace{3.07cm}}c}
 \begin{tabular}[t]{@{}l}
 $v_{i}= -5\text{V}(DC)$\\[3pt]
-$v_{0}= -2\int (-5) dt = +10\,t\text{V}$
+$v_{0}= -2\int (-5) dt = +10\,t\text{V}$\\[4pt]
+$v_{0}$ is a ramp voltage\\
+with a positive slope
 \end{tabular}&
-\raisebox{-1.4cm}{\includegraphics{chap4/sol4.25a.eps}}
+\raisebox{-2.2cm}{\includegraphics{chap4/sol4.25a.eps}}
 \end{tabular}
 
 ~
@@ -1744,9 +1746,11 @@ $v_{0}= -2\int (-5) dt = +10\,t\text{V}$
 \begin{tabular}[t]{c@{\hspace{3.25cm}}c}
 \begin{tabular}[t]{@{}l}
 $v_{i}= 5\text{V}(DC)$\\[3pt]
-$v_{0}= -2\int 5dt = -10\,t\text{V}$
+$v_{0}= -2\int 5dt = -10\,t\text{V}$\\[4pt]
+$v_{0}$ is a ramp voltage\\
+with a negative slope
 \end{tabular}&
-\raisebox{-1.4cm}{\includegraphics{chap4/sol4.25b.eps}}
+\raisebox{-2.2cm}{\includegraphics{chap4/sol4.25b.eps}}
 \end{tabular}
 
 ~ 
@@ -1891,9 +1895,17 @@ A_{f} &= A_{f_{1}} \times A_{f_{2}}\\[4pt]
 $v_{01}$  \= = $A_{f_{1}}v_{i}$\\[9pt]
          \> = $(-2)(0.25\sin 10t\,\text{V})$\\[9pt]
          \> = $-0.5\sin 10t\text{V}$\\[9pt]
-$v_{02}$  \> = $A_{f_{2}}v_{o_1}$\\[9pt]
+$v_{0}$  \> = $A_{f_{2}}v_{o_1}$\\[9pt]
          \> = $(3)(-0.5\sin 10t\V)$\\[9pt]
          \> = $-1.5 \sin 10t\,\text{V}$
+\end{tabbing}
+
+\smallskip
+Alternatively\\[-23pt]
+\begin{tabbing}
+$v_{0}$ \== $A_{f}v_{i}$\\[9pt]
+        \>= $(-6)(0.25\sin 10 t\V)$\\[9pt]
+        \>= ${}-1.5\sin 10t\V$
 \end{tabbing}
 \end{itemize}
 \vskip -1cm
@@ -1987,14 +1999,14 @@ The circuit of Fig.~(B) is a non-inverting amplifier with input $v$. Also $10\,k
 \begin{equation*}
 \therefore\qquad v_{0_{2}}=v\times \text{Gain}\tag{C}
 \end{equation*}
-using voltage division rule,
+Using voltage division rule,
 \begin{equation*}
 v=\dfrac{v_{3}\times 10\,k\Omega}{10\,k\Omega+10\,k\Omega}=0.5\, v_{3}\tag{D}
 \end{equation*}
 
 The gain of non-inverting amplifier is
 \begin{align*}
-\text{Gain~} &= 1+\dfrac{20\,k\Omega}{10\,k\,\Omega\, \|\, 1020\,k\,\Omega}\\[4pt]
+\text{Gain~} &= 1+\dfrac{20\,k\Omega}{10\,k\,\Omega\, \|\, 20\,k\,\Omega}\\[4pt]
 &= 4
 \end{align*}
 
@@ -2026,11 +2038,13 @@ With an example illustrate the necessity of an Op-amp to obtain the output volta
 \end{example}
 
 \begin{solution}
-Let it be required to add two signals $v_{1}$ and $v_{2}$. These two signals are applied to node `A' through resistors $R_{1}$ and $R_{2}$ as shown in Fig.~\ref{fig5.22}. The currents $i_{1}$ and $i_{2}$ produced by these signals are made to pass through $R_{0}$ to develop the sum voltage $v_{o}$. $R_{L}$ represents the load to which the sum voltage is applied.
+Let it be required to add two signals $v_{1}$ and $v_{2}$. These two signals are applied to node `A' through resistors $R_{1}$ and $R_{2}$ as shown in Fig.~A. The currents $i_{1}$ and $i_{2}$ produced by these signals are made to pass through $R_{0}$ to develop the sum voltage $v_{o}$. $R_{L}$ represents the load to which the sum voltage is applied.
 \begin{figure}[H]
 \centering
 \includegraphics{chap4/sol4.27.eps}
-\caption{Summing two signals using resistive network}\label{fig5.22}
+
+\medskip
+\colorbox{lightgray}{{\bf Fig.~(A)}~:~\em Summing two signals using resistive network}
 \end{figure}
 Applying Kirchhoff's Current Law at node $A$ we have
 \begin{align*}
@@ -2042,13 +2056,13 @@ i_{L} &= \frac{v_{o}}{R_{L}}
 \end{align*}
 Using these relations in Eqn.~(A) we have
 \begin{align*}
-\frac{v_{1}-v_{o}}{R_{1}}+\frac{v_{2}-v_{o}}{R_{2}} &= \frac{v_{o}}{R_{o}}+\frac{v_{o}}{R_{2}}\\[3pt]
-v_{0}\left[\frac{1}{R_{1}}+\frac{1}{R_{2}}+\frac{1}{R_{o}}+\frac{1}{R_{2}}\right] &= \frac{v_{1}}{R_{1}}+\frac{v_{2}}{R_{2}}\tag{B}
+\frac{v_{1}-v_{o}}{R_{1}}+\frac{v_{2}-v_{o}}{R_{2}} &= \frac{v_{o}}{R_{o}}+\frac{v_{o}}{R_{L}}\\[3pt]
+v_{0}\left[\frac{1}{R_{1}}+\frac{1}{R_{2}}+\frac{1}{R_{o}}+\frac{1}{R_{L}}\right] &= \frac{v_{1}}{R_{1}}+\frac{v_{2}}{R_{2}}\tag{B}
 \end{align*}
 Let
 \begin{align*}
 \frac{1}{R_{P}} &= \frac{1}{R_{o}}+\frac{1}{R_{L}}\tag{C}\\[3pt]
-\therefore\quad R_{P} &= \frac{R_{o}R_{L}}{R_{0}+R_{L}}h\tag{D}
+\therefore\quad R_{P} &= \frac{R_{o}R_{L}}{R_{0}+R_{L}}\tag{D}
 \end{align*}
 $R_{P}$ is the parallel combination of $R_{o}$ and $R_{L}$.
 
@@ -2062,16 +2076,16 @@ $$
 Multiplying both sides by $R_{P}$ we have
 \begin{align*}
 v_{o}\left[1+\frac{R_{P}}{R_{1}}+\frac{R_{P}}{R_{2}}\right] &= v_{1}[R_{P}/R_{1}]+v_{2}[R_{P}/R_{2}]\\[3pt]
-v_{o} &= \frac{v[R_{P}/R_{1}]+v_{2}[R_{P}/R_{2}]}{[1+R_{P}/R_{1}+R_{P}/R_{2}]}\tag{E}
+v_{o} &= \frac{v_{1}[R_{P}/R_{1}]+v_{2}[R_{P}/R_{2}]}{[1+R_{P}/R_{1}+R_{P}/R_{2}]}\tag{E}
 \end{align*}
 From Eqn.~(E) we find that $v_{o}$ depends on $R_{P}$ which in turn depends on $R_{L}$. We want $v_{o}$ to be independent of $R_{L}$. This is possible if $R_{o}\ll R_{L}$ or $1/R_{o}\gg 1/R_{L}$.
 
 From Eqn.~(C) we find that
 \begin{align*}
-\frac{1}{R_{P}} & \simeq \dfrac{1}{R_{o}}\\[3pt]
+\frac{1}{R_{P}} & \simeq \dfrac{1}{R_{o}}\qquad[\text{If~~} R_{o}\ll R_{L}]\\[3pt]
 \text{or}\qquad R_{P} &= R_{o}
 \end{align*}
-Note that $R_{P}$ is small and independent of $R_{L}$. But this small value of $R_{P}$ results in small value of $v_{o}$ which is undesirable. Therefore it is necessary to use amplifier whose gain is independent of $R_{L}$. The Op-amp is well suited for this application since its closed loop voltage gain is independent of $R_{L}$ and depends only external resistors $R_{f}$ and $R_{1}$.
+Note that $R_{P}$ is small and independent of $R_{L}$. But this small value of $R_{P}$ results in small value of $v_{o}$ which is undesirable. Therefore it is necessary to use amplifier whose gain is independent of $R_{L}$. The Op-amp is well suited for this application since its closed loop voltage gain is independent of $R_{L}$ and depends only on external resistors $R_{f}$ and $R_{1}$.
 \end{solution}
 
 
@@ -2134,5 +2148,5 @@ Note that $R_{P}$ is small and independent of $R_{L}$. But this small value of $
 \includegraphics[scale=.9]{addfig/exr5.5.eps}
 \end{figure}
 
-\item In the circuit of $Q(5)$ Resistor and capacitor are interchanged. What operation the circuit performs. Sketch the output voltage if $v_{i}=2\cos 5t$\,V.
+\item In the circuit of $Q(5)$ Resistor and capacitor are interchanged. What operation the circuit performs\,? Sketch the output voltage if $v_{i}=2\cos 5t$\,V.
 \end{enumerate}

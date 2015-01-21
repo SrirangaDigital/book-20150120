@@ -122,17 +122,19 @@ Fig.~\ref{fig3.7} shows an $npn$ transistor for normal operation.
 
 The forward bias on emitter-base junction pushes the electrons from $n$-emitter to the $p$-base. Note that electrons flow from $n$-emitter to the $p$-base. Hence the emitter current flows out of the emitter terminal, since the direction of current flow is opposite to the direction of electron flow.
 
-At the collector, the electrons emitted from the emitter are collected. These collected electrons flow out of the collector terminal and enter the positive terminal of the supply, connected to the collector-base junction. As a result the collector current flows into the collector terminal.
+At the collector, the electrons emitted from the emitter are collected. These collected electrons flow out of the collector terminal and enter the positive terminal of the supply, connected between the collector and base terminals. As a result the collector current flows into the collector terminal.
 
 Summing the transistor currents algebraically using KCL (taking incoming currents positive and out going currents negative), we have
 \begin{align}
-& -I_{E}+I_{B}+I_{C}=0\label{eq3.1}\\[3pt]
+& -I_{E}+I_{B}+I_{C}=0\label{eq3.1}\\
 & I_{B}=I_{E}-I_{C}\label{eq3.2}
 \end{align}
 
 Since, $I_{E}>I_{C}$, $I_{B}$ is positive. Thus the direction of $I_{B}$ is into the base terminal.
 
 Fig.~\ref{fig3.8} shows, the symbol of $npn$ transistor along with the directions of $I_{E}$, $I_{C}$ and $I_{B}$.
+
+\vfill\eject
 
 Performing the same analysis for $pnp$ transistor and using the fact that, the current flow is in the direction of holes flow, we can find the directions of $I_{E}$, $I_{C}$ and $I_{B}$. Fig.~\ref{fig3.9} shows, the symbol of $pnp$ transistor along with the directions of $I_{E}$, $I_{C}$ and $I_{B}$.
 \begin{figure}[H]
@@ -221,7 +223,7 @@ $\beta_{\dc}$ is also called the common emitter current gain. Since $I_{C}\gg I_
 
 Typically, $\beta_{\dc}$ ranges from 25 to 300.
 
-$\beta_{\dc}$ is alternatively represented by $h_{FE}$, which originates from the $h$-parameter circuit of transistor. $h_{FE}$ is the symbol used an transistor data sheets.
+$\beta_{\dc}$ is alternatively represented by $h_{FE}$, which originates from the $h$-parameter circuit of transistor. $h_{FE}$ is the symbol used on transistor data sheets.
 
 \smallskip
 \noindent
@@ -244,7 +246,7 @@ Reverse bias on collector-base junction results in minority carrier current flow
 \item holes flow from $n$-collector to $p$-base.
 \end{itemize}
 
-As a result a reverse current flows from collector to base, even when the base emitter terminals are open. This current is called reverse saturation current,\index{Reverse saturation current} denoted by $I_{CB0}$ (collector to base reverse current with base emitter terminals open). This current is normally so small that it can be neglected. 
+As a result a reverse current flows from collector to base, even when the base emitter terminals are open. This current is called reverse saturation current,\index{Reverse saturation current} denoted by $I_{CB0}$ (collector to base reverse current with base and emitter terminals open). This current is normally so small that it can be neglected. 
 
 \section[To express $I_{C}$ in terms of $I_{B}$ and $\alpha_{\dc}$]{To express \boldmath$I_{C}$ in terms of $I_{B}$ and $\alpha_{\dc}$}\label{sec3.10}
 
@@ -299,7 +301,7 @@ From Eqn.~\eqref{eq3.10},
 \begin{example}\label{add3.1}
 Show that
 \begin{itemize}
-\item[(a)] $I_{C}=\alpha_{\dc}I_{E}+I_{CE0}$ \ and
+\item[(a)] $I_{C}=\alpha_{\dc}I_{E}+I_{CB0}$ \ and
 
 \item[(b)] $I_{C}=\beta I_{B}+(1+\beta)I_{CB0}$
 \end{itemize}
@@ -676,7 +678,7 @@ output voltage~:~ $V_{CB}$
 
 \subsection{Common-collector configuration}\label{sec3.13.3}
 
-In common-collector configuration,\index{Common-collector configuration}\index{Transistor configurations!cc configuratoin} the collector terminal is made common between input and output ports as shown in Fig.~\ref{fig3.16}.
+In common-collector configuration,\index{Common-collector configuration}\index{Transistor configurations!cc configuration} the collector terminal is made common between input and output ports as shown in Fig.~\ref{fig3.16}.
 
 From Fig.~\ref{fig3.16}, we note the following,
 \begin{quote}
@@ -711,15 +713,15 @@ The common-emitter dc current gain, $\beta_{\dc}$ was discussed in Section \ref{
 \subsection[Common-emitter ac current gain $(\,\beta_{\ac}\,)$]{Common-emitter ac current gain \boldmath$(\,\beta_{\ac}\,)$}\label{sec3.14.1}
 \index{Current gain!ce}
 
-When the base current increases by $\Delta I_{B}$, the collector increases by $\Delta I_{C}$ and the emitter current by $\Delta I_{E}$. Similarly, when the base current decreases by $\Delta I_{B}$, the collector current decreases by $\Delta I_{C}$ and the emitter current by $\Delta I_{E}$. The common-emitter ac current is given by the ratio of change in collector current to change in base current, denoted by $\beta_{\ac}$.
+When the base current increases by $\Delta I_{B}$, the collector current increases by $\Delta I_{C}$ and the emitter current by $\Delta I_{E}$. Similarly, when the base current decreases by $\Delta I_{B}$, the collector current decreases by $\Delta I_{C}$ and the emitter current by $\Delta I_{E}$. The common-emitter ac current gain is given by the ratio of change in collector current to change in base current, denoted by $\beta_{\ac}$.
 \begin{equation}
 \beta_{\ac}=\dfrac{\Delta I_{C}}{\Delta I_{B}}\label{eq3.12}
 \end{equation}
 
 The increasing and decreasing levels of input and output currents may be defined as alternating quantities. AC quantities are represented by upper case letter with lower case subscript.
 \begin{align*}
-\therefore\qquad & I_{b}\text{~ is ac base current}\\
-                 & I_{c} \text{~ is ac collector current}
+\therefore\qquad  \Delta I_{B}&= I_{b}=ac\text{~ base current}\\
+                 \Delta I_{C} &= I_{c}=ac \text{~ collector current}
 \end{align*}
 Thus, $\beta_{\ac}$ is ac current gain from base to collector.
 
@@ -835,10 +837,10 @@ By definition,
 \end{align*}
 Now, writing Kirchhoff's Voltage Law equation for the collector-emitter circuit, we get
 \begin{align*}
-V_{CC} &= V_{RC}+V_{CE}\Rightarrow V_{CE}=V_{CC}-I_{C}R_{C}\\[5pt]
+V_{CC} &= V_{R_C}+V_{CE}\Rightarrow V_{CE}=V_{CC}-I_{C}R_{C}\\[5pt]
 \text{where}\quad V_{R_{C}} &= \text{voltage across resistor $R_{C}$}\\[5pt]
  &= I_{C}\,R_{C}\\[5pt]
-\therefore\quad V_{CE} &= 20-(2.4\text{\,mA}\times 5.8 k\Omega)\\[5pt]
+\therefore\quad V_{CE} &= 20\V-(2.4\text{\,mA}\times 5.8 k\Omega)\\[5pt]
 \therefore\quad V_{CE} &= 6.08\text{\,V}=V_{C}
 \end{align*}
 
@@ -945,7 +947,7 @@ V_{C} &= V_{CC}-I_{C}R_{C}\\[4pt]
 \item[(b)] From Fig.~(B) for a variation of $v_{i}$ or $V_{BE}$ of $\pm 50\text{\,mV}$, variation in $I_{B}$ is $\pm 15\,\mu\text{A}$.
 \begin{align*}
 \therefore\qquad \Delta I_{B} &= \pm 15\,\mu\text{A}\\[4pt]
-\therefore\qquad \Delta I_{C} &= \beta_{\dc}\,I_{B}\\[4pt]
+\therefore\qquad \Delta I_{C} &= \beta_{\dc}\,\Delta I_{B}\\[4pt]
 &= 50\times (\pm 15\,\mu\text{A})\\[4pt]
 \Delta I_{C} &= \pm 0.75\text{~mA}=I_{c}\\[4pt]
 \therefore\qquad V_{o} &= -I_{c}R_{C}=-(\pm 0.75\text{\,mA})(12 k\Omega)\\[4pt]
@@ -962,7 +964,7 @@ V_{C} &= V_{CC}-I_{C}R_{C}\\[4pt]
 \text{or}\qquad I_{C} &= 2\text{\,mA}\\[4pt]
 \therefore\qquad V_{CE} &= V_{C}=V_{CC}-V_{R_{C}}\\[4pt]
 &= V_{CC}-I_{C}R_{C}\\[4pt]
-&= 25-(2\text{\,mA})(12 k\Omega)\\[4pt]
+&= 25\V-(2\text{\,mA})(12 k\Omega)\\[4pt]
 V_{CE} &= 1\text{V}
 \end{align*}
 
@@ -1041,7 +1043,7 @@ The following observations are made from the input characteristics of Fig.~\ref{
 \itemsep=2pt
 \item The characteristics are essentially those of a forward-biased $p$-$n$ junction, since the emitter-base junction under forward bias is similar to a forward biased $p$-$n$ junction.
 
-\item At a given input voltage, $V_{EB}$, the input current, $I_{E}$, increases with increase in $V_{CB}$. This is indicated by the shift of input characteristic curves to the left with increase in $V_{CB}$. This can be accounted as follows. At larger $V_{CB}$ (larger reverse bias voltage), the depletion region at the collector-base junction penetrates deeper into the base of transistor, thus shortening the distance. This reduces the resistance the emitter-base and collector-base junctions. As a result, the input current, $I_{E}$, increases.
+\item At a given input voltage, $V_{EB}$, the input current, $I_{E}$, increases with increase in $V_{CB}$. This is indicated by the shift of input characteristic curves to the left with increase in $V_{CB}$. This can be accounted as follows. At larger $V_{CB}$ (larger reverse bias voltage), the depletion region at the collector-base junction penetrates deeper into the base of transistor, thus shortening the distance. This reduces the resistance of the emitter-base and collector-base junctions. As a result, the input current, $I_{E}$, increases.
 
 \item A small change in $V_{EB}$ causes a large change in $I_{E}$. This means that the dynamic input impedance of common-base configuration is low.
 \end{itemize}
@@ -1065,7 +1067,7 @@ The following observations are made from the output characteristics shown in Fig
 \begin{itemize}
 \item Since $I_{E}$ is fixed and $I_{C}\approx I_{E}$, the collector current varies very little, when $V_{CB}$ is increased. Thus the characteristic curves are almost parallel to $V_{CB}$ axis.
 
-\item This is due to the fact that, with an increase in $V_{CB}$, the collector-base depletion region, widens shortening the distance between the two depletion regions. Hence a large increase in $V_{CB}$ is required to bring about a small change in $I_{C}$, with $I_{E}$ held constant. Thus the output characteristic curves are almost parallel to $V_{CB}$ axis. This is called Early effect.
+\item This is due to the fact that, with an increase in $V_{CB}$, the collector-base depletion region, widens thus  shortening the distance between the two depletion regions. Hence a large increase in $V_{CB}$ is required to bring about a small change in $I_{C}$, with $I_{E}$ held constant. Thus the output characteristic curves are almost parallel to $V_{CB}$ axis. This is called {\em Early effect.}
 
 \item Since the output current $I_{C}$ is almost equal to the input current $I_{E}$, the current gain is unity in common-base configuration.
 
@@ -1107,7 +1109,7 @@ If an excessive reverse-bias voltage, $V_{CB}$ is applied to the collector-base 
 
 \subsection{Suitability of operating regions for the intended application of transistor}\label{sec3.18.1}
 
-When ever the transistor is to be used as an amplifier, it must be biased in the active region i.e., emitter-base junction forward biased and collector-base junction reverse biased. It is the linear region of operation for the transistor and it can faithfully amplify the input signal with minimum distortion. 
+Whenever the transistor is to be used as an amplifier, it must be biased in the active region i.e., emitter-base junction forward biased and collector-base junction reverse biased. It is the linear region of operation for the transistor and it can faithfully amplify the input signal with minimum distortion. 
 
 \vskip .15cm
 
@@ -1202,7 +1204,7 @@ Joint $PQ$ to get the current gain characteristics.
 
 \section{Common-Emitter input characteristics}\label{sec3.20}
 
-The common-emitter input characteristics\index{Common-emitter configuration!input characteristics} shows the variation of $I_{B}$ as a function of $V_{BE}$ at the constant $V_{CE}$. The circuit of $npn$ transistor for obtaining common-emitter\index{Transistor characteristics!ce} input characteristics is shown in Fig.~\ref{fig3.27}. $V_{CE}$ is set to a convenient value. $V_{BE}$ is varied in suitable steps and at each step $I_{B}$ value is recorded. The same procedure is repeated for different settings of $V_{CE}$. When these results are plotted, a family of input characteristics is obtained as shown in Fig.~\ref{addfig3.28}.
+The common-emitter input characteristics\index{Common-emitter configuration!input characteristics} shows the variation of $I_{B}$ as a function of $V_{BE}$ at constant $V_{CE}$. The circuit of $npn$ transistor for obtaining common-emitter\index{Transistor characteristics!ce configuration} input characteristics is shown in Fig.~\ref{fig3.27}. $V_{CE}$ is set to a convenient value. $V_{BE}$ is varied in suitable steps and at each step $I_{B}$ value is recorded. The same procedure is repeated for different settings of $V_{CE}$. When these results are plotted, a family of input characteristics is obtained as shown in Fig.~\ref{addfig3.28}.
 
 \smallskip
 
@@ -1292,7 +1294,7 @@ Common-emitter current gain characteristics can be derived from common-emitter o
 
 \section{Common-Collector input characteristics}\label{sec3.23}
 
-Common-collector input characteristics\index{Common-collector configuration!input characteristics} shows the variation of $I_{B}$ with $V_{BC}$ at a constant $V_{EC}$. The circuit of a $pnp$ transistor for obtaining common-collector\index{Transistor characteristics!cc} input characteristics is shown in Fig.~\ref{fig3.32}.
+Common-collector input characteristics\index{Common-collector configuration!input characteristics} shows the variation of $I_{B}$ with $V_{BC}$ at a constant $V_{EC}$. The circuit of a $pnp$ transistor for obtaining common-collector\index{Transistor characteristics!cc configuration} input characteristics is shown in Fig.~\ref{fig3.32}.
 \begin{figure}[H]
 \centering
 \includegraphics[scale=1.05]{chap2/S3-EE-03-032.eps}

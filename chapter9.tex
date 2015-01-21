@@ -103,7 +103,7 @@ Most of the message signals are low audio frequency signals lying within the ran
 \smallskip
 \heading{2. Practical size of antenna}
 
-Transmission of signals in the form of electromagnetic waves cannot be done without the use of antennas. For efficient transmission and reception the heights of the transmitting and receiving antennas should be comparable to quarter-wavelength of the frequency of the signal used. This is 75 meters at 1 Mhz, but increases to 5000 meters or 16000 feet at 15 kHz. A vertical antenna of this height is unimaginable. Since modulation uses a high frequency carrier for transmission the height of antennas is considerably reduced to practical values.
+Transmission of signals in the form of electromagnetic waves cannot be done without the use of antennas. For efficient transmission and reception the heights of the transmitting and receiving antennas should be comparable to quarter-wavelength of the frequency of the signal used. This is 75 meters at 1 MHz, but increases to 5000 meters or 16000 feet at 15 kHz. A vertical antenna of this height is unimaginable. Since modulation uses a high frequency carrier for transmission the height of antennas is considerably reduced to practical values.
 
 \smallskip
 \heading{3. Avoid mixing of audio signals}
@@ -253,7 +253,7 @@ From Eqn.~\eqref{eq9.9},
 \begin{align}
 \frac{V_{m}}{V_{c}} &= m_{a}\notag\\[2pt]
 \therefore\quad v &= V_{c}\,(1+m_{a}\sin \omega_{m}t)\sin \omega_{c}t\label{eq9.14}\\[2pt]
-v_{c} &= V_{c}\sin \omega_{c}t+V_{c}\,m_{a}\sin \omega_{c}t\sin \omega_{m}t\label{eq9.15}
+v &= V_{c}\sin \omega_{c}t+V_{c}\,m_{a}\sin \omega_{c}t\sin \omega_{m}t\label{eq9.15}
 \end{align}
 using the trigonometric relation
 \begin{align}
@@ -682,7 +682,7 @@ The antenna current of an AM transmitter is $8\text{A}$ when only the carrier is
 \end{example}
 
 \begin{solution}
-Let $I_{\carr}$ and $I_{t}$ be respectively the rms values of the unmoduled current and the total or modulated current. If $R$ is the resistance in which these currents flow, then we can write
+Let $I_{\carr}$ and $I_{t}$ be respectively the rms values of the unmodulated current and the total or modulated current. If $R$ is the resistance in which these currents flow, then we can write
 \begin{align*}
 \frac{P_{t}}{P_{c}} &=\frac{I^{2}_{t}R}{I^{2}_{\carr}R}=\left(\frac{I_{t}}{I_{\carr}}\right)^{2}=1+\frac{m^{2}_{a}}{2}\\[5pt]
 \text{or}\qquad m_{a} &= \sqrt{2\left[\left(\frac{I_{t}}{I_{\carr}}\right)^{2}-1\right]} 
@@ -782,15 +782,15 @@ P_{c}=\dfrac{P_{t}}{1+\frac{m^{2}_{a}}{2}}=\frac{20\text{\,kW}}{1+\frac{0.8^{2}}
 $$
 The power in the sidebands is
 $$
-P_{t}-P_{c}=20-15.15=4.85\text{\,kW}
+P_{t}-P_{c}=20\text{\,kW}-15.15\text{\,kW}=4.85\text{\,kW}
 $$
 The power in the LSB is
 $$
 P_{\text{LSB}}=\dfrac{4.85\,\text{kW}}{2}=2.425\text{\,kW}
 $$
-saving in power is $P_{t}-P_{\text{LSB}}=15.15\,\text{kW}-2.425\,\text{kW}=12.725\text{\,kW}$
+saving in power is $P_{t}-P_{\text{LSB}}=20\,\text{kW}-2.425\,\text{kW}=17.575\text{\,kW}$
 $$
-\% \ \text{Saving in Power} = \frac{P_{t}-P_{\text{LSB}}}{P_{t}}\times 100\%=\frac{12.725\,\text{kW}}{15.15\,\text{kW}}\times 100\%=84\%
+\% \ \text{Saving in Power} = \frac{P_{t}-P_{\text{LSB}}}{P_{t}}\times 100\%=\frac{17.575\,\text{kW}}{20\,\text{kW}}\times 100\%=87.87\%
 $$
 \vskip -1cm
 \end{solution}
@@ -839,29 +839,29 @@ Note that the output voltage, $v_{0}$, follows the envelope of the carrier which
 The time constant RC must be very much greater than the time period, $T_{c}$, of the carrier
 \begin{align}
 & RC\gg T_{c}\label{eq9.39}\\
-& T_{c}=\frac{1}{f_{c}}=\dfrac{\omega_{c}}{2\pi}\label{eq9.40}
+& T_{c}=\frac{1}{f_{c}}=\dfrac{2\pi}{\omega_{c}}\label{eq9.40}
 \end{align}
 
 Substituting Eqn.~\eqref{eq9.40} in Eqn.~\eqref{eq9.39}, we get
 \begin{equation}
-RC\gg \dfrac{\omega_{c}}{2\pi}\label{eq9.41}
+RC\gg \dfrac{2\pi}{\omega_{c}}\label{eq9.41}
 \end{equation}
 
 If the time constant is too large, the capacitor voltage falls very slowly, the diode may not conduct and charge the capacitor to the next peak. Thus the modulating envelope may not be detected. This situation is avoided by the condition:
 \begin{align}
 & RC \ll T_{m}\label{eq9.42}\\[3pt]
-& T_{m}=\frac{1}{f_{m}}=\frac{\omega_{m}}{2\pi}\label{eq9.43}
+& T_{m}=\frac{1}{f_{m}}=\frac{2\pi}{\omega_{m}}\label{eq9.43}
 \end{align}
 where $T_{m}$ is the time period of modulating signal.
 
 Substituting Eqn.~\eqref{eq9.43} in Eqn.~\eqref{eq9.42} we obtain
 \begin{equation}
-RC\ll \frac{\omega_{m}}{2\pi}\label{eq9.44}
+RC\ll \frac{2\pi}{\omega_{m}}\label{eq9.44}
 \end{equation}
 
 Combing Eqns.~\eqref{eq9.41} and \eqref{eq9.44} we get
 \begin{equation}
-\frac{\omega_{c}}{2\pi}\ll RC\ll \frac{\omega_{m}}{2\pi}\label{eq9.45}
+\frac{2\pi}{\omega_{c}}\ll RC\ll \frac{2\pi}{\omega_{m}}\label{eq9.45}
 \end{equation}
 
 The detected envelope is
@@ -1220,7 +1220,7 @@ when $V_{m}=7.5\text{V}$
 
 Similarly, when $V_{m}=10\text{V}$
 $$
-\delta = 2\times 10 = 20 \text{kHz}
+\delta = (2\,\text{kHz/V})(10\V) = 20 \text{kHz}
 $$
 
 \vskip .1cm

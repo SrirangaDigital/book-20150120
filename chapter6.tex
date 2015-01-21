@@ -36,7 +36,7 @@ The analog computer is constructed using linear devices like operational amplifi
 
 The digital computer\index{Digital computer} uses the binary number system and is constructed using gates. Only two numbers 0 and 1 are recognized by the digital computer. It overcomes the disadvantages of an analog computer as voltages corresponding to 0 and 1 can be based on threshold values, rather than on absolute values. For example any value above 2.4\,V may be considered to be at logic 1 while any value below 0.8\,V may be considered to be at logic 0.
 
-The main disadvantage of digital computer is that more number of lines are required to represent the numbers. For example, 8 lines are need to represent 255 in decimal as 11111111 in binary. Data and instructions are represented by numbers. For example 00 could be add, 01, substract, 10 multiply and so on. A microprocessor is a device that can perform fairly high level computation using such digital logic with binary representation of data and instructions.
+The main disadvantage of digital computer is that more number of lines are required to represent the numbers. For example, 8 lines are need to represent 255 in decimal as 11111111 in binary. Data and instructions are represented by numbers. For example 00 could be add, 01, subtract, 10 multiply and so on. A microprocessor is a device that can perform fairly high level computation using such digital logic with binary representation of data and instructions.
 
 \section{Decimal number system}\label{sec6.2}
 \index{Decimal number system}
@@ -190,7 +190,7 @@ Convert the following binary numbers to decimal:
 \item[(c)] $(110.1101)_{2}=(\;?\;)_{10}$
 \begin{align*}
 110.1101 &= (1\times 2^{2})+(1\times 2^{1})+(0\times 2^{0})+(1\times 2^{-1})+(1\times 2^{-2})\\[3pt]
-&\quad +(1\times 2^{-3})+(1\times 2^{-4})\\[3pt]
+&\quad +(0\times 2^{-3})+(1\times 2^{-4})\\[3pt]
 &= 4+2+0.5+0.25+0.0625=6.8125\\[3pt]
 \therefore\quad (110.1101)_{2} &= (6.8125)_{10}
 \end{align*}
@@ -328,7 +328,7 @@ Convert the following octal numbers to decimal:
 \begin{tabbing}
 $(124.21)_{8}$ \== $(1\times 8^{2})+(2\times 8^{1})+(4\times 8^{0})+(2\times 8^{-1})+(1\times 8^{-2})$\\[4pt]
 \>= $64+16+4+0.25+0.015625$\\[4pt]
-\>= $84.265625$
+\>= $(84.265625)_{10}$
 \end{tabbing}
 
 \item[(c)]
@@ -495,7 +495,7 @@ $$
 \section{Hexadecimal number system}\label{sec6.7}
 \index{Hexadecimal number system}
 
-The hexadecimal or hex number system has a radix of 16 with sixteen possible numbers labeled 0,1,2,3,4,5,6,7,8,9,A,B,C,D and E. The hexadecimal numbers with their binary and decimal equivalents are shown in Table~\ref{tab6.2}. We see from Table~\ref{tab6.2}, that each hex digit is represented by four binary bits called a {\em nibble}. We require eight bits or one byte or two nibbles to represent data and address in micro-controllers and computers, as data and address bus widths are multiples of 8 bits. From Table~\ref{tab6.2}, it is easy to see that a binary number like 10001011 can be compactly represented in hex as 8B! Thus, the hex number system provides a convenient way of representing long binary numbers. A long 32 bit binary number like
+The hexadecimal or hex number system has a radix of 16 with sixteen possible numbers labeled 0,1,2,3,4,5,6,7,8,9,A,B,C,D,E and F. The hexadecimal numbers with their binary and decimal equivalents are shown in Table~\ref{tab6.2}. We see from Table~\ref{tab6.2}, that each hex digit is represented by four binary bits called a {\em nibble}. We require eight bits or one byte or two nibbles to represent data and address in micro-controllers and computers, as data and address bus widths are multiples of 8 bits. From Table~\ref{tab6.2}, it is easy to see that a binary number like 10001011 can be compactly represented in hex as 8B! Thus, the hex number system provides a convenient way of representing long binary numbers. A long 32 bit binary number like
 \begin{center}
 \begin{tabular}{cccccccc}
 1\,0\,1\,0 & 0\,1\,0\,1 & 0\,0\,1\,1 & 1\,1\,1\,0 & 1\,0\,0\,1 & 0\,1\,0\,0 & 1\,1\,1\,0 & 1\,1\,0\,0\\[3pt]
@@ -1789,7 +1789,7 @@ Hence result is negative and equal to $7$'s complement of $414.45$ i.e.,
 \end{figure}
 Zero carry implies that the result is negative and equal to $8$'s complement of $414.46$
 \begin{align*}
-\text{i.e.,}\quad & (77777-41466)+1=36332\\[3pt]
+\text{i.e.,}\quad & (77777-41446)+1=36332\\[3pt]
 \therefore\quad   & (34.22)_{8}-(417.54)_{8}=-(363.32)_{8}
 \end{align*}
 \end{itemize}
@@ -2560,7 +2560,7 @@ where the operator $\oplus$ implies EX-OR operation. The logic symbol of EX-OR g
 \caption{Logic symbol and truth table of EX-OR gate}\label{fig6.22}
 \end{figure}
 
-Observe from the truth table that, the output of EX-OR gate is high only when one put is high and the other low.
+Observe from the truth table that, the output of EX-OR gate is high only when one input is high and the other low.
 
 \eject
 
@@ -2610,7 +2610,7 @@ Following are the basic Boolean laws.\index{Boolean laws}
 
 \item {\em Associative law}
 \begin{itemize}
-\item[(a)] $(A+B)+C=A+B(B+C)$
+\item[(a)] $(A+B)+C=A+(B+C)$
 
 \item[(b)] $(AB)C=A(BC)$
 \end{itemize}
@@ -3020,7 +3020,7 @@ The EX-OR logic is
 $$
 Y=\overline{A}B+A\overline{B}
 $$
-Complimenting twice, we have
+Complementing twice, we have
 \begin{align*}
 Y &= \overline{\overline{\overline{A}B+A\overline{B}}}\\[3pt]
   &= \overline{\overline{\overline{A}B}\cdot \overline{A\overline{B}}}
@@ -3213,7 +3213,7 @@ The EX-NOR gate using NOR gates is shown below.
 \begin{example}\label{exam6.29}
 Simplify and realize the following Boolean expressions using logic gates.
 \begin{itemize}
-\item[(a)] $Y=\overline{\overline{BC}+\overline{AD}(\overline{AB}+\overline{CD}}$
+\item[(a)] $Y=\overline{\overline{BC}+\overline{AD}(\overline{AB}+\overline{CD})}$
 
 \item[(b)] $Y=(A+B\overline{C})(\overline{A}+B+\overline{C})$
 \end{itemize}
@@ -3417,7 +3417,7 @@ Multiplying out the RHS, we have
 F &= (AB+A\overline{C}+\overline{A} \ \ \overline{B}C)(A+\overline{B})\\[4pt]
 &= AB+A\overline{C}+A\overline{B} \ \ \overline{C}+\overline{A} \ \ \overline{B}C\\[4pt]
 &= AB+A\overline{C}(1+\overline{B})+\overline{A} \ \ \overline{B}C\\[5pt]
-F &= AB+A\overline{C}+\overline{A} \ \ \overline{B} \ \ \overline{C}
+F &= AB+A\overline{C}+\overline{A} \ \ \overline{B} \ \ C
 \end{align*}
 Complementing both sides, we have
 $$
@@ -3779,7 +3779,7 @@ C=AB\label{eq6.10}
 
 \noindent
 \eject
-The block diagram of a half-adder is shown in Fig.~\ref{fig6.28}.
+The block diagram of a half-adder is shown in Fig.~\ref{fig6.29}.
 \begin{figure}[H]
 \centering
 \includegraphics{chap6/fig127_6.28.eps}
@@ -4114,13 +4114,13 @@ The basic building blocks of sequential digital circuits are flip-flops, which a
 
 \item Fig.~\ref{addfig6.37} shows the circuit of a latch.
 
-\item Let us assume that, when the power is switched on to the circuit, the input a is at logic 1. Therefore $\overline{a}=0$ and thus $Q=0$.
+\item Let us assume that, when the power is switched on to the circuit, the input $a$ is at logic 1. Therefore $\overline{a}=0$ and thus $Q=0$.
 
 \item Now the input $b=\overline{a}$ and therefore the output $\overline{Q}=\overline{b}=a=1$.
 
-\item The circuit indefinitely stares $Q=0$ and $\overline{Q}=1$ until the power is switched off.
+\item The circuit indefinitely stores $Q=0$ and $\overline{Q}=1$ until the power is switched off.
 
-\item On other hand, if the input $a$ is at logic 0 when the power is switched on to the circuit. It can be shown that, the circuit indefinitely stores $Q=1$ and $\overline{Q}=0$ until the power is switched off.
+\item On other hand, if the input $a$ is at logic 0 when the power is switched on to the circuit, it can be shown that, the circuit indefinitely stores $Q=1$ and $\overline{Q}=0$ until the power is switched off.
 \end{itemize}
 \begin{figure}[H]
 \centering
@@ -4443,7 +4443,7 @@ Fig.~\ref{fig6.44} shows the clocked $RS$ flip-flop using NAND gates.
 \caption{Clocked $RS$ Flip-flop using NAND gates}\label{fig6.44}
 \end{figure}
 
-The explaination and truth table given in section \ref{sec6.37.1} for NOR implementation also applies to the NAND implementation of Fig.~\ref{fig6.44}.
+The explanation and truth table given in section \ref{sec6.37.1} for NOR implementation also applies to the NAND implementation of Fig.~\ref{fig6.44}.
 
 \smallskip
 \begin{center}
@@ -4470,8 +4470,6 @@ The explaination and truth table given in section \ref{sec6.37.1} for NOR implem
 
 \item[(c)] $ABCD+ABCDE$
 \end{itemize}
-
-
 
 \item Perform the following subtractions.
 \begin{itemize}

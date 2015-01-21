@@ -7,7 +7,7 @@ approximations, dc and ac equivalent circuits, temperature effects are
 presented with numerous examples. Zener diode and its characteristic have also been discussed at the end of this chapter.
 
 \section{{\boldmath$p$-$n$} junction}\label{sec1.1}
-\index{pn@$p{\rm-}n$ junction}
+\index{pn@$p{\rm-}n$ junction (see diode)}
 
 A $p$-$n$ junction diode is a two terminal unidirectional device with
 a $p$-type anode and an $n$-type cathode as shown in Fig. 1.1. It is
@@ -139,7 +139,7 @@ reverse characteristics shown in Fig. 1.6.
 \itemsep=1pt
 \item[$\bullet$] For forward bias voltages less than 0.7\,V, the forward current, $I_{F}$, remains very low.
 
-\item[$\bullet$] When the forward bias voltage, $V_{F}$, exceeds 0.7\,V, the current rapidly increases and the diode is to be {\em on}.
+\item[$\bullet$] When the forward bias voltage, $V_{F}$, exceeds 0.7\,V, the current rapidly increases and the diode is said to be {\em on}.
 
 \item[$\bullet$] In this region a small change in forward voltage, $\Delta V_{F}$, causes a large change in forward current $\Delta I_{F}$.
 
@@ -151,13 +151,12 @@ reverse characteristics shown in Fig. 1.6.
 \itemsep=1pt
 \item[$\bullet$] For small reverse voltages, the reverse current $I_{R}$, through the diode is very small, typically less than 100\,nA.
 
-\item[$\bullet$] When the reverse bias voltage exceeds breakdown voltage, the current through the diode increases sharply. As such from the graph, the reverse breakdown voltage is around 75\,V, for the diode under consideration. 
+\item[$\bullet$] When the reverse bias voltage exceeds breakdown voltage, the current through the diode increases sharply. As seen from the graph, the reverse breakdown voltage is around 75\,V, for the diode under consideration. 
 
 \item[$\bullet$] Reverse breakdown\index{Reverse breakdown} is a destructive phenomena. Hence for safe operation the applied reverse voltage should not exceed the breakdown voltage.
 
 \item[$\bullet$] Observe from the graph that, $|\,I_{R}\,|\ll |\,I_{F}\,|$. Also the diode is said to be {\em off}, under reverse bias and also for forward voltages less than $V_{\gamma}$, since the diode current is almost zero.
 \end{itemize}
-
 
 \begin{example}\label{exam1.1}
 Find the forward and reverse resistance at $I_F = 100\mA$ and $V_R = 25
@@ -211,7 +210,7 @@ I_R \ll I_F \quad \text{ and }\quad  R_R \gg R_F
 $$
 
 Thus the diode offers high resistance when reverse biased or {\it off}
-and low resistance when forward biased or on. 
+and low resistance when forward biased or {\em on}. 
 
 From the knee of the characteristics we can say that the cut-in
 voltage, $V_\gamma$ is approximately 0.6V.
@@ -252,7 +251,7 @@ At $V_R =75V$, $I_R = 50~ nA$
 $\therefore$ By definition, the static reverse resistace,
 $$
 R_R = \frac{V_R}{I_R} = \frac{75 V}{50 nA} = \frac{75 V}{0.05 \mu A} =
-150 M \Omega
+1500\, M \Omega
 $$
 
 Note that $R_F \ll R_R$ as expected.
@@ -659,7 +658,7 @@ Ideally, we can say
 \vfill\eject
 
 Note that $R_F = 0$ represents a short circuit or a switch in
-\textit{closed} condition, while $R_R = \infty$ represents a
+\textit{closed} condition, while $R_R = \infty$ represents an
 \textit{open} circuit or a switch in \textit{open} condition.
 $$
 R_F = 0 \text{~ implies ~} \frac{\Delta V_F}{\Delta I_F} = 0 \quad
@@ -683,7 +682,7 @@ in Fig. 1.9.
 \caption{Ideal diode\index{Ideal diode} characteristics}
 \end{figure}
 
-\heading{Approximate characteristics\index{Diode!approximate characteristics} of a Silicon and Germanium diodes}
+\heading{Approximate characteristics\index{Diode!approximate characteristics} of an Silicon and Germanium diodes}
 
 
 In most applications, the diode forward voltage drop can be assumed
@@ -719,7 +718,7 @@ The following convention is adopted while writing KVL equation.
 
 Current flows from higher potential point to lower potential
 point. Hence potential falls when we go along current and potential
-rises when we go against current. There fore
+rises when we go against current. Therefore
 \begin{align*}
 \text{along current, } \quad & \text{Voltage drop } = - IR\\
 \text{against current,} \quad & \text{Voltage drop } = + IR  
@@ -998,8 +997,8 @@ with
 Applying Kirchhoff's Voltage Law,
 \begin{align*}
 2 \V - I_F\, (14\Omega) - 0.7 \V  & = 0\\[4pt]
-\Rightarrow \quad I_F = \frac{2V - 0.7 V}{14\, \Omega} & = 0.1 A\\[4pt]
-\text{or}\qquad I_F & = 100 \mA
+\Rightarrow \quad I_F = \frac{2V - 0.7 V}{14\, \Omega} & = 0.09285\, A\\[4pt]
+\text{or}\qquad I_F & = 92.85 \mA
 \end{align*}
 
 \item[(b)] With $r_d = 0.2\Omega$ the equivalent circuit is shown
@@ -1015,7 +1014,7 @@ Applying Kirchhoff's Voltage Law,
 \begin{align*}
 2 \V - I_F \,(14 \Omega) - I_F\, (0.2 \Omega) - 0.7 \V & = 0\\[3pt]
 \Rightarrow ~~ I_F & = \frac{2\V - 0.7 \V}{14 \Omega + 0.2 \Omega}\\[3pt]
-& = 98.6 \mA
+& = 91.54 \mA
 \end{align*}
 \end{itemize}
 \vskip -.9cm
@@ -1045,8 +1044,8 @@ Given, $r_d = 0.5 \Omega$, $I_F = 174 \mA$, $V_\gamma =0.3 \V$
 
 Writing Kirchhoff's Voltage Law equation,
 \begin{align*}
-3 \V - (1.74 \mA) & R - (1.74 \mA) (0.5 \Omega) - 0.3 \V = 0\\[4pt]
-\Rightarrow ~~ R & = \frac{3\V - (1.74 \mA) (0.5\Omega)-0.3 \V}{1.74
+3 \V - (174 \mA) & R - (174 \mA) (0.5 \Omega) - 0.3 \V = 0\\[4pt]
+\Rightarrow ~~ R & = \frac{3\V - (174 \mA) (0.5\Omega)-0.3 \V}{174
   \mA}\\[4pt]
 & = 15.01 \Omega
 \end{align*} 
@@ -1343,8 +1342,8 @@ depletion layer capacitance $C_{pn}$.
 \item {\bf Forward-biased condition~:}
 
 The equivalent circuit of a forward-biased diode is shown in
-Fig.~\ref{fig1.19}. A forward-biased diode is represented by two parallel
-circuits as shown in Fig.~\ref{fig1.19}. The first circuit comprises of forward
+Fig.~\ref{fig1.19}. A forward-biased diode is represented by a parallel
+circuit as shown in Fig.~\ref{fig1.19}. The first circuit comprises of forward
 voltage drop $V_\gamma$ in series with dynamic resistance $r_d$, while
 the second circuit contains the diffusion capacitance $C_d$.
 \begin{figure}[H]
@@ -1419,7 +1418,7 @@ The reverse voltage required for  Avalanche breakdown can be greatly reduced to 
 \caption{Zener region}\label{fig1.26}
 \end{figure}
 
-The diodes employing the zener region of the characteristic of a $p$-$n$ junction are called zener divides. Diodes designed for operation in reverse breakdown are found to have a breakdown voltage that remains extremely stable over a wide range of current levels. By virtue of this property the breakdown diodes find application as voltage reference sources. Although zener and avalanche are two different types of breakdown, the name zener diode is commonly applied to all breakdown diodes.\index{Breakdown diodes}\\[-22pt]
+The diodes employing the zener region of the characteristic of a $p$-$n$ junction are called zener diodes. Diodes designed for operation in reverse breakdown are found to have a breakdown voltage that remains extremely stable over a wide range of current levels. By virtue of this property the breakdown diodes find application as voltage reference sources. Although zener and avalanche are two different types of breakdown, the name zener diode is commonly applied to all breakdown diodes.\index{Breakdown diodes}\\[-22pt]
 
 \section[Zener Diode and Its $V$-$I$ Characteristics]{Zener Diode and Its \boldmath$V$-$I$ Characteristics}\label{sec1.23}
 
@@ -1449,7 +1448,7 @@ Following are the important parameters\index{Zener diode!parameters} of a zener 
 \heading{1.~ Zener Breakdown Voltage, \boldmath$V_{Z}$}
 
 \smallskip
-It is the reverse-bias voltage at which the zener diode enters the break down region, maintaining a constant voltage $V_{Z}$ across the diode.
+It is the reverse-bias voltage at which the zener diode enters the breakdown region, maintaining a constant voltage $V_{Z}$ across the diode.
 
 \medskip
 \heading{2.~ Minimum Reverse Current, \boldmath$I_{ZK}$}
@@ -1482,7 +1481,7 @@ It is the maximum power which the zener diode can dissipate without destruction.
 \heading{6.~ Dynamic Impedance, $Z_{Z}$}
 
 \smallskip
-It defines how $V_{Z}$ charges with variations in diode reverse current. It is defined by
+It defines how $V_{Z}$ changes with variations in diode reverse current. It is defined by
 \begin{equation}
 Z_{Z}=\dfrac{\Delta V_{Z}}{\Delta I_{Z}}
 \end{equation}
@@ -1604,7 +1603,7 @@ Some of the important applications\index{Zener diode!applications} of Zener diod
 Cut-in Voltage : 0.6\,V
 
 \vskip .1cm
-Reverse break down Voltage : 50\,V
+Reverse breakdown Voltage : 50\,V
 
 \vskip .1cm
 Nominal reverse current : 2\,$\mu$A
